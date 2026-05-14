@@ -171,5 +171,275 @@
       {"type": "crafting", "location": "mna:clay_mug"},
       {"type": "manaweaving_altar", "location": "mna:manaweaving/food/mana_coffee"}
     ]
+  },
+  "How to Progress": {
+    "index": 3,
+    "category": "basics",
+    "sections": [
+      {"type": "title", "value": "Как прогрессировать"},
+      {
+        "type": "text",
+        "json": [
+          {"text": ""},
+          {"text": "Оккулус", "color": "blue"},
+          {"text": " — это блок, который поможет вам ориентироваться в этом моде вместе с этой книгой.\n\nОн покажет, что нужно сделать, чтобы разблокировать новые элементы в моде, а также то, что у вас уже разблокировано.\n\nЧтобы узнать, что нужно сделать для прогресса, нажмите на вкладку прогресса.\n\nСчитайте Оккулус списком *"},
+          {"text": "что", "color": "blue"},
+          {"text": "* нужно сделать для прогресса, а эту книгу — инструкцией по *"},
+          {"text": "как", "color": "blue"},
+          {"text": "*.\n\nНе забывайте, что в этой книге есть "},
+          {"text": "функция поиска", "color": "dark_purple"},
+          {"text": " которая поможет легко найти нужную информацию."}
+        ]
+      }
+    ],
+    "related_recipes": [{"location": "mna:occulus", "type": "crafting"}]
+  },
+  "New Villager Types": {
+    "index": 4,
+    "category": "basics",
+    "sections": [
+      {"type": "title", "value": "Новые типы жителей"},
+      {
+        "type": "text",
+        "json": [
+          {"text": "Я не один в своём стремлении к магии. В деревнях по всему миру я вижу других мастеров, торгующих своими товарами. Каждый из них специализируется на разных аспектах магии: от общей магии до ткачества заклинаний в воздухе и ковки могущественных рун для зачарования снаряжения.\n\nЧто касается валюты, я видел, что они просят ртуть, поэтому стоит запастись ею перед торговлей.\n\nХотя я уверен, что смогу завершить свои изыскания и без их помощи."}
+        ]
+      },
+      {"type": "title", "value": "Торговцы заклинаниями", "newPage": true},
+      {
+        "type": "text",
+        "json": [
+          {"text": "Торговцы заклинаниями", "color": "dark_purple"},
+          {"text": " продают полезные "},
+          {"text": "травнические мешочки", "color": "blue"},
+          {"text": " которые содержат случайные магические цветы, "},
+          {"text": "чернила", "color": "blue"},
+          {"text": ", а также "},
+          {"text": "другие распространённые ингредиенты", "color": "blue"},
+          {"text": " которые часто нужны мне для создания заклинаний. Мешочки сделаны из кожи и верёвок, которые я могу использовать повторно после извлечения ингредиентов.\n\nЯ заметил, что торговцам заклинаниями, похоже, нужен "},
+          {"text": "Руноков", "color": "dark_purple"},
+          {"text": " чтобы заниматься своим делом."}
+        ]
+      },
+      {"type": "title", "value": "Ткачи маны", "newPage": true},
+      {
+        "type": "text",
+        "json": [
+          {"text": "Ткачи маны", "color": "dark_purple"},
+          {"text": " продают полезные "},
+          {"text": "мешочки ткачей маны", "color": "blue"},
+          {"text": " которые содержат бутылки с тканью маны для быстрого использования, "},
+          {"text": "фокусы", "color": "blue"},
+          {"text": ", "},
+          {"text": "магические шёлка", "color": "blue"},
+          {"text": " и "},
+          {"text": "чаи", "color": "blue"},
+          {"text": " которые помогают быстрее восстанавливать ману. Мешочки сделаны из кожи и верёвок, которые я могу использовать повторно после извлечения ингредиентов.\n\nЯ заметил, что ткачам маны, похоже, нужен "},
+          {"text": "Алтарь ткачества маны", "color": "dark_purple"},
+          {"text": " чтобы заниматься своим делом."}
+        ]
+      },
+      {"type": "title", "value": "Руноковы", "newPage": true},
+      {
+        "type": "text",
+        "json": [
+          {"text": "Руноковы", "color": "dark_purple"},
+          {"text": " продают полезные "},
+          {"text": "мешочки для надписей", "color": "blue"},
+          {"text": " которые содержат различные руны, "},
+          {"text": "руны меток", "color": "blue"},
+          {"text": ", "},
+          {"text": "другие полезные предметы для изготовления рун и конструкций", "color": "blue"},
+          {"text": ". Мешочки сделаны из кожи и верёвок, которые я могу использовать повторно после извлечения ингредиентов.\n\nЯ заметил, что руноковам, похоже, нужен "},
+          {"text": "Стол для нанесения рун", "color": "dark_purple"},
+          {"text": " чтобы заниматься своим делом."}
+        ]
+      }
+    ],
+    "related_recipes": [
+      {"locations": ["mna:runeforge", "mna:runeforge_alt"], "type": "crafting"},
+      {"location": "mna:runescribing/runescribing_table", "type": "crafting"},
+      {"location": "mna:manaweaving_altar", "type": "crafting"},
+      {"type": "crafting", "location": "mna:runeforge_alt"}
+    ]
+  },
+  "Flowers": {
+    "index": 5,
+    "category": "basics",
+    "sections": [
+      {"type": "title", "value": "Цветы"},
+      {
+        "type": "text",
+        "json": [
+          {"text": "Существуют определённые цветы, растущие по всему миру, которые мне понадобятся для максимально эффективного использования магии. Эти цветы часто используются как реагенты или ингредиенты, поэтому я должен запомнить, где их найти.\n\nВсе эти цветы можно измельчить в красители, некоторые из которых особенно трудно найти другими способами.\n\nЯ также могу торговать с "},
+          {"text": "Торговцами заклинаниями", "color": "blue"},
+          {"text": " в "},
+          {"text": "деревнях", "color": "blue"},
+          {"text": " за "},
+          {"text": "Травнические мешочки", "color": "blue"},
+          {"text": " за эти цветы, если не хочу искать их сам."}
+        ]
+      },
+      {"type": "title", "value": "Аум", "newPage": true},
+      {"type": "item", "location": "mna:aum", "scale": 1},
+      {
+        "type": "text",
+        "json": [
+          {"text": "Иногда его называют \"лилией жизни\", "},
+          {"text": "Аум", "color": "blue"},
+          {"text": " встречается в "},
+          {"text": "лесах и равнинах", "color": "dark_purple"},
+          {"text": ". Часто используется в исцелении и восстановлении, несмотря на крайне горький вкус."}
+        ]
+      },
+      {"type": "title", "value": "Церублоссом", "newPage": true},
+      {"type": "item", "location": "mna:cerublossom", "scale": 1},
+      {
+        "type": "text",
+        "json": [
+          {"text": "Очень распространённый цветок, "},
+          {"text": "Церублоссом", "color": "blue"},
+          {"text": " часто принимается за синюю орхидею с первого взгляда. Однако при ближайшем рассмотрении у него заметно характерное мерцание. Его можно найти в "},
+          {"text": "лесах, равнинах и зимних местах", "color": "dark_purple"},
+          {"text": ". Церублоссом используется в большом количестве магических рецептов. Говорят, что он испускает успокаивающий гул, который могут услышать только маленькие дети."}
+        ]
+      },
+      {"type": "title", "value": "Корень Тармы", "newPage": true},
+      {"type": "item", "location": "mna:tarma_root", "scale": 1},
+      {
+        "type": "text",
+        "json": [
+          {"text": "Корень Тармы", "color": "blue"},
+          {"text": " растёт в больших количествах в "},
+          {"text": "болотах", "color": "dark_purple"},
+          {"text": ". Их острые шипы делают сбор болезненным, а съесть их практически невозможно. Способ, которым эти корни качаются на ветру, породил легенды о том, что они дарят способность летать. Однако это никогда не подтверждалось и считается не более чем легендой."}
+        ]
+      },
+      {"type": "title", "value": "Пустынная Нова", "newPage": true},
+      {"type": "item", "location": "mna:desert_nova", "scale": 1},
+      {
+        "type": "text",
+        "json": [
+          {"text": "Как следует из их названия, "},
+          {"text": "Пустынная Нова", "color": "blue"},
+          {"text": " растёт в "},
+          {"text": "тёплых песчаных регионах", "color": "dark_purple"},
+          {"text": ". Даже в самую холодную пустынную ночь они тёплые на ощупь, и многие используют их, чтобы согреться, держа несколько в карманах."}
+        ]
+      },
+      {"type": "title", "value": "Цветок Пробуждения", "newPage": true},
+      {"type": "item", "location": "mna:wakebloom", "scale": 1},
+      {
+        "type": "text",
+        "json": [
+          {"text": "Цветок Пробуждения", "color": "blue"},
+          {"text": " процветает в "},
+          {"text": "воде", "color": "dark_purple"},
+          {"text": ", растут как маленькие семена на дне океанов и рек, затем всплывают на поверхность и красиво цветут. Они содержат удивительно много воды даже после сбора."}
+        ]
+      }
+    ],
+    "related_recipes": [
+      {"location": "mna:tarma_root_to_brown_dye", "type": "crafting"},
+      {"location": "mna:wakebloom_to_blue_dye", "type": "crafting"},
+      {"location": "mna:desert_nova_to_orange_dye", "type": "crafting"},
+      {"location": "mna:cerublossom_to_purple_dye", "type": "crafting"},
+      {"location": "mna:aum_to_green_dye", "type": "crafting"},
+      {"location": "minecraft:birch_planks", "type": "crafting"}
+    ]
+  },
+  "Ores": {
+    "index": 6,
+    "category": "basics",
+    "sections": [
+      {"type": "title", "value": "Винтеум"},
+      {"type": "text", "value": "Не уверен, что вызывает скопление этой, казалось бы, сгустившейся арканной энергии в некоторых подземных камнях."},
+      {"type": "item", "location": "mna:vinteum_ore", "scale": 1},
+      {"type": "text", "value": "Однако я знаю, что можно переплавить руду в печи, чтобы получить тонкий порошок. Уверен, что у этого порошка есть множество применений."},
+      {"type": "title", "value": "Химерит"},
+      {
+        "type": "text",
+        "json": [
+          {"text": "Не могу поверить, что всё это время оно было у меня под носом — скрытая магическая руда, которую я принимал за лишние кусочки породы при добыче других ценных руд!\n\nЯ называю её Химеритом, потому что она может выглядеть как обычный мусор до тех пор, пока магические чувства не станут достаточно острыми, чтобы её обнаружить.\n\nЕё проще всего найти в изумрудной руде, возможно, это связано со структурой самих изумрудов. Большинство магов смогут обнаружить её даже с небольшим опытом в магии, вероятно, начиная с 5 уровня.\n\nДалее — алмазы. Хотя это не так просто, как с изумрудами, химерит можно найти здесь магам с немного большим опытом, начиная с 10 уровня.\n\nНаконец, уголь. Технически химерит есть и там, но нужно очень тонко настроенное магическое восприятие, чтобы уловить достаточно крупные следы для использования. Скажу честно: маг ниже 20 уровня вряд ли его заметит.\n\nКстати, стоит отметить, что химерит часто разрушается в процессе добычи и не всегда удаётся его извлечь. У изумрудов здесь самый высокий шанс успеха, затем у алмазов, и уже потом у угля. Его можно крафтить в блоки и обратно с помощью верстака."}
+        ]
+      }
+    ],
+    "related_recipes": [
+      {"location": "mna:vinteum_dust_block", "type": "crafting"},
+      {"location": "mna:vinteum_dust_from_block", "type": "crafting"},
+      {"type": "crafting", "location": "mna:chimerite_block"},
+      {"type": "crafting", "location": "mna:chimerite_gem_from_block"},
+      {"type": "crafting", "location": "mna:vinteum_block"},
+      {"type": "crafting", "location": "mna:vinteum_ingot_from_block"}
+    ]
+  },
+  "Early Game Resources": {
+    "index": 7,
+    "category": "basics",
+    "sections": [
+      {"type": "title", "value": "Распространённые ресурсы"},
+      {
+        "type": "text",
+        "json": [
+          {"text": "Я составил список распространённых материалов, которые мне нужны.\nЧто это за материалы и как их получить, указано ниже.\n\nВероятно, это не единственные способы получения этих ресурсов; скорее всего, по мере прогресса откроются более удобные методы."}
+        ]
+      },
+      {"type": "title", "value": "Костяной пепел", "newPage": true},
+      {"type": "item", "location": "mna:bone_ash", "scale": 1},
+      {"type": "text", "value": "Жар рунной кузницы способен перерабатывать кости в тонкий пепел. Я смогу использовать этот пепел для различных магических целей."},
+      {"type": "title", "value": "Трансмутация материалов", "newPage": true},
+      {
+        "type": "item",
+        "locations": ["mna:decoration/arcane_stone", "mna:decoration/arcane_sandstone", "mna:transmuted_silver"],
+        "scale": 1
+      },
+      {"type": "text", "value": "С помощью заклинания трансмутации я могу нацелиться на определённые блоки в мире и превратить их во что-то другое."},
+      {"type": "text", "value": "- Арканный камень получается из камня."},
+      {"type": "text", "value": "- Арканный песчаник получается из песчаника."},
+      {"type": "text", "value": "- Ртуть получается из медных блоков."},
+      {"type": "text", "value": "- Гравий превращается в кремний."},
+      {
+        "type": "text",
+        "json": [
+          {"text": "Подробнее о заклинаниях трансмутации можно прочитать в разделе \"Ткачество маны\" этого кодекса."}
+        ]
+      }
+    ],
+    "related_recipes": [
+      {"location": "mna:transmutation/arcane_stone", "type": "transmutation"},
+      {"location": "mna:transmutation/arcane_sandstone", "type": "transmutation"},
+      {"location": "mna:transmutation/transmuted_silver", "type": "transmutation"},
+      {"location": "mna:transmutation/flint", "type": "transmutation"},
+      {"location": "mna:arcanefurnace/bone_ash", "type": "arcane_furnace"}
+    ]
+  },
+  "Useful Vanilla Recipes": {
+    "index": 8,
+    "category": "basics",
+    "sections": [
+      {"type": "title", "value": "Полезные рецепты ванильного Майкрафта"},
+      {
+        "type": "text",
+        "json": [
+          {"text": "Я нашёл способы магически синтезировать обычные материалы, которые иначе было бы трудно или редко добывать, но которые часто используются в магии.\n\nУверен, я открою ещё больше способов по мере прогресса. Я обязательно перечислю их здесь."}
+        ]
+      },
+      {
+        "type": "text",
+        "json": [
+          {"text": "Доступные рецепты:\n- Кожа\n- Плачущий обсидиан\n- Призмариновый кристалл\n- Осколок призмарина\n- Позолоченный чёрный камень\n- Бирка\n- Ядовитый картофель\n- Седло"}
+        ]
+      }
+    ],
+    "related_recipes": [
+      {"type": "manaweaving_altar", "location": "mna:manaweaving/utility/leather"},
+      {"type": "manaweaving_altar", "location": "mna:manaweaving/utility/crying_obsidian"},
+      {"type": "manaweaving_altar", "location": "mna:manaweaving/utility/prismarine_crystal"},
+      {"type": "manaweaving_altar", "location": "mna:manaweaving/utility/prismarine_shard"},
+      {"type": "manaweaving_altar", "location": "mna:manaweaving/utility/gilded_blackstone"},
+      {"type": "manaweaving_altar", "location": "mna:manaweaving/utility/name_tag"},
+      {"type": "manaweaving_altar", "location": "mna:manaweaving/utility/poisonous_potato"},
+      {"type": "manaweaving_altar", "location": "mna:manaweaving/utility/saddle"}
+    ]
   }
 }
