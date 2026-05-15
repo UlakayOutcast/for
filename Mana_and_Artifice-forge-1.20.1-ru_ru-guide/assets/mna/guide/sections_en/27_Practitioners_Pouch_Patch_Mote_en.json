@@ -1,0 +1,12 @@
+{
+  "Practitioner's Pouch Patch: Mote": {
+    "index": 27,
+    "category": "rituals",
+    "required_advancement": "mna:tier_1/manaweaving_altar",
+    "sections": [
+      {"type": "title", "value": "Practitioner's Pouch Patch: Mote"},
+      {"type": "text", "json": [{"text": "The Mote Patch is an upgrade for the Practitioner's Pouch that enhances its ability to store and organize motes. This patch is ideal for mages who frequently work with motes and need to keep them easily accessible.\n\nTo apply the Mote Patch, I need to combine it with a Practitioner's Pouch in a crafting table. Once applied, the patch will permanently enhance the pouch, providing additional slots specifically for motes.\n\nThe Mote Patch also adds a shimmering effect to the pouch, reflecting the magical nature of the motes it is designed to hold."}]}
+    ],
+    "related_recipes": []
+  }
+}
