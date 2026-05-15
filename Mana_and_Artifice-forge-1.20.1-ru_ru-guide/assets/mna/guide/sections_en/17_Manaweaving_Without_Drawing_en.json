@@ -1,0 +1,12 @@
+{
+  "Manaweaving Without Drawing": {
+    "index": 17,
+    "category": "manaweaving",
+    "required_advancement": "mna:tier_0/vinteum_bar",
+    "sections": [
+      {"type": "title", "value": "Manaweaving Without Drawing"},
+      {"type": "text", "json": [{"text": "While the manaweaving altar is a powerful tool for weaving spells, it is not always convenient to carry it around with me. Fortunately, there are other ways to weave spells without the need for a spell focus or the altar.\n\nThe first way is to use a spell focus. Spell foci come in many different forms, such as staves, wands, and bangles. Each one allows me to weave spells in a different way, and can be used to create a variety of different spells.\n\nThe second way is to use a spell book. Spell books allow me to store spells that I have already woven, and can be used to quickly cast those spells without the need for a spell focus or the altar.\n\nThe third way is to use an improvised manaweaving wand. Improvised manaweaving wands are a quick and easy way to cast spells without the need for a spell focus, and can be used in a variety of situations.\n\nEach of these methods has its own advantages and disadvantages, and can be used to weave a variety of different spells."}]}
+    ],
+    "related_recipes": []
+  }
+}
