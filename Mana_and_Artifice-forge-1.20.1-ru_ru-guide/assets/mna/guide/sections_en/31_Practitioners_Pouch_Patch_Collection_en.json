@@ -1,0 +1,12 @@
+{
+  "Practitioner's Pouch Patch: Collection": {
+    "index": 31,
+    "category": "rituals",
+    "required_advancement": "mna:tier_1/manaweaving_altar",
+    "sections": [
+      {"type": "title", "value": "Practitioner's Pouch Patch: Collection"},
+      {"type": "text", "json": [{"text": "The Collection Patch is an upgrade for the Practitioner's Pouch that enhances its ability to store a wide variety of items, making it ideal for mages who need to collect and organize diverse magical components.\n\nTo apply the Collection Patch, I need to combine it with a Practitioner's Pouch in a crafting table. Once applied, the patch will permanently enhance the pouch, providing additional slots for a broader range of items.\n\nThe Collection Patch also adds a mosaic-like design to the pouch, symbolizing its ability to hold a variety of items."}]}
+    ],
+    "related_recipes": []
+  }
+}
