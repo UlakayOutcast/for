@@ -1,0 +1,11 @@
+{
+  "Sided Inventories": {
+    "index": 12,
+    "category": "basics",
+    "sections": [
+      {"type": "title", "value": "Sided Inventories"},
+      {"type": "text", "json": [{"text": "I've noticed that I have a few extra inventories on my person. These seem to be tied to various actions I can perform.\n\nThe first is my spell inventory. This is where I can store spells that I've created. I can access this inventory by pressing the 'R' key by default.\n\nThe second is my codex inventory. This is where I can store items that I want to keep track of in this codex. I can access this inventory by pressing the 'C' key by default.\n\nThe third is my spell book inventory. This is where I can store spell books that I've created. I can access this inventory by pressing the 'B' key by default.\n\nI can change these keys in the controls menu."}]}
+    ],
+    "related_recipes": []
+  }
+}
