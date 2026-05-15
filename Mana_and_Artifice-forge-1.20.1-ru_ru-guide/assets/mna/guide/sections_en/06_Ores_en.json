@@ -1,0 +1,15 @@
+{
+  "Ores": {
+    "index": 6,
+    "category": "basics",
+    "sections": [
+      {"type": "title", "value": "Vinteum"},
+      {"type": "text", "value": "I'm not sure what causes this seemingly coalesced arcane energy to gather in certain stones underground."},
+      {"type": "item", "location": "mna:vinteum_ore", "scale": 1},
+      {"type": "text", "value": "I do know though that I can run the ore through a furnace to turn it into a fine powder. I'm sure there are a very large number of uses for such a thing."},
+      {"type": "title", "value": "Chimerite"},
+      {"type": "text", "json": [{"text": "I can't believe it's been under my nose this whole time - a hidden magical ore that I mistook for excess bits of rock when mining other valuable ores! \n\nI call it Chimerite because it can look just like mining debris until one's magical senses are honed to be able to detect it. \n\nIt's easiest to find in emerald ore, something to do with the structure of emeralds themselves. Most mages will be able to sense these with only a little bit of magical experience, probably mages that are at least level 5. \n\nNext are diamonds. While not as easy as emeralds, chimerite can be found here by mages with a little bit more experience, above level 10. \n\nLastly is coal. Chimerite is technically there in trace elements, but it takes a finely tuned magical mind to pick up the traces that are large enough to be useable. I would say no mage under level 20 would see it. \n\nOn that point, I should note that the chimerite is also often destroyed as part of the mining process, and isn't always retrievable from every mining attempt. Emeralds seem to have the best success rate here, followed by diamonds, and then again by coal. It can be crafted into blocks and back using a crafting table."}]}
+    ],
+    "related_recipes": [{"location": "mna:vinteum_dust_block", "type": "crafting"}, {"location": "mna:vinteum_dust_from_block", "type": "crafting"}, {"type": "crafting", "location": "mna:chimerite_block"}, {"type": "crafting", "location": "mna:chimerite_gem_from_block"}, {"type": "crafting", "location": "mna:vinteum_block"}, {"type": "crafting", "location": "mna:vinteum_ingot_from_block"}]
+  }
+}
