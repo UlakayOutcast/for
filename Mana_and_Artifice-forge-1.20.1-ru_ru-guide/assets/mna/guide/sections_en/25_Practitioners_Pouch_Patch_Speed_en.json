@@ -1,0 +1,12 @@
+{
+  "Practitioner's Pouch Patch: Speed": {
+    "index": 25,
+    "category": "rituals",
+    "required_advancement": "mna:tier_1/manaweaving_altar",
+    "sections": [
+      {"type": "title", "value": "Practitioner's Pouch Patch: Speed"},
+      {"type": "text", "json": [{"text": "The Speed Patch is an upgrade for the Practitioner's Pouch that enhances its ability to quickly access stored items. This patch is ideal for mages who need to retrieve components or tools rapidly during spellcasting or rituals.\n\nTo apply the Speed Patch, I need to combine it with a Practitioner's Pouch in a crafting table. Once applied, the patch will permanently enhance the pouch, allowing for faster access to its contents.\n\nThe Speed Patch also adds a sleek, streamlined design to the pouch, making it easily recognizable."}]}
+    ],
+    "related_recipes": []
+  }
+}
