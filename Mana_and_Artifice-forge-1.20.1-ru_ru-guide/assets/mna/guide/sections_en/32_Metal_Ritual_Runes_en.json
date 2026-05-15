@@ -1,0 +1,12 @@
+{
+  "Metal Ritual Runes": {
+    "index": 32,
+    "category": "rituals",
+    "required_advancement": "mna:tier_1/manaweaving_altar",
+    "sections": [
+      {"type": "title", "value": "Metal Ritual Runes"},
+      {"type": "text", "json": [{"text": "Metal Ritual Runes are special blocks used to enhance and modify rituals. They can be crafted using various metals and are placed around the ritual setup to amplify its effects or change its properties.\n\nEach type of metal used in the rune can have different effects on the ritual. For example, gold runes might enhance the ritual's power, while iron runes might increase its duration.\n\nTo craft a Metal Ritual Rune, I need to use a manaweaving altar. The specific materials required will depend on the type of rune I want to create.\n\nMetal Ritual Runes are essential for advanced rituals and can significantly enhance the effects of my magic."}]}
+    ],
+    "related_recipes": []
+  }
+}
