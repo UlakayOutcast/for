@@ -1,0 +1,52 @@
+"Component: Gust": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Gust"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "While breaking blocks is a useful tool with earth magic, I can use air magic for a more gentle effect. This will "
+        },
+        {
+          "text": "clear out grass, leaves, plants, and snow",
+          "color": "dark_purple"
+        },
+        {
+          "text": " while leaving the dirt and stone intact.\n\nTargeting "
+        },
+        {
+          "text": "creatures",
+          "color": "dark_purple"
+        },
+        {
+          "text": " on the other hand, the gust is much stronger.  It will "
+        },
+        {
+          "text": "launch them directly into the air",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nIf I make the gust slow enough, I can "
+        },
+        {
+          "text": "gently clean away sand and small stones",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".  This may help me find lost treasures that might otherwise be destroyed by more brutish means."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/gust"
+    }
+  ]
+}

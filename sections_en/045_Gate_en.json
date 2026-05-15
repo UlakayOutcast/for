@@ -1,0 +1,64 @@
+"Gate": {
+  "index": 0,
+  "category": "rituals",
+  "tier": 4,
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ritual of the Gate"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This ritual will find a "
+        },
+        {
+          "text": "Waystone",
+          "color": "blue"
+        },
+        {
+          "text": " with the matching rune combination and open a short-lived portal to it. \n\nStepping through the portal will teleport me instantly to that location. \n\nUnlike the "
+        },
+        {
+          "text": "Ritual of Return",
+          "color": "blue"
+        },
+        {
+          "text": ", this portal will remain open until a "
+        },
+        {
+          "text": "Rune of Marking",
+          "color": "blue"
+        },
+        {
+          "text": " is thrown into it. \n\nOptionally, adding a dye to the center will change the color of the portal. \n\nRemember, "
+        },
+        {
+          "text": "a portal will never teleport a sneaking target",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nIf I replace the dye with a "
+        },
+        {
+          "text": "Greater Ender Mote ",
+          "color": "blue"
+        },
+        {
+          "text": ", the portal will open and will teleport those that walk through it to a random position."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "ritual",
+      "location": "mna:rituals/homestead"
+    },
+    {
+      "type": "ritual",
+      "location": "mna:rituals/gate"
+    }
+  ]
+}

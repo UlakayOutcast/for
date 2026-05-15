@@ -1,0 +1,24 @@
+"Brazier": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Brazier"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This brazier can be lit/doused as normal, however it also has a minor enchantment on it that can be activated to have it light up when night falls.  Activate the brazier while crouching to toggle this mode on or off."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:brazier"
+    }
+  ]
+}

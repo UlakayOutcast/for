@@ -1,0 +1,35 @@
+"Component: Leap": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Leap"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I've figured out how I can channel currents of air around myself to "
+        },
+        {
+          "text": "launch me higher into the air whenever I jump",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". I'll need to be careful of what's below me when I land, and how far I fall.\n\n"
+        },
+        {
+          "text": "M&A fixes the jump boost effect so a forward boost is applied as well, essentially maintaining momentum.",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/leap"
+    }
+  ]
+}

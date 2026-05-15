@@ -1,0 +1,59 @@
+"Component: Telekinesis": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Telekinesis"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This spell, if "
+        },
+        {
+          "text": "cast on myself",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", will give me an "
+        },
+        {
+          "text": "extended range of interaction",
+          "color": "dark_purple"
+        },
+        {
+          "text": " for a brief time. If "
+        },
+        {
+          "text": "cast at a location",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", it will "
+        },
+        {
+          "text": "pull small items in",
+          "color": "dark_purple"
+        },
+        {
+          "text": " towards that location. If I set the precision high enough, I can "
+        },
+        {
+          "text": "grab weaker enemies with it ",
+          "color": "dark_purple"
+        },
+        {
+          "text": "and toss them around."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/telekinesis"
+    }
+  ]
+}

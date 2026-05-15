@@ -1,0 +1,24 @@
+"Rune: Air": {
+  "index": 0,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Rune: Air"
+    },
+    {
+      "type": "text",
+      "value": "The air rune pattern is used to apply enchantments focusing around the element of air."
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/runescribe_air"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/runeforge_air"
+    }
+  ]
+}

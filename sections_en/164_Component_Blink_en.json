@@ -1,0 +1,31 @@
+"Component: Blink": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Blink"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This component causes the target to "
+        },
+        {
+          "text": "jump forward through space, passing through blocks if possible",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". It will not force them inside of a wall, for example."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/blink"
+    }
+  ]
+}

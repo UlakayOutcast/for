@@ -1,0 +1,20 @@
+"Component: Transmute": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Transmute"
+    },
+    {
+      "type": "text",
+      "value": "A spellcasting version of the cantrip most wizards learn as their first trick, this allows me to convert various resources within the world into other ones."
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/transmute"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+"Component: Backdraft": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Backdraft"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This spell takes a burning fire on a target and consumes it, instantly dealing a "
+        },
+        {
+          "text": "large amount of fire damage based on the amount of burn time remaining",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".  The "
+        },
+        {
+          "text": "fire is spread to other nearby targets",
+          "color": "dark_purple"
+        },
+        {
+          "text": " by the combustion.\n\nThis spell is only craftable by those that have aligned themselves with the "
+        },
+        {
+          "text": "Demons of the Nether",
+          "color": "dark_red"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/backdraft"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+"Mending": {
+  "index": 0,
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Mending"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Mending enchantment "
+        },
+        {
+          "text": "uses xp (experience) to mend your equipped tools, weapons and armor",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". Each time you gain experience by killing mobs or mining certain items, the experience earned will automatically be used to repair any damaged tools, weapons or armor that you have equipped (and are enchanted with Mending)."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/mending"
+    }
+  ]
+}

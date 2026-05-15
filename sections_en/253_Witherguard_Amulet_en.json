@@ -1,0 +1,38 @@
+"Witherguard Amulet": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Witherguard Amulet"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This amulet, when worn, will "
+        },
+        {
+          "text": "protect me from wither",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", the nefarious effects caused by the aptly named Wither and its skeletal minions as long as it has charge. \n\nIt can make use of "
+        },
+        {
+          "text": "Mana Gem Fragments",
+          "color": "blue"
+        },
+        {
+          "text": " and their upgrades that are in my pack in order to extend its charge."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/witherguard_amulet"
+    }
+  ]
+}

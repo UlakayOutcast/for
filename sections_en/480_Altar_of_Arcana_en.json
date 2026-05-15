@@ -1,0 +1,63 @@
+"Altar of Arcana": {
+  "index": "0",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Altar of Arcana"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "It can be tedious to place the "
+        },
+        {
+          "text": "Ritual of Arcana ",
+          "color": "blue"
+        },
+        {
+          "text": "all the time.  That's why I've come up with the idea of the "
+        },
+        {
+          "text": "Altar of Arcana. ",
+          "color": "blue"
+        },
+        {
+          "text": "all I need to do is "
+        },
+        {
+          "text": "put the items for the spell in one or more nearby containers ",
+          "color": "dark_purple"
+        },
+        {
+          "text": "as well as "
+        },
+        {
+          "text": "put the spell recipe and a ",
+          "color": "dark_purple"
+        },
+        {
+          "text": "Vellum, Staff, Wand, or Bangle ",
+          "color": "blue"
+        },
+        {
+          "text": "into the altar and start it.  It will perform the crafting for me.  Of course I can still use the "
+        },
+        {
+          "text": "Ritual of Arcana ",
+          "color": "blue"
+        },
+        {
+          "text": "as I have before, this is merely a convenience.  Spells inscribed on vellum can be placed into a spell book for storage convenience, whereas the other mediums can accept enchantments which can potentially increase the efficacy of the spell within."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/altar_of_arcana"
+    }
+  ]
+}

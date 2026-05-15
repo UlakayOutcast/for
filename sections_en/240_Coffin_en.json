@@ -1,0 +1,38 @@
+"Coffin": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Coffin"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "A coffin functions like a bed but only for those that have joined the ranks of the "
+        },
+        {
+          "text": "Undead",
+          "color": "dark_gray"
+        },
+        {
+          "text": ".\nSleeping in this coffin restores a portion of the souls that the undead use to fuel their spells, though sleeping too soon after a previous night's rest will not give as many souls as would be restored if more time had passed.\n\nThis coffin can only be crafted by those that have allied themselves with the "
+        },
+        {
+          "text": "Undead",
+          "color": "dark_gray"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/coffin"
+    }
+  ]
+}

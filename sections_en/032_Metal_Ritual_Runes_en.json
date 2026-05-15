@@ -1,0 +1,36 @@
+"Metal Ritual Runes": {
+  "index": -1,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Metal Ritual Runes"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "It may be desirable to have certain rituals not remove their ritual runes when completing.\nCreating the ritual pattern out of metal ritual runes will achieve this goal. \n\n"
+        },
+        {
+          "text": "I can mix and match metal and non-metal ritual runes together in the same ritual.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:runescribing/runescribing_table"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:rune_clay_plate"
+    },
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/runescribe_metal_ritual_rune"
+    }
+  ]
+}

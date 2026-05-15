@@ -1,0 +1,31 @@
+"Component: Splash": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Splash"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This spell "
+        },
+        {
+          "text": "creates water at the target location, or soaks a target",
+          "color": "dark_purple"
+        },
+        {
+          "text": " that is hit. If I am more precise, I can prevent the creation of water at the target position."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/splash"
+    }
+  ]
+}

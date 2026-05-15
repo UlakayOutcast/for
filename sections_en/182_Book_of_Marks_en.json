@@ -1,0 +1,38 @@
+"Book of Marks": {
+  "index": -93,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Book of Marks"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The book of marks allows me to place several marks within it and switch between them for convenience. It will work with spells that use "
+        },
+        {
+          "text": "Runes of Marking",
+          "color": "blue"
+        },
+        {
+          "text": " such as "
+        },
+        {
+          "text": "Recall",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:book_of_marks"
+    }
+  ]
+}

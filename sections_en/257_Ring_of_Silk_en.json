@@ -1,0 +1,35 @@
+"Ring of Silk": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ring of Silk"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This ring, when worn, will enhance my "
+        },
+        {
+          "text": "break",
+          "color": "blue"
+        },
+        {
+          "text": " spells to be more delicate, "
+        },
+        {
+          "text": "allowing me to harvest things I wouldn't normally be able to otherwise.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/silk_touch_ring"
+    }
+  ]
+}

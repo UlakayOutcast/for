@@ -1,0 +1,46 @@
+"Summoning": {
+  "index": 0,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ritual of Summoning"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This ritual will use a "
+        },
+        {
+          "text": "Player Charm",
+          "color": "blue"
+        },
+        {
+          "text": " to open a portal at that player's current location, provided they are in the same dimension, or a dimension specified by an optional "
+        },
+        {
+          "text": "World Charm",
+          "color": "blue"
+        },
+        {
+          "text": ".\n\nThat portal will allow the player to step through and teleport to the location that the ritual was performed."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "ritual",
+      "location": "mna:rituals/summon"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/rituals/player_charm"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/rituals/world_charm"
+    }
+  ]
+}

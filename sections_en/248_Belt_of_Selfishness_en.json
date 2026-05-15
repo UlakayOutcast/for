@@ -1,0 +1,38 @@
+"Belt of Selfishness": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Belt of Selfishness"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This belt, when worn, "
+        },
+        {
+          "text": "causes aura enchantments to only affect me",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "cost less mana",
+          "color": "dark_purple"
+        },
+        {
+          "text": " while doing so."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/belt_of_selfishness"
+    }
+  ]
+}

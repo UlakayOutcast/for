@@ -1,0 +1,28 @@
+"Ancient Stone": {
+  "index": 0,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ritual of Ancient Stone"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This ritual coalesces the elements of earth and nature into an essence. \n"
+        },
+        {
+          "text": "It can only be performed while far underground, where the deepslate resides.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "ritual",
+      "location": "mna:rituals/ancient_stone"
+    }
+  ]
+}

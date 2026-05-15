@@ -1,0 +1,31 @@
+"Component: Earthsky": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Earthsky"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Using some rudimentary mix of air and earth magic, I can cause simple "
+        },
+        {
+          "text": "blocks to  float upwards into the sky",
+          "color": "dark_purple"
+        },
+        {
+          "text": " for a short duration before locking in place.\n\n...because what self-respecting wizard *wouldn't* want a floating island in the sky?"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/earthsky"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+"Component: Spectral Anvil": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Summon Spectral Anvil"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can "
+        },
+        {
+          "text": "conjure a phantasmal anvil",
+          "color": "dark_purple"
+        },
+        {
+          "text": " that will allow me to repair and combine items at it for a short duration, as with a normal anvil. \n\nI'm able to effortlessly maintain the anvil as long as I or any other person is close to it, But otherwise it will fade after twenty seconds. \n\nAlternately, if I simply cast the component on myself, I can create a small anvil that only I can use immediately, and it will dissipate the moment I am done with it."
+        },
+        {
+          "text": "\n\nIf I cast this spell on a "
+        },
+        {
+          "text": "Metal Ritual Rune",
+          "color": "blue"
+        },
+        {
+          "text": ", the effect will become permanent at that location, until broken manually."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/spectral_anvil"
+    }
+  ]
+}

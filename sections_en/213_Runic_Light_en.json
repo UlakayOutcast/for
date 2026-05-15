@@ -1,0 +1,20 @@
+"Runic Light": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Runic Light"
+    },
+    {
+      "type": "text",
+      "value": "The runic light is a decoration block that gives a rustic magical feel wherever it is placed."
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:runic_light"
+    }
+  ]
+}

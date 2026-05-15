@@ -1,0 +1,38 @@
+"Ring of the Enderman": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ring of the Enderman"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "After studying the capabilities of Endermen, I have devised a recipe for a ring that will "
+        },
+        {
+          "text": "enhance my blink spells to teleport me to where the shape targets",
+          "color": "dark_purple"
+        },
+        {
+          "text": " instead of forward. \n\nWhen teleporting in this way, the effective range of my blink spell is also doubled. \n\nIf I target air, it will function as the default spell, teleporting me forward.\n\nIf I target a creature, I will be teleported behind that creature.\n\nThis ring, similar to the "
+        },
+        {
+          "text": "Ring of the Skies, ",
+          "color": "blue"
+        },
+        {
+          "text": "will also allow me to cast more times in the air before needing to touch the ground."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/blink_precision_ring"
+    }
+  ]
+}

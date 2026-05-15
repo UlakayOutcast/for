@@ -1,0 +1,30 @@
+"Aura Depths": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Aura of the Depths"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This aura will periodically drain my mana in order to make me more attuned to activities underwater.  "
+        },
+        {
+          "text": "Nearby allies and I will be able to breathe underwater, see better underwater, and swim faster",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/aura/depths"
+    }
+  ]
+}

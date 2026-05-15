@@ -1,0 +1,40 @@
+"Piercing": {
+  "index": 0,
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Piercing"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Piercing enchantment "
+        },
+        {
+          "text": "allows the arrow fired from a crossbow to pierce through multiple entities.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/piercing_i"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/piercing_ii"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/piercing_iii"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/piercing_iv"
+    }
+  ]
+}

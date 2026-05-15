@@ -1,0 +1,20 @@
+"Modifier: Radius": {
+  "index": "3",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Radius"
+    },
+    {
+      "type": "text",
+      "value": "I can change the formula of the spell to allow me to affect a larger area.  The strain is sometimes staggering, but there's nothing quite so satisfying as a huge fireball."
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:modifiers/radius"
+    }
+  ]
+}

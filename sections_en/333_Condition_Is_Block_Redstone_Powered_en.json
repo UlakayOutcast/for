@@ -1,0 +1,39 @@
+"Condition: Is Block Redstone Powered": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Condition: Is Block Redstone Powered"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This condition will check "
+        },
+        {
+          "text": "if the specified block is receiving a redstone signal of the given strength or more",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", returning "
+        },
+        {
+          "text": "success ",
+          "color": "dark_green"
+        },
+        {
+          "text": "if it is, and "
+        },
+        {
+          "text": "failure ",
+          "color": "dark_red"
+        },
+        {
+          "text": "if it is not."
+        }
+      ]
+    }
+  ]
+}

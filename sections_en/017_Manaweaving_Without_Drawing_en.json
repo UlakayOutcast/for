@@ -1,0 +1,140 @@
+"Manaweaving Without Drawing": {
+  "index": 5,
+  "category": "manaweaving",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Manaweave Projectors"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "If I'm either unwilling or unable to draw manaweave patterns manually, I can craft a "
+        },
+        {
+          "text": "Manaweave Projector",
+          "color": "blue"
+        },
+        {
+          "text": ". \n\nThese devices, when placed, will draw mana from wizards within 2 blocks. When full, it will have drawn in "
+        },
+        {
+          "text": "100 mana",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nActivating the block when full will cause it to emit the current pattern. \n\nActivating the block with a "
+        },
+        {
+          "text": "Manaweave Pattern Item",
+          "color": "blue"
+        },
+        {
+          "text": " will change the pattern that is emitted.  These can be obtained by "
+        },
+        {
+          "text": "exploring",
+          "color": "blue"
+        },
+        {
+          "text": " or by trading with "
+        },
+        {
+          "text": "Manaweaver Villagers",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Bottled Manaweaves"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Once drawn and in the world, I can "
+        },
+        {
+          "text": "bottle",
+          "color": "dark_purple"
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "manaweave pattern",
+          "color": "blue"
+        },
+        {
+          "text": " by activating it with a plain bottle in my hand. \n\nI can then "
+        },
+        {
+          "text": "throw it like a potion",
+          "color": "dark_purple"
+        },
+        {
+          "text": " or a snowball, and it will release the manaweave where it lands. \n\nI can "
+        },
+        {
+          "text": "bottle manaweaves directly into a bottle",
+          "color": "dark_purple"
+        },
+        {
+          "text": " sitting on a "
+        },
+        {
+          "text": "pedestal",
+          "color": "blue"
+        },
+        {
+          "text": " if they're drawn nearby. \n\n"
+        },
+        {
+          "text": "Setting up a construct",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to place empty bottles, activate a projector charged by one or more mana pylons, then remove the captured manaweave in a bottle and place it in some kind of storage container sounds like a "
+        },
+        {
+          "text": "good way to automate",
+          "color": "dark_purple"
+        },
+        {
+          "text": " this process."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "location": "mna:vinteum_manaweaver_wand",
+      "type": "crafting"
+    },
+    {
+      "location": "mna:chimerite_manaweaver_wand",
+      "type": "crafting"
+    },
+    {
+      "location": "mna:manaweave_projector",
+      "type": "crafting"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:runeforging/stone_pedestal"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:runeforging/stone_pedestal_with_sign"
+    },
+    {
+      "type": "crafting",
+      "location": "minecraft:glass_bottle"
+    }
+  ]
+}

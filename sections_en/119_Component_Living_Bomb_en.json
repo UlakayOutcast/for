@@ -1,0 +1,45 @@
+"Component: Living Bomb": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Living Bomb"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can ignite my target into a living bomb. They will "
+        },
+        {
+          "text": "take periodic fire damage",
+          "color": "dark_purple"
+        },
+        {
+          "text": " based on the magnitude of the spell. \n\n"
+        },
+        {
+          "text": "If they die while under the effect of this spell, they will explode",
+          "color": "dark_purple"
+        },
+        {
+          "text": " based on the magnitude of the spell. This explosion will also "
+        },
+        {
+          "text": "cause any targets hit by it to then be affected by Living Bomb",
+          "color": "dark_purple"
+        },
+        {
+          "text": " as well, though a weaker version of it."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/living_bomb"
+    }
+  ]
+}

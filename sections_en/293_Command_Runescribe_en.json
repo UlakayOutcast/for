@@ -1,0 +1,39 @@
+"Command: Runescribe": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Runescribe"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to attempt to "
+        },
+        {
+          "text": "chisel a pattern",
+          "color": "dark_purple"
+        },
+        {
+          "text": " specified into a blank rune pattern at the given "
+        },
+        {
+          "text": "Runescribing Table",
+          "color": "blue"
+        },
+        {
+          "text": ". \n\nIt requires a pattern already be present in the table. \n\nThe Runescribing Recipe in the table itself is used to determine which pattern is scribed. \n\nThis will "
+        },
+        {
+          "text": "require a hammer arm on the Construct",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". The better the material, the faster the construct will work."
+        }
+      ]
+    }
+  ]
+}

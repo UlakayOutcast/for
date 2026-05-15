@@ -1,0 +1,262 @@
+"Elemental Sentries": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Elemental Sentries"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Elemental Sentries",
+          "color": "blue"
+        },
+        {
+          "text": " are enchanted spell books, drawn with several runes using wizard chalk, then sprinkled with vinteum dust, and lastly combined with something representing their affinity."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Powered by elemental energies, such as those generated from an "
+        },
+        {
+          "text": "Eldrin Fume Filter",
+          "color": "blue"
+        },
+        {
+          "text": ", these powerful stationary guardians will launch elemental bolts at their targets when in range and in sight."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "While they contain simplistic targeting of standard monsters by default, much more granular targeting can be obtained by using a "
+        },
+        {
+          "text": "Seer Stone",
+          "color": "blue"
+        },
+        {
+          "text": " right next to the "
+        },
+        {
+          "text": "Elemental Sentry",
+          "color": "blue"
+        },
+        {
+          "text": ". This will cause the Elemental Sentry to"
+        },
+        {
+          "text": " target whatever the Seer Stone is targeting",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Arcane Sentries",
+          "color": "blue"
+        },
+        {
+          "text": " fire very slowly but deal very high magic damage. \n\nThey consume "
+        },
+        {
+          "text": "Arcane Eldrin Power",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Ender Sentries",
+          "color": "blue"
+        },
+        {
+          "text": " fire very slowly but "
+        },
+        {
+          "text": "teleport hit targets",
+          "color": "dark_purple"
+        },
+        {
+          "text": " 10 blocks backwards in the direction the projectile is traveling.  This can teleport the target through walls. \n\nThey consume "
+        },
+        {
+          "text": "Ender Eldrin Power",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Water Sentries",
+          "color": "blue"
+        },
+        {
+          "text": " fire very slowly but deal "
+        },
+        {
+          "text": "minor damage and apply a very powerful slow",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". They consume "
+        },
+        {
+          "text": "Water Eldrin Power",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Wind Sentries",
+          "color": "blue"
+        },
+        {
+          "text": " fire at a moderate speed but apply a "
+        },
+        {
+          "text": "levitation effect",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to targets. They consume "
+        },
+        {
+          "text": "Wind Eldrin Power",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Earth Sentries",
+          "color": "blue"
+        },
+        {
+          "text": " fire "
+        },
+        {
+          "text": "very quickly",
+          "color": "dark_purple"
+        },
+        {
+          "text": " and deal "
+        },
+        {
+          "text": "low physical damage",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". They consume "
+        },
+        {
+          "text": "Earth Eldrin Power",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Fire Sentries",
+          "color": "blue"
+        },
+        {
+          "text": " fire "
+        },
+        {
+          "text": "very quickly",
+          "color": "dark_purple"
+        },
+        {
+          "text": " and deal "
+        },
+        {
+          "text": "low fire damage",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". They consume "
+        },
+        {
+          "text": "Fire Eldrin Power",
+          "color": "blue"
+        },
+        {
+          "text": ". These sentry projectiles "
+        },
+        {
+          "text": "do not ignite blocks",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/arcane_sentry"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/earth_sentry"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/ender_sentry"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/fire_sentry"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/water_sentry"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/wind_sentry"
+    }
+  ]
+}

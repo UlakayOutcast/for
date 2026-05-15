@@ -1,0 +1,303 @@
+"Sided Inventories": {
+  "index": 12,
+  "category": "basics",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Automation: Sided Inventories"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Sided Inventories determine which sides of inventories can accept items. This is important, because when marking a block with a "
+        },
+        {
+          "text": "Rune of Marking",
+          "color": "blue"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "the side is also stored as well as the location",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". Other mods that use automation can also make use of this functionality. The following is an explanation of which blocks input/output on which sides."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Runescribing Table"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Runescribing Table",
+          "color": "blue"
+        },
+        {
+          "text": " can insert and extract hammers, chisels, and clay from all horizontal sides. Patterns can be inserted and extracted from the top, and pattern guides can be inserted and extracted from the bottom.\n\n"
+        },
+        {
+          "text": "Sneaking while activating the Runescribing Table will allow you to store/retrieve Runesmith Hammers without needing to open the GUI.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Runic Anvil"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Runic Anvil",
+          "color": "blue"
+        },
+        {
+          "text": " will accept items from any side, and provide items from any side."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Runeforge"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Runeforge",
+          "color": "blue"
+        },
+        {
+          "text": " will accept items from any side "
+        },
+        {
+          "text": "if it is empty",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". It will provide items from any side "
+        },
+        {
+          "text": "as long as it isn't currently cooking",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Affinity Tinker Table"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Affinity Tinker Table",
+          "color": "blue"
+        },
+        {
+          "text": " will accept spells for processing from any horizontal side "
+        },
+        {
+          "text": "if it is empty",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". It will allow extraction of resulting items from the top and bottom "
+        },
+        {
+          "text": "as long as it isn't currently processing",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Disenchanter"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Disenchanter",
+          "color": "blue"
+        },
+        {
+          "text": " will accept items for processing and projection runes from any side, and projection runes from the top and bottom "
+        },
+        {
+          "text": "if the corresponding slot is empty",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". It will allow extraction of projection runes from the top and bottom, and source items from horizontal sides "
+        },
+        {
+          "text": "as long as it isn't currently processing",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Eldrin Fume Filter"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Eldrin Fume Filter",
+          "color": "blue"
+        },
+        {
+          "text": " will accept fuel from horizontal sides and motes from the top and bottom. It will allow extraction of items "
+        },
+        {
+          "text": "as long as it isn't currently processing",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Inscription Table"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Inscription Table",
+          "color": "blue"
+        },
+        {
+          "text": " will accept paper, ink, and arcane ash from any horizontal side. It will allow extraction of items from all horizontal sides, and spell recipes from the top/bottom, "
+        },
+        {
+          "text": "as long as it isn't currently processing",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Study Desk"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Study Desk",
+          "color": "blue"
+        },
+        {
+          "text": " will accept Torn Journal Fragments, Arcane Theses, and Charged Staves, Wands, or Bangles from any side. The same goes for extraction, "
+        },
+        {
+          "text": "as long as it isn't currently processing",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Thesis Desk"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Thesis Desk",
+          "color": "blue"
+        },
+        {
+          "text": " will accept Arcanist Ink and Vellum from any horizontal side. The same goes for extraction with the addition of output items from the top and bottom, "
+        },
+        {
+          "text": "as long as it isn't currently processing",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Transcription Table"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Transcription Table",
+          "color": "blue"
+        },
+        {
+          "text": " will accept Arcanist Ink, Lapis, and Runes/Staves/Vellum from any side. The same goes for extraction with the exception of output items only from the top and bottom, "
+        },
+        {
+          "text": "as long as it isn't currently processing",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ]
+}

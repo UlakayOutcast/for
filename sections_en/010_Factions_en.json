@@ -1,0 +1,389 @@
+"Factions": {
+  "index": 10,
+  "category": "basics",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Factions"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "If I want to continue my journey through the world of the arcane, I will need to choose a faction.  Only they can provide the knowledge I seek.\n\nThis is given to me as a choice of a series of tasks to complete. I must choose wisely. \nMy faction, once chosen, cannot be changed."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Once I choose a faction, I will make enemies out of the other ones.  Their troops, which can be found throughout the various worlds will become hostile to me.\n\nHowever, I do not stand alone.  My own faction's mobs will come to my aid if they see me in trouble."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "My faction gives me access to unique relics and spell parts, and each faction gains special abilities from certain enchantments placed on spell focus items such as staves, bangles, or wands.\n\nThe occulus shows these items by putting a badge representing the appropriate faction on the item's card. \n\nI cannot craft the spells and artifacts from the other factions, however I can trade for them either by doing the Ritual of the Iron Bell, or by simply trading with other wizards in a collaborative environment."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Though I must take care: using spells and relics from the other factions will eventually cause them to raid me, which involves them sending very powerful assassins after me. \n\nThese assassins have more devastating abilities than their commonly found counterparts, and will prove significantly tougher to defeat. They will also learn from their fights against me and will become more difficult over time. \n\nIf they manage to defeat me, the fights will become easier."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The factions and their general feel are described below."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "The Demons of the Nether",
+      "newPage": true
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Demons of the Nether",
+          "color": "dark_red"
+        },
+        {
+          "text": " have a focus on all-out offense.\n\nThey trade in mana for a new resource called "
+        },
+        {
+          "text": "Brimstone",
+          "color": "dark_red"
+        },
+        {
+          "text": ".\n\nBrimstone recharges "
+        },
+        {
+          "text": "faster",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in biomes where "
+        },
+        {
+          "text": "snow golems would burn",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "slower",
+          "color": "dark_purple"
+        },
+        {
+          "text": " where it would "
+        },
+        {
+          "text": "snow instead of rain",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nBrimstone also allows higher modifiers for Damage, Radius, and Range, and lowers spell cooldowns by 25%.\n\nBrimstone will consume hearts if mana is insufficient to fuel spells and certain other effects. This health consumption does not apply to passive effects. This health consumption can kill the caster in more challenging worlds.\n\nDemon relics include items such as the "
+        },
+        {
+          "text": "Hellfire Staff",
+          "color": "dark_red"
+        },
+        {
+          "text": ", which can power up a fire spell attached to it, the "
+        },
+        {
+          "text": "Emberglow Bracelet",
+          "color": "dark_red"
+        },
+        {
+          "text": " which protects from fire and makes attacks ignite enemies, and spell components such as "
+        },
+        {
+          "text": "Explosion",
+          "color": "dark_red"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Cauterize",
+          "color": "dark_red"
+        },
+        {
+          "text": ".\n\nDemons benefit from the "
+        },
+        {
+          "text": "Flame",
+          "color": "dark_red"
+        },
+        {
+          "text": " enchantment on spell foci, which reduces spell cooldowns by 66.6% while the caster is on fire and makes brimstone overcasting from health twice as efficient.\n\nWhen looking at the occulus, anything requiring the Demons faction will be marked with the following icon:"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "location": "mna:textures/guide/faction_icon_demons.png",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "title",
+      "value": "The Faerie Courts",
+      "newPage": true
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Faerie Courts",
+          "color": "dark_green"
+        },
+        {
+          "text": " have a focus on subterfuge and trickery.\n\nThe fey trade in mana for a dual casting resource: "
+        },
+        {
+          "text": "Summer Fire",
+          "color": "dark_green"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "Winter Ice",
+          "color": "dark_green"
+        },
+        {
+          "text": ". Summer fire powers up spells during the day while making them weaker at night. Winter Ice powers up spells at night while making them weaker during the day.\n\nA fey wizard can switch between Summer Fire and Winter Ice by performing the "
+        },
+        {
+          "text": "Ritual of Shifting Seasons",
+          "color": "dark_green"
+        },
+        {
+          "text": ".\n\nFey relics include items such as the "
+        },
+        {
+          "text": "Spectral Elytra",
+          "color": "dark_green"
+        },
+        {
+          "text": ", which is an enchanted elytra that uses mana to fly, the "
+        },
+        {
+          "text": "Bracelet of Trickery",
+          "color": "dark_green"
+        },
+        {
+          "text": " which makes you invisible while sneaking and causes sneak punches to send your target flying, and spell components such as "
+        },
+        {
+          "text": "Decoy",
+          "color": "dark_green"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Heal",
+          "color": "dark_green"
+        },
+        {
+          "text": ".\n\nThe Fey benefit from a "
+        },
+        {
+          "text": "Thorns",
+          "color": "dark_green"
+        },
+        {
+          "text": " enchantment on spell foci which causes targets hit in melee to gain the Writhing Brambles effect, causing damage when they move.\n\nWhen looking at the occulus, anything requiring the Fey faction will be marked with the following icon:"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "location": "mna:textures/guide/faction_icon_fey.png",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "title",
+      "value": "The Ancient Council of Wizards",
+      "newPage": true
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Ancient Council of Wizards",
+          "color": "blue"
+        },
+        {
+          "text": " have a focus on defense and mana manipulation.\n\nTheir relics include items such as the "
+        },
+        {
+          "text": "Arcane Crown",
+          "color": "blue"
+        },
+        {
+          "text": ", which gives you bonus mana and can dispel harmful effects automatically, the "
+        },
+        {
+          "text": "Bracelet of Eldrin Power",
+          "color": "blue"
+        },
+        {
+          "text": " which causes you to absorb residual magic from the air to reduce mana costs while spell casting, and spell components such as "
+        },
+        {
+          "text": "Shield",
+          "color": "blue"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Mana Transfer",
+          "color": "blue"
+        },
+        {
+          "text": ".\n\nThe Council benefits from the "
+        },
+        {
+          "text": "Power",
+          "color": "blue"
+        },
+        {
+          "text": " enchant on spell foci, granting the following benefits, each one scaling by the strength of the Power enchantment applied:\n- Embers and Projectile spells gain homing capabilities\n- Sigil limit is increased\n- Smite bonus damage from falling is increased\n\nWhen looking at the occulus, anything requiring the Council faction will be marked with the following icon:"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "location": "mna:textures/guide/faction_icon_council.png",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "title",
+      "value": "The Undead",
+      "newPage": true
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Undead",
+          "color": "dark_gray"
+        },
+        {
+          "text": " have a focus on relentless endurance and spirit magic, with effects such as consuming souls for food, possessing other entities, and a shift in paradigm.\n\nThe Undead faction is a much more difficult faction to play. Their casting resource becomes "
+        },
+        {
+          "text": "souls",
+          "color": "dark_gray"
+        },
+        {
+          "text": ", something that "
+        },
+        {
+          "text": "does not naturally regenerate",
+          "color": "dark_gray"
+        },
+        {
+          "text": ". They must kill others to obtain their souls, or perform rituals which cost resources to gain souls.  However, the undead have a "
+        },
+        {
+          "text": "significantly larger pool of souls than other wizards would have mana",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nOther undead give the least, then animals, then monsters, then villagers, then players.\n\nThey can sleep in coffins as if they were beds and in doing so will regain up to 25% of souls "
+        },
+        {
+          "text": "(diminishing returns are at play, by default 15 minutes real time must pass for full gain)",
+          "italic": true
+        },
+        {
+          "text": ", will "
+        },
+        {
+          "text": "burn in sunlight",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", but can "
+        },
+        {
+          "text": "breathe and see clearly underwater",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". Wearing a helmet can mitigate the burning but eventually the helmet will burn away and break.  When an undead wizard casts "
+        },
+        {
+          "text": "Night Vision",
+          "color": "blue"
+        },
+        {
+          "text": " on themselves, the "
+        },
+        {
+          "text": "duration is effectively permanent",
+          "color": "dark_purple"
+        },
+        {
+          "text": " regardless of modifiers on the spell.  Casting Night Vision again can be used to toggle the effect off.\n\nUndead benefit from the "
+        },
+        {
+          "text": "Frost Walker",
+          "color": "dark_gray"
+        },
+        {
+          "text": " enchantment on spell foci, giving them a pulsing aura of damage and causing jumping while sneaking to turn them into mist, allowing flight for short bursts.  Undead also benefit from an "
+        },
+        {
+          "text": " increased summon cap,",
+          "color": "blue"
+        },
+        {
+          "text": " gaining one additional summon per tier they attain above 2. "
+        },
+        {
+          "text": "\nChoose this path at your own risk.\n\nWhen looking at the occulus, anything requiring the Undead faction will be marked with the following icon:"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "location": "mna:textures/guide/faction_icon_undead.png",
+      "width": 16,
+      "height": 16
+    }
+  ],
+  "related_recipes": []
+}

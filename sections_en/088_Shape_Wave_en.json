@@ -1,0 +1,38 @@
+"Shape: Wave": {
+  "index": "1",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Shape: Wave"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The wave shape will summon a wave at my feet that moves forward in the direction I was facing when the spell was cast.   I can use a "
+        },
+        {
+          "text": "Precision ",
+          "color": "blue"
+        },
+        {
+          "text": "modifier to cause the wall to horizontally align to the closest cardinal direction I am facing.\n\nThe wave is not affected by gravity and can be launched at an angle if desired, unless "
+        },
+        {
+          "text": "Precision ",
+          "color": "blue"
+        },
+        {
+          "text": "is used.  Using Precision will not cause the wave to be affected by gravity.\n\nThe wave will persist as long as I channel it."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:shapes/wave"
+    }
+  ]
+}

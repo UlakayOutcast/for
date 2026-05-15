@@ -1,0 +1,35 @@
+"Shape: Focus": {
+  "index": "1",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Shape: Focus"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This spell will "
+        },
+        {
+          "text": "continually affect a point in front of me for as long as I concentrate",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".  It will move with me as I look around.\n\n"
+        },
+        {
+          "text": "It can be moved forwards and backwards while channelling by rolling the mouse wheel.",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:shapes/focus"
+    }
+  ]
+}

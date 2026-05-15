@@ -1,0 +1,32 @@
+"Command: Place Block": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Place Block"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to "
+        },
+        {
+          "text": "place the block that it currently has in its hand  at the given location",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", provided it is a block or an item that creates a block (like seeds or saplings). \n\nThe construct "
+        },
+        {
+          "text": "needs to have the carrying capability",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in order to do this task."
+        }
+      ]
+    }
+  ]
+}

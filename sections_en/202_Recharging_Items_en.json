@@ -1,0 +1,96 @@
+"Recharging Items": {
+  "index": -100,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Recharging Items"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Some of the items that I make have an "
+        },
+        {
+          "text": "internal charge",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", such as the "
+        },
+        {
+          "text": "Amulet of Warding",
+          "color": "blue"
+        },
+        {
+          "text": " or the "
+        },
+        {
+          "text": "Ring of Silk",
+          "color": "blue"
+        },
+        {
+          "text": ". These items will lose charge whenever they perform their effect. \n\nThey will automatically pull mana from "
+        },
+        {
+          "text": "Mana Gem Fragments",
+          "color": "blue"
+        },
+        {
+          "text": " in your inventory to help them last longer. \n\nWhen their charge finally runs out, some of them can be recharged by holding them in your hand and holding right click to channel mana into them. Not all items can be recharged in this manner though. "
+        },
+        {
+          "text": "Their tooltip will indicate which methods they allow.",
+          "italic": true
+        },
+        {
+          "text": " \n\nAll chargeable items can also be recharged by a mechanic called "
+        },
+        {
+          "text": "Pedestal Charging",
+          "color": "blue"
+        },
+        {
+          "text": ". To do this, simply craft a "
+        },
+        {
+          "text": "Mana Pylon",
+          "color": "blue"
+        },
+        {
+          "text": " and a "
+        },
+        {
+          "text": "Pedestal",
+          "color": "blue"
+        },
+        {
+          "text": ", and place them within 8 blocks of each other. Place the item on the pedestal and the pylon will charge it up over time, provided it has the power to remain active. \n\n"
+        },
+        {
+          "text": "A single pylon can charge multiple items on different pedestals within range at once.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/pylon/mana"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/mana_crystal_fragment"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:runeforging/stone_pedestal"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:runeforging/stone_pedestal_with_sign"
+    }
+  ]
+}

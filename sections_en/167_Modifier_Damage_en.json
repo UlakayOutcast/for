@@ -1,0 +1,20 @@
+"Modifier: Damage": {
+  "index": "3",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Damage"
+    },
+    {
+      "type": "text",
+      "value": "I can alter the formula of the spell to allow me to concentrate my power to a greater destructive effect.  It costs me more mana to do so, but a harder hit may be worth it."
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:modifiers/damage"
+    }
+  ]
+}

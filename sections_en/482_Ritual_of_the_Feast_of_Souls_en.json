@@ -1,0 +1,45 @@
+"Ritual of the Feast of Souls": {
+  "index": 0,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ritual of the Feast of Souls"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This ritual consumes a creature trapped within a "
+        },
+        {
+          "text": "Crystalline Cage",
+          "color": "blue"
+        },
+        {
+          "text": " to give "
+        },
+        {
+          "text": "twenty times the number of souls it normally would.  ",
+          "color": "dark_purple"
+        },
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "The diamond will be returned",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", ready for re-use."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "ritual",
+      "location": "mna:rituals/consume_crystal_soul"
+    }
+  ]
+}

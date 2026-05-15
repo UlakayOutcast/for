@@ -1,0 +1,32 @@
+"Command: Gather Fluid From Source Blocks": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Gather Fluid From Source Blocks"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to attempt to "
+        },
+        {
+          "text": "gather fluid from source blocks within the configured area",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nThe construct "
+        },
+        {
+          "text": "needs to be able to dispense fluid and store fluid",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in order to perform this task.\n\nConstructs can only carry one type of fluid at a time."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+"Shadow Soul": {
+  "index": 0,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ritual of the Shadow Soul"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Since I can make a "
+        },
+        {
+          "text": "Crystallize",
+          "color": "blue"
+        },
+        {
+          "text": " spell to capture things within "
+        },
+        {
+          "text": "Crystalline Cages",
+          "color": "blue"
+        },
+        {
+          "text": ", I can use those cages to fill a "
+        },
+        {
+          "text": "Crystal Phylactery",
+          "color": "blue"
+        },
+        {
+          "text": ". \n\nOf course I can still use the "
+        },
+        {
+          "text": "normal method",
+          "italic": true
+        },
+        {
+          "text": " as well to fill the phylacteries, but this might still come in handy."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "ritual",
+      "location": "mna:rituals/shadow_soul"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/crystal_phylactery"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:resonating_lump"
+    }
+  ]
+}

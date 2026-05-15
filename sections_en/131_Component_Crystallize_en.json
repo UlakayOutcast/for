@@ -1,0 +1,38 @@
+"Component: Crystallize": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Crystallize"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can use arcane magic to "
+        },
+        {
+          "text": "bind a creature within a diamond",
+          "color": "dark_purple"
+        },
+        {
+          "text": "'s crystalline matrix. The more magnitude I put into the spell, the more powerful the creature I can bind. \n\nI imagine I can't bind other wizards or certain exceptionally powerful beings no matter how hard I try.\n\nWhen I "
+        },
+        {
+          "text": "release the creature, the diamond is returned",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to me intact and usable as any other diamond."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/crystallize"
+    }
+  ]
+}

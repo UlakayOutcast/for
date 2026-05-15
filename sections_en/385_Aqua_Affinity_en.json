@@ -1,0 +1,37 @@
+"Aqua Affinity": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Aqua Affinity"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Aqua Affinity enchantment "
+        },
+        {
+          "text": "speeds up how fast you can mine blocks underwater",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". It basically makes mining underwater the same speed as mining on land.\n\nWizards using a Staff, Wand, or Bangle enchanted with Aqua Affinity will see their "
+        },
+        {
+          "text": "fire spells cast from that item work normally underwater",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/aqua_affinity_i"
+    }
+  ]
+}

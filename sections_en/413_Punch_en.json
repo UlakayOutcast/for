@@ -1,0 +1,42 @@
+"Punch": {
+  "index": 0,
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Punch"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Punch enchantment "
+        },
+        {
+          "text": "increases the knockback dealt",
+          "color": "dark_purple"
+        },
+        {
+          "text": " when attacking a player or mob with your "
+        },
+        {
+          "text": "bow and arrow",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". This will cause the player or mob to repel backwards more than usual."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/punch_i"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/punch_ii"
+    }
+  ]
+}

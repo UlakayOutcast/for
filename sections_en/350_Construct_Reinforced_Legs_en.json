@@ -1,0 +1,44 @@
+"Construct Reinforced Legs": {
+  "index": "3",
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Construct Reinforced Legs"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The reinforced legs give the construct "
+        },
+        {
+          "text": "more armor and also allow it to carry me like a horse",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". I can control it directly if I have it commanded to stay or follow when I ride it, or if it's following a Lodestar it will simply take me along for the ride."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "locations": [
+        "mna:manaweaving/constructs/wood/wood_legs_reinforced",
+        "mna:manaweaving/constructs/stone/stone_legs_reinforced",
+        "mna:manaweaving/constructs/bone/bone_legs_reinforced",
+        "mna:manaweaving/constructs/iron/iron_legs_reinforced",
+        "mna:manaweaving/constructs/gold/gold_legs_reinforced"
+      ]
+    },
+    {
+      "type": "eldrin_altar",
+      "locations": [
+        "mna:eldrin_altar/construct/diamond/diamond_legs_reinforced",
+        "mna:eldrin_altar/construct/obsidian/obsidian_legs_reinforced"
+      ]
+    }
+  ]
+}

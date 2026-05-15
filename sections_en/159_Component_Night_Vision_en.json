@@ -1,0 +1,45 @@
+"Component: Night Vision": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Night Vision"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I wonder how the Endermen do it. Move so effortlessly through the void. I can't make it across my lab in the dark without smashing my shins off of a piece of furniture. I think I may have figured out a way to harness the power of Endermen to help me "
+        },
+        {
+          "text": "see in the dark",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", as they do.\n\nWhen an "
+        },
+        {
+          "text": "Undead ",
+          "color": "dark_gray"
+        },
+        {
+          "text": "wizard casts the spell, the "
+        },
+        {
+          "text": "duration is effectively permanent. ",
+          "color": "dark_purple"
+        },
+        {
+          "text": "casting the spell again will toggle it off."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/night_vision"
+    }
+  ]
+}

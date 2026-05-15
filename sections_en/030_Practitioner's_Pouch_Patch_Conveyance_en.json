@@ -1,0 +1,66 @@
+"Practitioner's Pouch Patch: Conveyance": {
+  "index": -1,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Practitioner's Pouch Patch: Conveyance"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "When sewn onto a "
+        },
+        {
+          "text": "Practitioner's Pouch",
+          "color": "blue"
+        },
+        {
+          "text": ", a "
+        },
+        {
+          "text": "Conveyance Patch",
+          "color": "blue"
+        },
+        {
+          "text": " provides a single slot that can only hold a "
+        },
+        {
+          "text": "Rune of Marking",
+          "color": "blue"
+        },
+        {
+          "text": ". Normally, a ritual bound to a Practitioner's Pouch needs all of the necessary items within itself. \n\nA Conveyance Patch allows a ritual to "
+        },
+        {
+          "text": "search for missing items within the inventory the provided Rune of Marking points to",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", if it is loaded. If necessary items are contained both in the Pouch and the marked inventory, "
+        },
+        {
+          "text": "items in the marked inventory will be consumed first",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nIf the Pouch has both a "
+        },
+        {
+          "text": "Conveyance Patch and a Rift Patch",
+          "color": "blue"
+        },
+        {
+          "text": ", items in the Rift will be consumed before items in the marked inventory."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/patches/conveyance"
+    }
+  ]
+}

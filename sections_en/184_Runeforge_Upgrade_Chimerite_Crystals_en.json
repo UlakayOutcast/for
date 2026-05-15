@@ -1,0 +1,93 @@
+"Runeforge Upgrade: Chimerite Crystals": {
+  "index": -92,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Runeforge Upgrade: Chimerite Crystals"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "By placing two pedestals directly adjacent to a "
+        },
+        {
+          "text": "Runeforge ",
+          "color": "blue"
+        },
+        {
+          "text": "or "
+        },
+        {
+          "text": "Brimstone Forge",
+          "color": "blue"
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "Chimerite Crystals",
+          "color": "blue"
+        },
+        {
+          "text": " on top of them, I can alter its effects.\n\n"
+        },
+        {
+          "text": "Red, Yellow, or Orange",
+          "color": "dark_red"
+        },
+        {
+          "text": " crystals will apply an "
+        },
+        {
+          "text": "ore doubling",
+          "color": "dark_red"
+        },
+        {
+          "text": " effect.\n\n"
+        },
+        {
+          "text": "White, Cyan, Blue, or Light Blue",
+          "color": "dark_aqua"
+        },
+        {
+          "text": " will cause the forge to repair items put into it, though it will no longer be able to smelt if upgraded in this manner.\n\n"
+        },
+        {
+          "text": "Purple, Pink, or Magenta",
+          "color": "dark_purple"
+        },
+        {
+          "text": " crystals will "
+        },
+        {
+          "text": "greatly increase the speed at which the forge smelts.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:runeforging/stone_pedestal"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:runeforging/stone_pedestal_with_sign"
+    },
+    {
+      "type": "crafting",
+      "locations": [
+        "mna:chimerite_crystals/crystal_orange",
+        "mna:chimerite_crystals/crystal_red",
+        "mna:chimerite_crystals/crystal_yellow",
+        "mna:chimerite_crystals/crystal_light_blue",
+        "mna:chimerite_crystals/crystal_blue",
+        "mna:chimerite_crystals/crystal_cyan",
+        "mna:chimerite_crystals/crystal_white"
+      ]
+    }
+  ]
+}

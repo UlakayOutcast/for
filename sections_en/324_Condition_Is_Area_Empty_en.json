@@ -1,0 +1,39 @@
+"Condition: Is Area Empty": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Condition: Is Area Empty"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This condition will"
+        },
+        {
+          "text": " check if the specified area contains only air blocks",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", returning "
+        },
+        {
+          "text": "success ",
+          "color": "dark_green"
+        },
+        {
+          "text": "if it does, and "
+        },
+        {
+          "text": "failure ",
+          "color": "dark_red"
+        },
+        {
+          "text": "if it does not."
+        }
+      ]
+    }
+  ]
+}

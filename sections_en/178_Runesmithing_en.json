@@ -1,0 +1,81 @@
+"Runesmithing": {
+  "index": -97,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Runesmithing"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Once I have my completed rune pattern, I will need to take it and some "
+        },
+        {
+          "text": "Superheated Vinteum",
+          "color": "blue"
+        },
+        {
+          "text": " to my runic anvil. \n\nI remember the process: "
+        },
+        {
+          "text": "place the pattern on the anvil, then the superheated vinteum on top",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "location": "mna:textures/guide/runic_anvil.png",
+      "width": 72,
+      "height": 57
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Next, I take the "
+        },
+        {
+          "text": "Runesmith's Hammer",
+          "color": "blue"
+        },
+        {
+          "text": " and begin to "
+        },
+        {
+          "text": "strike the items on the anvil",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". I should be careful to have everything set up correctly, or the items will not fit together properly, and they will pop off the anvil.\n\nOnce I've hit the item enough times, the forging will be complete.\n\nRune patterns are somewhat brittle and will break after forging 4 times."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "arcane_furnace",
+      "location": "mna:arcanefurnace/superheated_vinteum_ingot"
+    },
+    {
+      "type": "arcane_furnace",
+      "location": "mna:arcanefurnace/superheated_purified_vinteum_ingot"
+    },
+    {
+      "type": "crafting",
+      "locations": [
+        "mna:runeforge",
+        "mna:runeforge_alt"
+      ]
+    },
+    {
+      "type": "crafting",
+      "location": "mna:runeforging/runic_anvil"
+    }
+  ]
+}

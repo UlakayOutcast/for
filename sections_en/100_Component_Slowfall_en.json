@@ -1,0 +1,31 @@
+"Component: Slowfall": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Slowfall"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I've learned how to coalesce the air below me into a cushion that gently "
+        },
+        {
+          "text": "carries me towards the ground",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". I'm one step closer to true flight!"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/slowfall"
+    }
+  ]
+}

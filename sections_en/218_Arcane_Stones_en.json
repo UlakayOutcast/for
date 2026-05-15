@@ -1,0 +1,56 @@
+"Arcane Stones": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Arcane Stones"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Arcane Stones",
+          "color": "blue"
+        },
+        {
+          "text": " are often used as decoration, though they also (if placed properly) can be used to direct magical energies in specific scenarios when imbued with vinteum or chimerite inlays. As such, they are often used in structures focusing on magic."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Shaping Stones"
+    },
+    {
+      "type": "text",
+      "value": "Arcane stones can be shaped into walls, slabs, stairs, and more by following the same crafting processes that I would use for normal stone.  This is because when they are manaweaved, the magic is already infused in them, and they can thus be simply worked like normal stone either at a workbench or a stonecutter."
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/decoration/arcane_stone"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/decoration/arcane_sandstone"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/decoration/vinteum_arcane_stone"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/decoration/vinteum_arcane_sandstone"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/decoration/chimerite_arcane_stone"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/decoration/chimerite_arcane_sandstone"
+    }
+  ]
+}

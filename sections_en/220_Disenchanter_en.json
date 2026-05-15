@@ -1,0 +1,38 @@
+"Disenchanter": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Disenchanter"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This powerful workbench allows you to spend some experience and some "
+        },
+        {
+          "text": "Fire",
+          "color": "blue"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Wind Eldrin Power",
+          "color": "blue"
+        },
+        {
+          "text": " to remove an enchantment from the source item and transfer it to the projection rune where it can be re-applied to another item or discarded. \n\nIf there are multiple enchantments on the source item, then the enchantment chosen is random among them."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/disenchanter"
+    }
+  ]
+}

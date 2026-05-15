@@ -1,0 +1,45 @@
+"Component: Explosion": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Explosion"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I have figured out how to combine fire magic with a small bit of air to create a very fast "
+        },
+        {
+          "text": "burst of fire akin to an explosion",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\n"
+        },
+        {
+          "text": "Moridrex",
+          "color": "blue"
+        },
+        {
+          "text": " would be proud. \n\nThis can only be crafted by those allied with the "
+        },
+        {
+          "text": "Demons of the Nether",
+          "color": "dark_red"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/explosion"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+"Mage Armor": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Mage Armor"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I've figured out a way to create "
+        },
+        {
+          "text": "Mage Armor",
+          "color": "blue"
+        },
+        {
+          "text": " out of "
+        },
+        {
+          "text": "Infused Silk",
+          "color": "blue"
+        },
+        {
+          "text": ". When I make and wear a full set it will increase my maximum mana and mana regen due to the runes I put in it, akin to a "
+        },
+        {
+          "text": "Set Bonus",
+          "color": "blue"
+        },
+        {
+          "text": ". I can also dye it any color I want, including combinations of dyes to make new colors!\n\nIt will also drain the mana from a "
+        },
+        {
+          "text": "Mana Gem Fragment",
+          "color": "blue"
+        },
+        {
+          "text": " in my inventory, and my own mana after that to "
+        },
+        {
+          "text": "repair itself",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nIf it does fully break (it is rather brittle), it will become tattered and no longer effective. However, I can take it to a "
+        },
+        {
+          "text": "Runic Anvil",
+          "color": "blue"
+        },
+        {
+          "text": " and repair it with some "
+        },
+        {
+          "text": "Infused Silk",
+          "color": "blue"
+        },
+        {
+          "text": " and a "
+        },
+        {
+          "text": "Sorcerous Sewing Kit",
+          "color": "blue"
+        },
+        {
+          "text": ". Put the armor on the anvil, the silk on top of that, and activate the anvil with the sewing kit."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/armor/mage_cowl"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/armor/mage_robes"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/armor/mage_leggings"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/armor/mage_boots"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/armor/infused_thread"
+    },
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/constructs/runescribe_defense"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/constructs/runeforge_defense"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/intermediate/infused_silk"
+    }
+  ]
+}

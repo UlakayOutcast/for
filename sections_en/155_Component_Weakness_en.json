@@ -1,0 +1,31 @@
+"Component: Weakness": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Weakness"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I am able to "
+        },
+        {
+          "text": "pull the strength directly out of my target",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", leaving them withered and weak."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/weakness"
+    }
+  ]
+}

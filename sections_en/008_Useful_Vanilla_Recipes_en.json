@@ -1,0 +1,60 @@
+"Useful Vanilla Recipes": {
+  "index": 8,
+  "category": "basics",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Common Mundane Materials"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I've created ways to magically synthesize common mundane materials that are otherwise rare or hard to obtain, but frequently used for magic. \n\nI'm sure I'll come up with more as I progress.  I'll make sure to list them here."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The included recipes are:\n- Leather\n- Crying Obsidian\n- Prismarine Crystal\n- Prismarine Shard\n- Gilded Blackstone\n- Name Tag\n- Poisonous Potato \n- Saddle"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/leather"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/crying_obsidian"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/prismarine_crystal"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/prismarine_shard"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/gilded_blackstone"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/name_tag"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/poisonous_potato"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/saddle"
+    }
+  ]
+}

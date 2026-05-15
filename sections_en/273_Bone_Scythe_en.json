@@ -1,0 +1,69 @@
+"Bone Scythe": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Bone Scythe"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Bone Scythe is a "
+        },
+        {
+          "text": "hybrid between a staff and a sword",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", capable of making "
+        },
+        {
+          "text": "sweep attacks",
+          "color": "blue"
+        },
+        {
+          "text": ", and applying a "
+        },
+        {
+          "text": "sweeping edge enchant",
+          "color": "blue"
+        },
+        {
+          "text": ".\n\nIt uses "
+        },
+        {
+          "text": "sharpness instead of bludgeoning",
+          "color": "blue"
+        },
+        {
+          "text": ".  \n\nIt counts as a sword for the "
+        },
+        {
+          "text": "Amulet of the Battlemage",
+          "color": "blue"
+        },
+        {
+          "text": ", and can also have a spell put on it like any other staff."
+        },
+        {
+          "text": "\n\nThis scythe can only be crafted by those who have allied themselves to the "
+        },
+        {
+          "text": "Undead",
+          "color": "dark_gray"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/bone_scythe"
+    }
+  ]
+}

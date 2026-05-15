@@ -1,0 +1,113 @@
+"Scribing Spells": {
+  "index": -100,
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Scribing Spells"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I'll need to set up a proper workspace for me to get my spell ideas from my head onto paper. \n\nA "
+        },
+        {
+          "text": "table",
+          "color": "blue"
+        },
+        {
+          "text": " with all the proper places to store everything, "
+        },
+        {
+          "text": "paper",
+          "color": "blue"
+        },
+        {
+          "text": " that is designed to accept magical script, and the proper "
+        },
+        {
+          "text": "ink",
+          "color": "blue"
+        },
+        {
+          "text": ". I'll need some "
+        },
+        {
+          "text": "Arcane Ash",
+          "color": "blue"
+        },
+        {
+          "text": " as well. Once I've got all that together, I can get started!\n\nI'll need to pick a way to "
+        },
+        {
+          "text": "shape",
+          "color": "dark_purple"
+        },
+        {
+          "text": " the spell. This will be "
+        },
+        {
+          "text": "the way it targets the world",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". I'm sure there are several shapes that I can learn. \n\nAfter that, I will need to pick a "
+        },
+        {
+          "text": "component",
+          "color": "dark_purple"
+        },
+        {
+          "text": " so that the spell actually "
+        },
+        {
+          "text": "does something",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". That alone is enough to make a basic spell. \n\nHowever, I can think of "
+        },
+        {
+          "text": "several aspects of spells that could be modified",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". I'll need to add in "
+        },
+        {
+          "text": "modifiers",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to the equation of the spell so that I can "
+        },
+        {
+          "text": "change these values",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nWhen my spell is all written out the way I want it, I'll need to give the arcane ash time to imbue the ink into an actual spell recipe and allow the ritual that follows to create the actual spell. \n\nLuckily the table I have in mind will have a spot to do just that. ...I do wonder though if there are ways to make more complicated spells, such as ones that can do multiple things in a single cast? \n\nThere must be."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:inscription_table"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:arcanist_ink"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:arcane_compound"
+    },
+    {
+      "type": "arcane_furnace",
+      "location": "mna:arcanefurnace/arcane_ash"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+"Practitioner's Pouch Patch: Mote": {
+  "index": -1,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Practitioner's Pouch Patch: Mote"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "When sewn onto a "
+        },
+        {
+          "text": "Practitioner's Pouch",
+          "color": "blue"
+        },
+        {
+          "text": ", a "
+        },
+        {
+          "text": "Mote Patch",
+          "color": "blue"
+        },
+        {
+          "text": " provides an additional twelve slot inventory that can only hold motes and greater motes.  If a mote is collected by a "
+        },
+        {
+          "text": "Collection Patch",
+          "color": "blue"
+        },
+        {
+          "text": ", it will first try to enter this mote inventory.\n\n"
+        },
+        {
+          "text": "The additional inventory can be accessed by clicking on the green ",
+          "italic": true
+        },
+        {
+          "text": "+",
+          "italic": true,
+          "color": "dark_green"
+        },
+        {
+          "text": " icon over the Mote Patch icon, and can be closed by clicking on the red",
+          "italic": true
+        },
+        {
+          "text": " -",
+          "italic": true,
+          "color": "dark_red"
+        },
+        {
+          "text": " icon in the upper right of the patch inventory.",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/patches/mote"
+    }
+  ]
+}

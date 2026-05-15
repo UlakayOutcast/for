@@ -1,0 +1,31 @@
+"Odin's Call": {
+  "index": 0,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ritual of Odin's Call"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This ritual challenges a diety of magic, "
+        },
+        {
+          "text": "Odin ",
+          "color": "blue"
+        },
+        {
+          "text": "himself. Be on your guard, this fight is extremely deadly. The ritual must be performed at a place that can see the sky while a thunderstorm is happening."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "ritual",
+      "location": "mna:rituals/odins_call"
+    }
+  ]
+}

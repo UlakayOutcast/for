@@ -1,0 +1,31 @@
+"Component: Poison": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Poison"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "By pondering particular plants, I've perceived a process of pilfering populous parts that when pooled produce a "
+        },
+        {
+          "text": "particularly potent poison",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". Per this perception, it's possible I can protract this pattern and produce them using pure prestidigitation."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/poison"
+    }
+  ]
+}

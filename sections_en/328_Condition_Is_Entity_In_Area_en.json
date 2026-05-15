@@ -1,0 +1,46 @@
+"Condition: Is Entity In Area": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Condition: Is Entity In Area"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This condition will check if the "
+        },
+        {
+          "text": "specified entity is in the given area",
+          "color": "dark_purple"
+        },
+        {
+          "text": " (determined by a "
+        },
+        {
+          "text": "Crystal Phylactery",
+          "color": "blue"
+        },
+        {
+          "text": " in the configuration, any amount of fill amount in the Phylactery will do), returning "
+        },
+        {
+          "text": "success ",
+          "color": "dark_green"
+        },
+        {
+          "text": "if it is found, and "
+        },
+        {
+          "text": "failure ",
+          "color": "dark_red"
+        },
+        {
+          "text": "if it is not."
+        }
+      ]
+    }
+  ]
+}

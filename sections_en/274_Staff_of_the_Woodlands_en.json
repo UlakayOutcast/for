@@ -1,0 +1,39 @@
+"Staff of the Woodlands": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Staff of the Woodlands"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Staff of the Woodlands can have enchantments and spells put on it like any other staff, however when an enemy is struck in melee by this staff, a woodland creature will come to your aid for a few seconds, attacking that target.\n\n"
+        },
+        {
+          "text": "This can fail if there is not enough space or a spawn location cannot be found.",
+          "italic": true,
+          "color": "dark_gray"
+        },
+        {
+          "text": "\n\nThis staff can only be crafted by those who have allied themselves to the "
+        },
+        {
+          "text": "Fey Courts",
+          "color": "dark_green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/staff_fox"
+    }
+  ]
+}

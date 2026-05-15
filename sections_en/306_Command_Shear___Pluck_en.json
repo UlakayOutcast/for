@@ -1,0 +1,53 @@
+"Command: Shear / Pluck": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Shear / Pluck"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to "
+        },
+        {
+          "text": "shear nearby sheep, mooshrooms, and other animals that can be sheared, as well as periodically pluck feathers from chickens",
+          "color": "dark_purple"
+        },
+        {
+          "text": " within the configured radius. \n\nIf the construct does not have a "
+        },
+        {
+          "text": "smart head",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", it will cause minor injury to chickens. \n\nThe construct "
+        },
+        {
+          "text": "must have a blade arm",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in order to use this task. \n\nIf the "
+        },
+        {
+          "text": "parameter ",
+          "color": "blue"
+        },
+        {
+          "text": "to do so is turned on, the construct will instead "
+        },
+        {
+          "text": "shear blocks",
+          "color": "dark_purple"
+        },
+        {
+          "text": " instead of mobs."
+        }
+      ]
+    }
+  ]
+}

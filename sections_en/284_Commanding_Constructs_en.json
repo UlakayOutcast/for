@@ -1,0 +1,410 @@
+"Commanding Constructs": {
+  "index": "-96",
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Commanding Constructs"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Incidental, one-off commands are given using a "
+        },
+        {
+          "text": "Bell of Bidding",
+          "color": "blue"
+        },
+        {
+          "text": ".\n\n"
+        },
+        {
+          "text": "Use the radial menu on the bell to select a command, then right click on something. The commands are contextual. The following commands are available:",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Follow:",
+          "color": "blue"
+        },
+        {
+          "text": " Causes the construct to follow me. Constructs will not defend me while on follow mode.  "
+        },
+        {
+          "text": "I need to target a construct to issue this command.",
+          "color": "dark_purple"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Guard:",
+          "color": "blue"
+        },
+        {
+          "text": " Causes the construct to follow and guard me. Constructs capable of attacking enemies will defend me while on guard mode, and constructs that are smart enough will attempt to use beneficial effects on me (water spray to douse flame, milk spray to dispel effects, etc).  "
+        },
+        {
+          "text": "I need to target a construct to issue this command.",
+          "color": "dark_purple"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Move: ",
+          "color": "blue"
+        },
+        {
+          "text": "Causes all constructs currently following me to move to the specified position and stay there.  "
+        },
+        {
+          "text": "I need to target a block within the world to issue this command.",
+          "color": "dark_purple"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Stay: ",
+          "color": "blue"
+        },
+        {
+          "text": "Causes the construct to stop where it is and stay there. It will not attack while staying.  "
+        },
+        {
+          "text": "I need to target a construct to issue this command.",
+          "color": "dark_purple"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Attack Target: ",
+          "color": "blue"
+        },
+        {
+          "text": "Causes all constructs following me to attack that target if they are able.  "
+        },
+        {
+          "text": "I need to target an entity to issue this command.",
+          "color": "dark_purple"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Diagnostics: ",
+          "color": "blue"
+        },
+        {
+          "text": "Opens the diagnostics screen for the construct showing detailed information about its stats and capabilities.  "
+        },
+        {
+          "text": "I need to target a construct to issue this command.",
+          "color": "dark_purple"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Eat Item",
+          "color": "blue"
+        },
+        {
+          "text": ": Causes the construct to eat its current held item, destroying it.  "
+        },
+        {
+          "text": "I need to target a construct to issue this command.",
+          "color": "dark_purple"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Interact",
+          "color": "blue"
+        },
+        {
+          "text": ": Contextually attempts to instruct all following constructs to interact with the given block (or pick up items directly above the block). This is used to assign them to Delegation Stations, return to Gantries to be modified, and several other incidental interaction tasks where capabilities allow."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Wear Item As Hat",
+          "color": "blue"
+        },
+        {
+          "text": ": Instructs constructs following me to attempt to wear the target item as a hat. I can retrieve the hat from the construct using the "
+        },
+        {
+          "text": "Diagnostics",
+          "color": "blue"
+        },
+        {
+          "text": " menu.  \n\n"
+        },
+        {
+          "text": "The item targeted must be thrown on the ground; it will not pull from my other hand.  Target the item by targeting the block it is resting on.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "The Delegation Station"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Delegation Station",
+          "color": "blue"
+        },
+        {
+          "text": " is a block I can use to "
+        },
+        {
+          "text": "create complex logic",
+          "color": "dark_purple"
+        },
+        {
+          "text": " for my constructs. \n\n"
+        },
+        {
+          "text": "To start, drag a task from the menu on the left to the stage. ",
+          "italic": true
+        },
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "Then, drag the blue start node at the top left of the stage to the yellow input node at the top left of the task. ",
+          "italic": true
+        },
+        {
+          "text": "This will set the start of the flow",
+          "italic": true,
+          "color": "dark_purple"
+        },
+        {
+          "text": ". ",
+          "italic": true
+        },
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "My construct will loop this task once assigned to the Delegation Station. ",
+          "italic": true
+        },
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "Every task has two output nodes, a",
+          "italic": true
+        },
+        {
+          "text": " green at the top right",
+          "italic": true,
+          "color": "dark_green"
+        },
+        {
+          "text": " and a",
+          "italic": true
+        },
+        {
+          "text": " red just below it",
+          "italic": true,
+          "color": "dark_red"
+        },
+        {
+          "text": ". They represent the outputs of the tasks, green being ",
+          "italic": true
+        },
+        {
+          "text": "success ",
+          "italic": true,
+          "color": "dark_green"
+        },
+        {
+          "text": "or red being ",
+          "italic": true
+        },
+        {
+          "text": "failure",
+          "italic": true,
+          "color": "dark_red"
+        },
+        {
+          "text": ". ",
+          "italic": true
+        },
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "Drag these nodes to the start nodes of other tasks to chain logic. I can loop a task's output node back in to its input node to cause it to tight loop. This is useful for performing a task repeatedly until failure, or until construct confusion (see ",
+          "italic": true
+        },
+        {
+          "text": "Construct Intelligence",
+          "italic": true,
+          "color": "blue"
+        },
+        {
+          "text": ").  ",
+          "italic": true
+        },
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "If a task's selected output node isn't connected to anything else after ending, the construct will start the whole flow over.",
+          "italic": true,
+          "color": "dark_purple"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Most "
+        },
+        {
+          "text": "tasks ",
+          "color": "blue"
+        },
+        {
+          "text": "within the delegation station have "
+        },
+        {
+          "text": "parameters",
+          "color": "blue"
+        },
+        {
+          "text": ". \n\n"
+        },
+        {
+          "text": "Click a task to see its parameters on the right. Some parameters take items, others are buttons/checkboxes/sliders. ",
+          "italic": true
+        },
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "In the case of items, ghost items are used. Drop the item in like you would any inventory slot. The item will be copied and used without being consumed.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Lodestar"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The ",
+          "italic": true
+        },
+        {
+          "text": "Lodestar ",
+          "italic": true,
+          "color": "blue"
+        },
+        {
+          "text": "is a much more advanced method of commanding constructs and has a ",
+          "italic": true
+        },
+        {
+          "text": "greatly expanded list of available tasks",
+          "italic": true,
+          "color": "dark_purple"
+        },
+        {
+          "text": ", as well as ",
+          "italic": true
+        },
+        {
+          "text": "several conditions",
+          "italic": true,
+          "color": "dark_purple"
+        },
+        {
+          "text": " that you can have your constructs evaluate to create branching logic.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Constructs practice "
+        },
+        {
+          "text": "co-la-bo-ra-tion ",
+          "color": "blue"
+        },
+        {
+          "text": "when performing tasks through a Lodestar or a Delegation Station.  When I have multiple constructs assigned to the same Lodestar or Delegation Station, they will share the work, splitting the tasks among them instead of each one trying to do the same thing."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:delegation_station"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:lodestar_copier"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:bell_of_bidding"
+    },
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/runescribe_marking"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/runeforge_marking"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:lodestar"
+    }
+  ]
+}

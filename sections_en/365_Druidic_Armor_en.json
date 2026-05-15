@@ -1,0 +1,92 @@
+"Druidic Armor": {
+  "index": 0,
+  "category": "eldrin_altar",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Druidic Armor"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Several village elders tell legends of the druids of old, who were able to completely link themselves to nature. \n\nIn reality, these druids were high ranking allies of the "
+        },
+        {
+          "text": "Fey",
+          "color": "dark_green"
+        },
+        {
+          "text": ", gifted with powerful artifacts and spells. \n\nOne of the highest gifts was the "
+        },
+        {
+          "text": "Druidic Armor",
+          "color": "dark_green"
+        },
+        {
+          "text": ", which is imbued with the trickery of the "
+        },
+        {
+          "text": "Fey",
+          "color": "dark_green"
+        },
+        {
+          "text": " as well as their chaotic yet gentle embrace. \n\nWhile not as strong as some of the other faction armors in terms of physical defense, the ironwood it is composed of is as strong as common plate armor. \n\nWhen wearing this armor, the wings on the back will allow me to "
+        },
+        {
+          "text": "fly or hover",
+          "color": "dark_purple"
+        },
+        {
+          "text": " depending on my preference "
+        },
+        {
+          "text": "(double tap to start or stop hovering, single tap while falling to enter elytra flight)",
+          "italic": true
+        },
+        {
+          "text": ". \n\nIt also has a chance to "
+        },
+        {
+          "text": "teleport or levitate melee attackers",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", and a "
+        },
+        {
+          "text": "chance to reflect projectiles",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nLastly, when my health gets low, it will apply a "
+        },
+        {
+          "text": "regenerating effect",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to me, though it can only do so every so often."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/armor/druidic_antlers"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/armor/druidic_buckskin"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/armor/druidic_leggings"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/armor/druidic_slippers"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+"Command: Break Blocks": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Break Blocks"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to "
+        },
+        {
+          "text": "attempt to break any blocks in the given area",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nThe construct needs to be able to "
+        },
+        {
+          "text": "break blocks",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in order to perform this task.  The material of the part granting this capability (for instance, a hammer arm) will determine the level of mining the construct is capable of performing."
+        }
+      ]
+    }
+  ]
+}

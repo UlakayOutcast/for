@@ -1,0 +1,59 @@
+"Component: Shrink": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Shrink"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This spell will cause its target to "
+        },
+        {
+          "text": "shrink in size",
+          "color": "dark_purple"
+        },
+        {
+          "text": " for a time.  During this time, movement affecting spells like "
+        },
+        {
+          "text": "Fling and Gust",
+          "color": "blue"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "will be more effective",
+          "color": "dark_purple"
+        },
+        {
+          "text": " against the target.\n\nWhen a "
+        },
+        {
+          "text": "Fey ",
+          "color": "dark_green"
+        },
+        {
+          "text": "wizard casts the spell, the "
+        },
+        {
+          "text": "duration is effectively permanent. ",
+          "color": "dark_purple"
+        },
+        {
+          "text": "casting the spell again will toggle it off."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/shrink"
+    }
+  ]
+}

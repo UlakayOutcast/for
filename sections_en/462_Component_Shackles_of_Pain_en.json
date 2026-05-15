@@ -1,0 +1,45 @@
+"Component: Shackles of Pain": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Shackles of Pain"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "A malevolent bond manifests between the caster and the target, intertwining their souls in a harrowing tapestry of shared suffering. \n\n"
+        },
+        {
+          "text": "Each wound inflicted upon the caster echoes through the bond to the target inflicting them with an equal share of torment",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". At the caster's discretion, this bond can magnify the pain causing the victim to endure even greater suffering than the caster themselves. \n\nThis creates a terrifying symbiosis where the caster wields their own pain as a weapon, harnessing the primal force of agony to strike fear and despair in the heart of their foe.  \n\nThe effect, however, is rather short ranged and holds no physically limiting characteristics.  Simply "
+        },
+        {
+          "text": "moving far enough apart is enough to snap the tether",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", ending the effect.\n\nOnly the "
+        },
+        {
+          "text": "Demons of the Nether",
+          "color": "dark_red"
+        },
+        {
+          "text": " could wield their own pain so thoroughly and effectively."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/shackles_of_pain"
+    }
+  ]
+}

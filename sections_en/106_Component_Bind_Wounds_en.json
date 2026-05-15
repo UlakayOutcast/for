@@ -1,0 +1,38 @@
+"Component: Bind Wounds": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Bind Wounds"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can use this effect to mimic the body's ability to "
+        },
+        {
+          "text": "heal over time",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". The subject's cuts mend, their broken bones set, and bruises vanish in mere moments. Much like conventional medical care, the subject must largely remain still. Any sudden upsets to the body like a "
+        },
+        {
+          "text": "sudden movement (or worse, taking further injury) will disrupt the spell and end the effect",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/bind_wounds"
+    }
+  ]
+}

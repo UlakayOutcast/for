@@ -1,0 +1,81 @@
+"The Rote Mechanic": {
+  "index": -91,
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "The Rote Mechanic"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "As wizards cast spells, they begin to learn more about their properties and how they work. \n\nAs when one looks into an "
+        },
+        {
+          "text": "Occulus",
+          "color": "blue"
+        },
+        {
+          "text": ", it looks back into them, a wizard can see rote progress for each individual spell part in the Occulus "
+        },
+        {
+          "text": "(shown as a yellow line underneath each spell part that turns green when fully rote)",
+          "italic": true
+        },
+        {
+          "text": ". \n\n"
+        },
+        {
+          "text": "Spell parts gain rote experience at different rates.",
+          "color": "dark_purple"
+        },
+        {
+          "text": " \n\nOnce they are rote, I can use them in a "
+        },
+        {
+          "text": "Book of Rote",
+          "color": "blue"
+        },
+        {
+          "text": " to make spells with "
+        },
+        {
+          "text": "single shapes",
+          "color": "blue"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "multiple components",
+          "color": "blue"
+        },
+        {
+          "text": ". "
+        },
+        {
+          "text": "Modifiers that I learn by rote are always available",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in rote spells, I don't need to add them. Rote allows me to make spells with more components and modifiers than I would normally be able to using the Inscription Table. \n\nThere is no crafting process or material cost when making spells in the Book of Rote, as it represents my memorization of the spell. "
+        },
+        {
+          "text": "I can simply make the spell I need at the time.",
+          "color": "dark_purple"
+        },
+        {
+          "text": "\n\nBooks of Rote allow you to change the slot quickly using Chords.  Press the chord key (default V) with a Book of Rote equipped, then press a hotbar key.  It will quick swap to the slot matching what you pressed.  This is in addition to the radial menu.  Use whatever method you prefer.",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "location": "mna:manaweaving/sorcery/book_of_rote",
+      "type": "manaweaving_altar"
+    }
+  ]
+}

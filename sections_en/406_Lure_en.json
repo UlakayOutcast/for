@@ -1,0 +1,53 @@
+"Lure": {
+  "index": 0,
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Lure"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Lure enchantment increases the "
+        },
+        {
+          "text": "rate of fish biting your hook",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nWizards using a "
+        },
+        {
+          "text": "Staff, Wand, or Bangle",
+          "color": "blue"
+        },
+        {
+          "text": " enchanted with Lure will see their spells "
+        },
+        {
+          "text": "taunt targets",
+          "color": "dark_purple"
+        },
+        {
+          "text": " that are successfully affected by the spell, prompting them to attack the caster."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/lure_i"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/lure_ii"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/lure_iii"
+    }
+  ]
+}

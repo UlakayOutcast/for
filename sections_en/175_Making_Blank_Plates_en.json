@@ -1,0 +1,35 @@
+"Making Blank Plates": {
+  "index": -100,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Making Blank Plates"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "In order to runescribe, I'll need to first make a "
+        },
+        {
+          "text": "Blank Plate",
+          "color": "blue"
+        },
+        {
+          "text": ". I should be able to make one out of clay with a few runes embedded in it. After that, I can fire it in the runeforge to make it able to be scribed."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:rune_clay_plate"
+    },
+    {
+      "type": "arcane_furnace",
+      "location": "mna:arcanefurnace/rune_pattern_blank"
+    }
+  ]
+}

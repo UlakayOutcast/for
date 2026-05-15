@@ -1,0 +1,31 @@
+"Component: Activate": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Activate"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can use a small bit of arcane force to "
+        },
+        {
+          "text": "activate a block",
+          "color": "dark_purple"
+        },
+        {
+          "text": " that I target. Good for switches, buttons, and making a grand entrance through doors."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/activate"
+    }
+  ]
+}

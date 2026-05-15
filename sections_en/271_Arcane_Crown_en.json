@@ -1,0 +1,52 @@
+"Arcane Crown": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Arcane Crown"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This legendary crown was originally forged by an archmage of old. \n\nImbued with tremendous power, it serves to make a mage able to "
+        },
+        {
+          "text": "cast spells more efficiently",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". It also draws in ambient magic, allowing a "
+        },
+        {
+          "text": "larger reservoir of mana",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". Finally, it is rumored that this crown can also occasionally "
+        },
+        {
+          "text": "protect its wearer from debilitating effects",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", but only every so often.\n\nThis crown can only be crafted by those who have allied themselves to the "
+        },
+        {
+          "text": "Council of Wizards",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/arcane_crown"
+    }
+  ]
+}

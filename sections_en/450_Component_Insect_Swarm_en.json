@@ -1,0 +1,38 @@
+"Component: Insect Swarm": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Insect Swarm"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This spell"
+        },
+        {
+          "text": " summons a swarm of insects",
+          "color": "dark_purple"
+        },
+        {
+          "text": " that will attempt to poison any nearby hostile targets. They will attempt to change targets frequently and "
+        },
+        {
+          "text": "keep the poison spreading as much as possible",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nInsect Swarms count against your summon cap."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/insect_swarm"
+    }
+  ]
+}

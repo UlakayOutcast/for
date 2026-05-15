@@ -1,0 +1,38 @@
+"Fortifying Amulet": {
+  "index": "1",
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Fortifying Amulet"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This amulet fortifies me when worn, granting me "
+        },
+        {
+          "text": "immunity to critical hits. ",
+          "color": "dark_purple"
+        },
+        {
+          "text": "It will, if charged, also "
+        },
+        {
+          "text": "protect me from death one time.",
+          "color": "dark_purple"
+        },
+        {
+          "text": " It will need to be recharged after, and the effect has a long cooldown."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/fortifying_amulet"
+    }
+  ]
+}

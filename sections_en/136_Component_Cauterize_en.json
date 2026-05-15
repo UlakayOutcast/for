@@ -1,0 +1,66 @@
+"Component: Cauterize": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Cauterize"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I've been thinking of a way to use fire spells to do more than destroy. I know there are many effects of fire that are beneficial: warmth, cooked food, industry. But what about the preservation of life? I believe with some carefully applied fire, I can "
+        },
+        {
+          "text": "seal up wounds. It will hurt initially",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", but the overall benefit will be greater. It also seems that "
+        },
+        {
+          "text": "if fire is somehow unable to affect the target, then the beneficial healing of the spell is not applied either",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\n"
+        },
+        {
+          "text": "Magnitude 1: Damage 2, heal 4 ",
+          "italic": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Magnitude 2: Damage 4, heal 8 ",
+          "italic": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Magnitude 3: Damage 8, heal 16",
+          "italic": true
+        },
+        {
+          "text": " \n\nThis spell can only be crafted by those allied with the"
+        },
+        {
+          "text": " Demons of the Nether",
+          "color": "dark_red"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/cauterize"
+    }
+  ]
+}

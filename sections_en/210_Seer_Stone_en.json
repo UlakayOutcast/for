@@ -1,0 +1,45 @@
+"Seer Stone": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Seer Stone"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Seer Stone",
+          "color": "blue"
+        },
+        {
+          "text": " is a crystal infused with detection magic. By default, it detects hostile monsters. Several types of items can be placed inside it to fine tune what it targets.\n\nAn empty Player Charm will cause it to detect all players. Attuned player charms will target those specific players only.\n\nAn empty "
+        },
+        {
+          "text": "Crystal Phylactery",
+          "color": "blue"
+        },
+        {
+          "text": " will cause it to detect hostile monsters. This is useful for pairing with player charms, for instance. Crystal phylacteries with any amount of essence in them will target that specific type of entity.\n\nItems in the blacklist will cause those targets to be excluded instead of included.\n\nIf placed adjacent to an "
+        },
+        {
+          "text": "Arcane Sentry,",
+          "color": "blue"
+        },
+        {
+          "text": " the Seer Stone will override its targeting and use the filtered version instead."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/seer_stone"
+    }
+  ]
+}

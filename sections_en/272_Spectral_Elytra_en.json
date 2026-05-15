@@ -1,0 +1,38 @@
+"Spectral Elytra": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Spectral Elytra"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This legendary elytra is enchanted by the fey to allow the wearer's magic to propel them through the sky. While flying with this elytra, "
+        },
+        {
+          "text": "you will be propelled forward as long as you have mana",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nCrouching will cause the elytra to glide like a normal elytra and let you land, while also reducing the mana cost to continue flying. \n\nBe sure to land before running out of mana or there could be disastrous results!\n\nThis elytra can only be crafted by those who have allied themselves to the "
+        },
+        {
+          "text": "Faerie Courts",
+          "color": "dark_green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/spectral_elytra"
+    }
+  ]
+}

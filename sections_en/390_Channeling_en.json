@@ -1,0 +1,44 @@
+"Channeling": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Channeling"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Channeling enchantment can be added to a trident. With this enchantment, "
+        },
+        {
+          "text": "your trident will summon a lightning bolt at a mob if you throw the trident and it hits the mob (while its standing in the rain)",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nWizards using a "
+        },
+        {
+          "text": "Staff, Wand, or Bangle",
+          "color": "blue"
+        },
+        {
+          "text": " enchanted with Channeling will be able to "
+        },
+        {
+          "text": "channel the spell on the item for twice as long",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". "
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/channeling"
+    }
+  ]
+}

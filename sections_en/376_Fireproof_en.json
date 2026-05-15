@@ -1,0 +1,30 @@
+"Fireproof": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Fireproof"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This enchantment will "
+        },
+        {
+          "text": "prevent the enchanted item from burning when thrown into lava or fire",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nIt won't however, make it float in lava. This enchantment also only protects the item from burning up; it won't protect the wearer, nor will it protect from wear and tear damage done while being worn."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/fireproof"
+    }
+  ]
+}

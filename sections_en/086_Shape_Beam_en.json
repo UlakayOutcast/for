@@ -1,0 +1,24 @@
+"Shape: Beam": {
+  "index": "1",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Shape: Beam"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The beam shape will project a magical ray to a point ahead of me in the direction I am facing.\n\nThe width and height are centered on the beam, but the depth starts where the beam impacts and will extend further.\n\nThe beam will persist as long as I channel it."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:shapes/beam"
+    }
+  ]
+}

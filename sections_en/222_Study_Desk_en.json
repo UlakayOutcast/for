@@ -1,0 +1,66 @@
+"Study Desk": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Study Desk"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Study Desk",
+          "color": "blue"
+        },
+        {
+          "text": " allows me to spend some experience along with a "
+        },
+        {
+          "text": "Torn Journal Fragment",
+          "color": "blue"
+        },
+        {
+          "text": " found in structures or "
+        },
+        {
+          "text": "Manaweave Caches",
+          "color": "blue"
+        },
+        {
+          "text": ", or a "
+        },
+        {
+          "text": "Thesis",
+          "color": "blue"
+        },
+        {
+          "text": " written by another wizard at a "
+        },
+        {
+          "text": "Thesis Desk",
+          "color": "blue"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "increase my rote knowledge",
+          "color": "dark_purple"
+        },
+        {
+          "text": " of the given spell part. \n\nFragments are worth 25% rote, and a Thesis instantly conveys full rote."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/study_desk"
+    }
+  ]
+}

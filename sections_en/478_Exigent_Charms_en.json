@@ -1,0 +1,99 @@
+"Exigent Charms": {
+  "index": "1",
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Exigent Charms"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Exigent Charms",
+          "color": "blue"
+        },
+        {
+          "text": " are just like "
+        },
+        {
+          "text": "Contingent Charms",
+          "color": "blue"
+        },
+        {
+          "text": ", however they operate on a charge system and are "
+        },
+        {
+          "text": "able to hold multiple charges of the same spell",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". They are also "
+        },
+        {
+          "text": "not destroyed when the condition triggers",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", instead just going dormant if they run out of charges until another spell is placed on them.\n\n"
+        },
+        {
+          "text": "To add charges to an ",
+          "color": "dark_purple"
+        },
+        {
+          "text": "Exigent Charm",
+          "color": "blue"
+        },
+        {
+          "text": ", all I need to do is "
+        },
+        {
+          "text": "run it through the ",
+          "color": "dark_purple"
+        },
+        {
+          "text": "Transcription Table",
+          "color": "blue"
+        },
+        {
+          "text": " multiple times",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". Each time I do this it will add another charge, up to the maximum."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/artifice/exigent_charm_damage"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/artifice/exigent_charm_death"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/artifice/exigent_charm_drown"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/artifice/exigent_charm_fall"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/artifice/exigent_charm_health"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/artifice/exigent_charm_low_cr"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/artifice/exigent_charm_raid"
+    }
+  ]
+}

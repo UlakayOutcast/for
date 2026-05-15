@@ -1,0 +1,20 @@
+"Living Flame": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Living Flame"
+    },
+    {
+      "type": "text",
+      "value": "The flame in this bottle seems to pulse and move as if alive.  These pulsing pyros are often used in crafting recipes surrounding fire, the nether, and demons."
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/intermediate/living_flame"
+    }
+  ]
+}

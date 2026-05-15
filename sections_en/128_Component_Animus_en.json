@@ -1,0 +1,45 @@
+"Component: Animus": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Animus"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can use my magic to "
+        },
+        {
+          "text": "bring blocks to life",
+          "color": "dark_purple"
+        },
+        {
+          "text": " for a short time! They'll jump around attack my enemies before returning to a block where they stand. This component will cause all further components within the spell to affect the animated entity rather than the original target. \n\nIf I target myself with this spell, I can animate a block that's in my other hand.  "
+        },
+        {
+          "text": "Certain blocks seem to have special abilities",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".  I should pay attention to what I animate.\n\nThis can only be crafted by those who have aligned themselves with the "
+        },
+        {
+          "text": "Council of Wizards",
+          "color": "blue"
+        },
+        {
+          "text": ".  Animus blocks can also be ridden like a horse, though the rider must jump to move. Animus blocks are exceptionally good at going across water.  Animus blocks being ridden have no duration limit.  Some animus blocks can even fly!  These ones are not good with water."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/animus"
+    }
+  ]
+}

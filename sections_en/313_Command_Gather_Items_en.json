@@ -1,0 +1,39 @@
+"Command: Gather Items": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Gather Items"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to "
+        },
+        {
+          "text": "pick up items within the area",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". The construct "
+        },
+        {
+          "text": "needs the carrying capability ",
+          "color": "dark_purple"
+        },
+        {
+          "text": "to perform this task. \n\nIt will store items in a"
+        },
+        {
+          "text": " storage torso",
+          "color": "blue"
+        },
+        {
+          "text": " if possible when performing this task."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+"Modifier: Magnitude": {
+  "index": "3",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Magnitude"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can alter the formula for a spell to have a much more substantial effect. This seems to be more focused on longer term effects rather than instantaneous ones, but I might be able to find other uses for it. I'll have to keep it in mind. \n\n"
+        },
+        {
+          "text": "This modifier can enable magnitude on all components that lesser magnitude affects as well.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:modifiers/magnitude"
+    }
+  ]
+}

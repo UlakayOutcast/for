@@ -1,0 +1,20 @@
+"Witherbone": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Witherbone"
+    },
+    {
+      "type": "text",
+      "value": "This blackened bone is often used in crafting recipes surrounding the ender, the undead, and death."
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/intermediate/witherbone"
+    }
+  ]
+}

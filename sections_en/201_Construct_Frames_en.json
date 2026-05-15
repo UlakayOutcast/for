@@ -1,0 +1,59 @@
+"Construct Frames": {
+  "index": 10,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Construct Frames"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Once the frames are scribed, I will need to forge them into runes. It's similar to forging other runes, but uses "
+        },
+        {
+          "text": "Superheated Purified Vinteum Ingots ",
+          "color": "blue"
+        },
+        {
+          "text": "instead of the standard superheated vinteum ingots."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "location": "mna:arcanefurnace/superheated_purified_vinteum_ingot",
+      "type": "arcane_furnace"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/constructs/runeforge_construct_axe"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/constructs/runeforge_construct_claw"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/constructs/runeforge_construct_hammer"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/constructs/runeforge_construct_head"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/constructs/runeforge_construct_hips"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/constructs/runeforge_construct_rod"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/constructs/runeforge_construct_torso"
+    }
+  ]
+}

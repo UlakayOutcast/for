@@ -1,0 +1,85 @@
+"Runic Glass": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Runic Glass"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Runic Glass",
+          "color": "blue"
+        },
+        {
+          "text": " is a decorative glass that also"
+        },
+        {
+          "text": " emits light.\n\n",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "locations": [
+        "mna:manaweaving/decoration/runic_glass"
+      ]
+    },
+    {
+      "type": "manaweaving_altar",
+      "locations": [
+        "mna:manaweaving/decoration/runic_glass_pane"
+      ]
+    },
+    {
+      "type": "crafting",
+      "locations": [
+        "mna:runic_glass_black",
+        "mna:runic_glass_blue",
+        "mna:runic_glass_brown",
+        "mna:runic_glass_cyan",
+        "mna:runic_glass_gray",
+        "mna:runic_glass_green",
+        "mna:runic_glass_light_blue",
+        "mna:runic_glass_light_gray",
+        "mna:runic_glass_lime",
+        "mna:runic_glass_magenta",
+        "mna:runic_glass_orange",
+        "mna:runic_glass_pink",
+        "mna:runic_glass_purple",
+        "mna:runic_glass_red",
+        "mna:runic_glass_white",
+        "mna:runic_glass_yellow"
+      ]
+    },
+    {
+      "type": "crafting",
+      "locations": [
+        "mna:runic_glass_pane_black",
+        "mna:runic_glass_pane_blue",
+        "mna:runic_glass_pane_brown",
+        "mna:runic_glass_pane_cyan",
+        "mna:runic_glass_pane_gray",
+        "mna:runic_glass_pane_green",
+        "mna:runic_glass_pane_light_blue",
+        "mna:runic_glass_pane_light_gray",
+        "mna:runic_glass_pane_lime",
+        "mna:runic_glass_pane_magenta",
+        "mna:runic_glass_pane_orange",
+        "mna:runic_glass_pane_pink",
+        "mna:runic_glass_pane_purple",
+        "mna:runic_glass_pane_red",
+        "mna:runic_glass_pane_white",
+        "mna:runic_glass_pane_yellow"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+"Construct Nozzle Arm": {
+  "index": "3",
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Construct Nozzle Arms"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Construct nozzle arms allow them to "
+        },
+        {
+          "text": "collect fluids",
+          "color": "dark_purple"
+        },
+        {
+          "text": " from containers or source blocks in the world, "
+        },
+        {
+          "text": "place fluids",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in containers or as source blocks, and "
+        },
+        {
+          "text": "spray fluids",
+          "color": "dark_purple"
+        },
+        {
+          "text": " at enemies or allies.  Constructs will attempt to soak creepers with water if present (which will prevent them from igniting), and then move in to melee or use other attack types.\n\nThe fluid type determines what effect is done and who is targeted. \n\nWater has high knockback and puts out fire.  The construct will extinguish its owner if it is on follow mode.  Smarter constructs will attempt to keep owners soaked before they ignite.\n\nLava lights targets on fire and does a lot of damage. \n\nMilk removes status effects.  The construct will attempt to use it to dispel harmful effects from allies and beneficial effects from enemies when in a follow or patrol command.\n\nThe construct "
+        },
+        {
+          "text": "must be able to store fluid",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in order to use this arm type, see the "
+        },
+        {
+          "text": "Tank Torso",
+          "color": "blue"
+        },
+        {
+          "text": ".\n\nIf a construct has 2 fluid nozzle arms its AoE cone and distance will be increased."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "locations": [
+        "mna:manaweaving/constructs/wood/wood_nozzle_arm_left",
+        "mna:manaweaving/constructs/stone/stone_nozzle_arm_left",
+        "mna:manaweaving/constructs/bone/bone_nozzle_arm_left",
+        "mna:manaweaving/constructs/iron/iron_nozzle_arm_left",
+        "mna:manaweaving/constructs/gold/gold_nozzle_arm_left"
+      ]
+    },
+    {
+      "type": "manaweaving_altar",
+      "locations": [
+        "mna:manaweaving/constructs/wood/wood_nozzle_arm_right",
+        "mna:manaweaving/constructs/stone/stone_nozzle_arm_right",
+        "mna:manaweaving/constructs/bone/bone_nozzle_arm_right",
+        "mna:manaweaving/constructs/iron/iron_nozzle_arm_right",
+        "mna:manaweaving/constructs/gold/gold_nozzle_arm_right"
+      ]
+    },
+    {
+      "type": "eldrin_altar",
+      "locations": [
+        "mna:eldrin_altar/construct/diamond/diamond_nozzle_arm_left",
+        "mna:eldrin_altar/construct/obsidian/obsidian_nozzle_arm_left"
+      ]
+    },
+    {
+      "type": "eldrin_altar",
+      "locations": [
+        "mna:eldrin_altar/construct/diamond/diamond_nozzle_arm_right",
+        "mna:eldrin_altar/construct/obsidian/obsidian_nozzle_arm_right"
+      ]
+    }
+  ]
+}

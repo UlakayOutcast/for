@@ -1,0 +1,42 @@
+"Warding Candles": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Warding Candles"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Warding Candles",
+          "color": "blue"
+        },
+        {
+          "text": " can be used to "
+        },
+        {
+          "text": "prevent hostile creatures from spawning",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in a 32 block radius cube centered the candle. \n\n"
+        },
+        {
+          "text": "They must be lit",
+          "color": "dark_purple"
+        },
+        {
+          "text": " with flint and steel, a fire spell, or a flame cantrip to function. They can be extinguished by activating them. When extinguished, they will not prevent monsters from spawning."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "location": "mna:manaweaving/artifice/warding_candle",
+      "type": "manaweaving_altar"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+"Component: Earthquake": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Earthquake"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Shaking the very earth, this spell "
+        },
+        {
+          "text": "tosses blocks into the air, deals damage to those inside and forces them prone",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". The falling blocks can "
+        },
+        {
+          "text": "potentially bury them",
+          "color": "dark_purple"
+        },
+        {
+          "text": " beneath the earth."
+        }
+      ]
+    }
+  ]
+}

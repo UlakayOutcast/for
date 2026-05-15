@@ -1,0 +1,256 @@
+"Magic Staves, Wands, and Bangles": {
+  "index": 6,
+  "category": "manaweaving",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Magic Staves, Wands, and Bangles"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Magic staves, wands, and bangles are aesthetic choices for mages who want to cast from them.\n\nStaves and wands are perfect for their direct look, and bangles are perfect when I simply want to hold the spell in my hands.\n\n"
+        },
+        {
+          "text": "All of them can be enchanted",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", with some even applying bonuses to spells!"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": " Staves, wands, and bangles can be "
+        },
+        {
+          "text": "found as loot",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in dungeons and structures, and may have a random spell on them with limited charges. Staves and wands with charges do not take any mana to cast, but will eventually break.  "
+        },
+        {
+          "text": "I do not know of any way to replenish these charges",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nA "
+        },
+        {
+          "text": "simple spell",
+          "color": "blue"
+        },
+        {
+          "text": " can be "
+        },
+        {
+          "text": "combined",
+          "color": "dark_purple"
+        },
+        {
+          "text": " with a "
+        },
+        {
+          "text": "staff, wand, or bangle",
+          "color": "blue"
+        },
+        {
+          "text": " at a "
+        },
+        {
+          "text": "Manaweaving Altar",
+          "color": "blue"
+        },
+        {
+          "text": ".\n\nA "
+        },
+        {
+          "text": "rote spell",
+          "color": "blue"
+        },
+        {
+          "text": " can be "
+        },
+        {
+          "text": "transcribed",
+          "color": "dark_purple"
+        },
+        {
+          "text": " onto a "
+        },
+        {
+          "text": "staff, wand, or bangle",
+          "color": "blue"
+        },
+        {
+          "text": " using a "
+        },
+        {
+          "text": "Transcription Table",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Enchantment Effects"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Certain enchantments are available to all factions on staves, and other enchants, while they can be applied, will only perform their effect if the wizard is a member of the correct faction.\n\n"
+        },
+        {
+          "text": "Bludgeoning",
+          "color": "blue"
+        },
+        {
+          "text": " will cause the staff, wand, or bangle to deal more melee damage.\n\n"
+        },
+        {
+          "text": "Ascended Duration, Ascended Range, or Ascended Speed",
+          "color": "blue"
+        },
+        {
+          "text": " causes the spell's Duration, Range, or Speed values respectively to be increased by a number of steps equal to the enchantment level.\n\n"
+        },
+        {
+          "text": "Efficiency",
+          "color": "blue"
+        },
+        {
+          "text": " reduces the mana cost of the contained spell.\n\n"
+        },
+        {
+          "text": "Quick Charge",
+          "color": "blue"
+        },
+        {
+          "text": " reduces the cooldown of the contained spell.\n\n"
+        },
+        {
+          "text": "Lure",
+          "color": "blue"
+        },
+        {
+          "text": " causes the spell to have a chance to taunt the target when it is successfully applied.\n\n"
+        },
+        {
+          "text": "Aqua Affinity",
+          "color": "blue"
+        },
+        {
+          "text": " allows fire spells to work underwater.\n\n"
+        },
+        {
+          "text": "Channeling",
+          "color": "blue"
+        },
+        {
+          "text": " doubles the duration you can channel spells.\n\n"
+        },
+        {
+          "text": "Loyalty",
+          "color": "blue"
+        },
+        {
+          "text": " increases the number of summons called with a single cast of a summon spell, and boosts the maximum number of summons you can have.\n\n"
+        },
+        {
+          "text": "Demons",
+          "color": "dark_red"
+        },
+        {
+          "text": " benefit from the "
+        },
+        {
+          "text": "Flame",
+          "color": "dark_red"
+        },
+        {
+          "text": " enchantment on spell foci, which reduces spell cooldowns by 66.6% while the caster is on fire and makes brimstone overcasting from health twice as efficient.\n\n"
+        },
+        {
+          "text": "The Fey",
+          "color": "dark_green"
+        },
+        {
+          "text": " benefit from a "
+        },
+        {
+          "text": "Thorns",
+          "color": "dark_green"
+        },
+        {
+          "text": " enchantment on spell foci which causes targets hit in melee to gain the Writhing Brambles effect, causing damage when they move.\n\n"
+        },
+        {
+          "text": "The Council",
+          "color": "blue"
+        },
+        {
+          "text": " benefits from the "
+        },
+        {
+          "text": "Power",
+          "color": "blue"
+        },
+        {
+          "text": " enchant on spell foci, granting the following benefits, each one scaling by the strength of the Power enchantment applied:\n- Embers and Projectile spells gain homing capabilities\n- Sigil limit is increased\n- Smite bonus damage from falling is increased\n\n"
+        },
+        {
+          "text": "Undead",
+          "color": "dark_gray"
+        },
+        {
+          "text": " benefit from the "
+        },
+        {
+          "text": "Frost Walker",
+          "color": "dark_gray"
+        },
+        {
+          "text": " enchantment on spell foci, giving them a pulsing aura of damage and causing jumping while sneaking to turn them into mist, allowing flight for short bursts."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "locations": [
+        "mna:staves/staff_amethyst",
+        "mna:staves/staff_aum",
+        "mna:staves/staff_cerublossom",
+        "mna:staves/staff_chimerite",
+        "mna:staves/staff_desertnova",
+        "mna:staves/staff_emerald",
+        "mna:staves/staff_glass",
+        "mna:staves/staff_gold",
+        "mna:staves/staff_iron",
+        "mna:staves/staff_lapis",
+        "mna:staves/staff_netherquartz",
+        "mna:staves/staff_prismarinecrystal",
+        "mna:staves/staff_prismarineshard",
+        "mna:staves/staff_redstone",
+        "mna:staves/staff_skull",
+        "mna:staves/staff_tarma",
+        "mna:staves/staff_vinteum",
+        "mna:staves/staff_wakebloom"
+      ],
+      "type": "crafting"
+    },
+    {
+      "location": "mna:staves/bangle",
+      "type": "crafting"
+    }
+  ]
+}

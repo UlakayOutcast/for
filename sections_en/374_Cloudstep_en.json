@@ -1,0 +1,45 @@
+"Cloudstep": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Cloudstep"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This enchantment creates a burst of air beneath my boots (where the enchantment must be applied) "
+        },
+        {
+          "text": "allowing me to jump again in midair",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". Higher levels of the enchantment will allow me to jump more than once in midair.\n\nAny level of this enchantment will also "
+        },
+        {
+          "text": "allow me to walk on top of powdered snow safely",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", similar to leather boots."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/cloudstep_i"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/cloudstep_ii"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/cloudstep_iii"
+    }
+  ]
+}

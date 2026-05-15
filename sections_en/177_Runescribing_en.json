@@ -1,0 +1,103 @@
+"Runescribing": {
+  "index": -98,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Runescribing"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The first step in most artifice involves creating "
+        },
+        {
+          "text": "magical runes",
+          "color": "blue"
+        },
+        {
+          "text": ". \n\nAll runes required a scribed pattern. \n\nTo make it, I need to take a "
+        },
+        {
+          "text": "blank pattern",
+          "color": "blue"
+        },
+        {
+          "text": " to a "
+        },
+        {
+          "text": "Runescribing Table",
+          "color": "blue"
+        },
+        {
+          "text": ", along with a "
+        },
+        {
+          "text": "Runesmith's Hammer",
+          "color": "blue"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Runesmith's Chisel",
+          "color": "blue"
+        },
+        {
+          "text": ". \n\nUsing these tools, I then need to chisel out the desired pattern of the rune. I should take care when chiselling the pattern, as any mistakes will be expensive to undo! To undo a chisel mark, it will cost me some clay and some knowledge "
+        },
+        {
+          "text": "(XP)",
+          "italic": true
+        },
+        {
+          "text": " for each one I need to undo.\n\nI remember hearing "
+        },
+        {
+          "text": "Runesmith Villagers",
+          "color": "blue"
+        },
+        {
+          "text": " hawking wares and mentioning something about "
+        },
+        {
+          "text": "selling patterns",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".  If I make a rune in the first place, I can also convert it into a "
+        },
+        {
+          "text": "Charcoal Pattern",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:rune_clay_plate"
+    },
+    {
+      "type": "arcane_furnace",
+      "location": "mna:rune_pattern_blank"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:runescribing/runescribing_table"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:runeforging/runesmith_hammer"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:runescribing/runesmith_chisel"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+"Glyphs": {
+  "index": -1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Glyphs"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Basic "
+        },
+        {
+          "text": "glyphs",
+          "color": "blue"
+        },
+        {
+          "text": " are a cornerstone of magical crafting. A blank glyph is crafted with various dye colors to create magical patterns. These glyphs are then used to focus magical effects such as rituals and enchanting. \n\nWizards often modify "
+        },
+        {
+          "text": "Practitioner's Pouches",
+          "color": "blue"
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "patches",
+          "color": "blue"
+        },
+        {
+          "text": " specifically to carry these glyphs."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:stone_runes/rune_blank"
+    },
+    {
+      "type": "crafting",
+      "locations": [
+        "mna:stone_runes/rune_black",
+        "mna:stone_runes/rune_brown",
+        "mna:stone_runes/rune_blue",
+        "mna:stone_runes/rune_cyan",
+        "mna:stone_runes/rune_gray",
+        "mna:stone_runes/rune_green",
+        "mna:stone_runes/rune_light_blue",
+        "mna:stone_runes/rune_light_gray",
+        "mna:stone_runes/rune_lime",
+        "mna:stone_runes/rune_magenta",
+        "mna:stone_runes/rune_orange",
+        "mna:stone_runes/rune_pink",
+        "mna:stone_runes/rune_purple",
+        "mna:stone_runes/rune_red",
+        "mna:stone_runes/rune_white",
+        "mna:stone_runes/rune_yellow"
+      ]
+    }
+  ]
+}

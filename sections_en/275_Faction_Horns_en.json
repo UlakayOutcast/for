@@ -1,0 +1,47 @@
+"Faction Horns": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Faction Horns"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I have found a recipe for a given device that resonates deeply with members of my faction. I can turn this into a horn that when blown will "
+        },
+        {
+          "text": "summon allies from my faction to aid me",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". This can only be done very infrequently, and my allies will only remain for a short duration.\n\n"
+        },
+        {
+          "text": "You can only craft/use the horn of your faction.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/artifice/horn_council"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/artifice/horn_demons"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/artifice/horn_fey"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/artifice/horn_undead"
+    }
+  ]
+}

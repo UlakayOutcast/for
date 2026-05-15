@@ -1,0 +1,38 @@
+"Component: Shatter": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Shatter"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This component,"
+        },
+        {
+          "text": " if targeting a creature that is frozen",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", will shatter the ice surrounding them to deal a "
+        },
+        {
+          "text": "large amount of frost damage",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/shatter"
+    }
+  ]
+}

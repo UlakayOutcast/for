@@ -1,0 +1,29 @@
+"Monsoon": {
+  "index": 0,
+  "category": "rituals",
+  "tier": 4,
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ritual of the Monsoon"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can use this ritual to summon a torrent of rain. \nIf I add some gray wool to the top of the ritual, it will cause a thunderstorm."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "minecraft:gray_wool"
+    },
+    {
+      "type": "ritual",
+      "location": "mna:rituals/monsoon"
+    }
+  ]
+}

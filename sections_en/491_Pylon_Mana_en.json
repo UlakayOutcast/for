@@ -1,0 +1,52 @@
+"Pylon: Mana": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Pylon: Mana"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "By using the right combination of runes, I have figured out a way to create a pylon similar to the ones of old. It converts arcane eldrin energy into pure mana, and simply standing near it makes me feel like "
+        },
+        {
+          "text": "my own reserves of mana replenish more quickly",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nIt can also charge items that are on "
+        },
+        {
+          "text": "Pedestals",
+          "color": "blue"
+        },
+        {
+          "text": ", and will recharge "
+        },
+        {
+          "text": "Constructs",
+          "color": "blue"
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "Mana Torsos",
+          "color": "blue"
+        },
+        {
+          "text": " within range."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/pylon/mana"
+    }
+  ]
+}

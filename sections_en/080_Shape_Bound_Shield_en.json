@@ -1,0 +1,49 @@
+"Shape: Bound Shield": {
+  "index": "1",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Shape: Bound Shield"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This shape will cause the spell (or spell staff/book) to coalesce into a bound shield. \n\nThe components will be applied to whatever enemy I block with it, as long as they are within 5 blocks of me. \n\nThe shield has a "
+        },
+        {
+          "text": "constant minor mana drain that increases while actively blocking",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "consumes a burst of mana with each block.",
+          "color": "dark_purple"
+        },
+        {
+          "text": "\n\nThe passive mana cost can be eliminated by wearing a "
+        },
+        {
+          "text": "Warding Amulet.",
+          "color": "blue"
+        },
+        {
+          "text": "\n\nTo return the shield to a spell, drop it on the ground.  It will also automatically revert if I run out of mana."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:shapes/bound_shield"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/warding_amulet"
+    }
+  ]
+}

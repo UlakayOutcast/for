@@ -1,0 +1,31 @@
+"Staff of Calling": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Staff of Calling"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This staff is capable of holding several "
+        },
+        {
+          "text": "Crystal Phylacteries",
+          "color": "blue"
+        },
+        {
+          "text": " and quickly switching between them to rapidly control summons. It also has a handy center area that is just for additional storage.  I can wear it on my back or hold it in my offhand."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/staff_of_calling"
+    }
+  ]
+}

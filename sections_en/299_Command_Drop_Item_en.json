@@ -1,0 +1,25 @@
+"Command: Drop Item": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Drop Item"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to "
+        },
+        {
+          "text": "move to the given location and drop whatever items it is holding in its hands",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ]
+}

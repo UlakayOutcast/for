@@ -1,0 +1,38 @@
+"Ring of Brittle Bone": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ring of Brittle Bone"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This sinister ring, when worn, seems to draw more of the mystical life force out of targets killed by undead wizards, "
+        },
+        {
+          "text": "increasing the amount of souls they gain from all sources",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nThis ring can only be crafted by those that have allied themselves with the "
+        },
+        {
+          "text": "Undead",
+          "color": "dark_gray"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/bone_ring"
+    }
+  ]
+}

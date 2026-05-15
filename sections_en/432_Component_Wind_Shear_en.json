@@ -1,0 +1,45 @@
+"Component: Wind Shear": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Wind Shear"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "There are those that say wind magic must be chaotic and untamed (though less so than ender). However it is possible to wield the power of wind with control and precision. \n\nThis spell part "
+        },
+        {
+          "text": "attacks the target with blades of air",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", and gains a damage boost the closer the target is to the target height above the ground. \n\n"
+        },
+        {
+          "text": "The more precise I am willing to be, the more of a devastating strike I can deliver",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nThis spell component can only be crafted by those that have aligned themselves with the "
+        },
+        {
+          "text": "Faerie Courts",
+          "color": "dark_green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/wind_shear"
+    }
+  ]
+}

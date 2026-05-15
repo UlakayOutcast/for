@@ -1,0 +1,30 @@
+"Mana Repair": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Mana Repair"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I've been considering the basic armor that mages make and how it can use the magic of its wearer to stitch itself back together. \n\nI think I can enchant other things, allowing them to be "
+        },
+        {
+          "text": "repaired automatically using my mana",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/mana_repair"
+    }
+  ]
+}

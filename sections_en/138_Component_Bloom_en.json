@@ -1,0 +1,38 @@
+"Component: Bloom": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Bloom"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can use a pinch of bonemeal and expand it into an entire spell, applying the bonemeal across the entire space. \n\nThis spell requires "
+        },
+        {
+          "text": "Bonemeal",
+          "color": "blue"
+        },
+        {
+          "text": " in my inventory as a reagent, unless I have allied myself with the "
+        },
+        {
+          "text": "Faerie Courts",
+          "color": "dark_green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/bloom"
+    }
+  ]
+}

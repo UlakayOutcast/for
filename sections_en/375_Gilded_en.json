@@ -1,0 +1,30 @@
+"Gilded": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Gilded"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This enchantment uses a small amount of gold to "
+        },
+        {
+          "text": "mask my armor to piglins, making it appear gold to them and keeping them docile",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", provided I don't provoke them in other ways.\n\nOnly one piece of my armor needs this enchant to gain the benefit of it."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/gilded"
+    }
+  ]
+}

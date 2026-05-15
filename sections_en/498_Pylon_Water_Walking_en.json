@@ -1,0 +1,45 @@
+"Pylon: Water Walking": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Pylon: Water Walking"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This pylon will consume small amounts of "
+        },
+        {
+          "text": "Water Eldrin Power",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to apply an "
+        },
+        {
+          "text": "effect that allows walking on water",
+          "color": "blue"
+        },
+        {
+          "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+        },
+        {
+          "text": "Runes of Marking",
+          "color": "blue"
+        },
+        {
+          "text": ". It can also be toggled to only affect factions that are allied with my own."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/pylon/water_walking"
+    }
+  ]
+}

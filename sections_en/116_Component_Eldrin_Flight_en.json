@@ -1,0 +1,80 @@
+"Component: Eldrin Flight": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Eldrin Flight"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "By focusing on the ambient streams of magic that form the "
+        },
+        {
+          "text": "Eldrin Wellsprings",
+          "color": "blue"
+        },
+        {
+          "text": " of the world, I can attune my own magic to them and "
+        },
+        {
+          "text": "cause my target to be swept up and carried along them at immense speed",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nThis spell "
+        },
+        {
+          "text": "requires being cast twice",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in order to work. \n\nThe "
+        },
+        {
+          "text": "first cast",
+          "color": "dark_purple"
+        },
+        {
+          "text": " no matter the target will cause them to start "
+        },
+        {
+          "text": "seeing paths toward wellsprings",
+          "color": "dark_purple"
+        },
+        {
+          "text": " for about 10 seconds. \n\nThe "
+        },
+        {
+          "text": "second cast",
+          "color": "dark_purple"
+        },
+        {
+          "text": " will cause the target to "
+        },
+        {
+          "text": "launch along the closest path to where they are looking",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nThe spell will place me at the surface of the world, or if the Wellspring is captured, it will place me within the capture, if able. It also appears that I can see the affinities of captured Wellsprings I might travel to when choosing.   This might help in selecting which one I want to navigate towards. \n\nIt seems this spell can only target me and other wizards, and only if they are allied with me "
+        },
+        {
+          "text": "(Vanilla Scoreboard Teams)",
+          "italic": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/eldrin_flight"
+    }
+  ]
+}

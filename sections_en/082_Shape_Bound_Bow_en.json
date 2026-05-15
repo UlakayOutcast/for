@@ -1,0 +1,53 @@
+"Shape: Bound Bow": {
+  "index": "1",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Shape: Bound Bow"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This shape will cause the spell (or spell staff/book) to coalesce into a bound bow. \n\nThe components will be applied to whatever mob I hit with its arrows. The bow has a "
+        },
+        {
+          "text": "constant minor mana drain, unless I am wearing a ",
+          "color": "dark_purple"
+        },
+        {
+          "text": "Battlemage Amulet",
+          "color": "blue"
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "consumes a burst of mana with each arrow fired",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". However, the arrows are made of pure mana and "
+        },
+        {
+          "text": "don't require nor consume any arrows from my pack",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nTo return the bow to a spell, drop it on the ground.  It will automatically revert if I run out of mana."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:shapes/bound_bow"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/battlemage_amulet"
+    }
+  ]
+}

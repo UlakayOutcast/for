@@ -1,0 +1,38 @@
+"Enderguard Amulet": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Enderguard Amulet"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This amulet, when worn, will "
+        },
+        {
+          "text": "teleport nearby creepers that are about to explode away from me",
+          "color": "dark_purple"
+        },
+        {
+          "text": " as long as it has charge remaining.  It can make use of "
+        },
+        {
+          "text": "Mana Gem Fragments",
+          "color": "blue"
+        },
+        {
+          "text": " and their upgrades that are in my pack to extend its charge.\n\nHopefully they don't teleport near something else that's friendly.  I'm sure it'll be fine."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/enderguard_amulet"
+    }
+  ]
+}

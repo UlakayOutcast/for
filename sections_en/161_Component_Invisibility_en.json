@@ -1,0 +1,31 @@
+"Component: Invisibility": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Invisibility"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Wizards can do some amazing things with magic. Calling down fire and thunder, summoning gale force winds, stepping across dimensions and over long distances, and so much more. But most times, those kinds of things take time and preparation. I've found, that sometimes the best way to get things done is to "
+        },
+        {
+          "text": "not be seen at all",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".  \n\nUnfortunately, this effect is not capable of hiding my equipment.  I wonder if there are stronger effects that would? "
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/invisibility"
+    }
+  ]
+}

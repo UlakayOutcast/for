@@ -1,0 +1,38 @@
+"Component: Dampen Magic": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Dampen Magic"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This spell dampens magic on the target, "
+        },
+        {
+          "text": "decreasing mana regneration as well as incoming damage from magical sources",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nIt can only be crafted by those that have aligned themselves with the "
+        },
+        {
+          "text": "Council of Wizards",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/dampen_magic"
+    }
+  ]
+}

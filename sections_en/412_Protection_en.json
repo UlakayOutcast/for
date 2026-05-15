@@ -1,0 +1,43 @@
+"Protection": {
+  "index": 0,
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Protection"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Protection enchantment is a "
+        },
+        {
+          "text": "comprehensive protection against all types of damage",
+          "color": "dark_purple"
+        },
+        {
+          "text": " such as damage from attacks, fire, lava, and falling."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/protection_i"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/protection_ii"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/protection_iii"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/protection_iv"
+    }
+  ]
+}

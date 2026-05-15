@@ -1,0 +1,45 @@
+"Runeforge": {
+  "index": -99,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Runeforge"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Runeforge",
+          "color": "blue"
+        },
+        {
+          "text": " is a magical furnace that runs on ambient magic in the air. As such, "
+        },
+        {
+          "text": "it requires no additional fuel source",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nIt has a few of its own recipes, but will also do campfire recipes in half the time, furnace recipes in twice the time, and blast furnace recipes in twice the time. \n\nIt will accept up to 16 items at a time, but the total cook time is multiplied by the number of items in it."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "value": "Once you have advanced in tier, you will unlock upgrades to the Runeforge in the form of speed increases, ore doubling, and item repair."
+    }
+  ],
+  "related_recipes": [
+    {
+      "locations": [
+        "mna:runeforge",
+        "mna:runeforge_alt"
+      ],
+      "type": "crafting"
+    }
+  ]
+}

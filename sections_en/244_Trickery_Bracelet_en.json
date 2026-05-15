@@ -1,0 +1,52 @@
+"Trickery Bracelet": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Trickery Bracelet"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This bracelet will "
+        },
+        {
+          "text": "enhance my stealth",
+          "color": "dark_purple"
+        },
+        {
+          "text": " while sneaking and allow me to deliver an "
+        },
+        {
+          "text": "unarmed punch that will send my target flying",
+          "color": "dark_purple"
+        },
+        {
+          "text": " away from me. \n\nIt only contains so much magic, and will eventually need to be recharged. It can make use of "
+        },
+        {
+          "text": "Mana Gem Fragments",
+          "color": "blue"
+        },
+        {
+          "text": " and their upgrades that are in my pack to extend its internal charge.\n\nThis can only be crafted by those aligned with the "
+        },
+        {
+          "text": "Fey Courts",
+          "color": "dark_green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/trickery_bracelet"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+"Sharpness": {
+  "index": 0,
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Sharpness"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Sharpness enchantment "
+        },
+        {
+          "text": "increases the amount of attack damage",
+          "color": "dark_purple"
+        },
+        {
+          "text": " dealt to a player or mob."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/sharpness_i"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/sharpness_ii"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/sharpness_iii"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/sharpness_iv"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/sharpness_v"
+    }
+  ]
+}

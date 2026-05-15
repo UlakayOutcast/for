@@ -1,0 +1,31 @@
+"Shape: Touch": {
+  "index": "1",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Shape: Touch"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This shape is a relatively short range effect, based on what I can reach, however the close proximity requires much less energy to cast. As a result, it has a much higher capacity for radius.  "
+        },
+        {
+          "text": "If I extend my reach distance even temporarily, it extends the range of this shape.",
+          "color": "dark_purple"
+        },
+        {
+          "text": "\n\nWhen targeting blocks horizontally, the shape will only ever extend down one block, the rest of the height will extend upward. For all directions, it will also lock the radius to the plane matching the face of the block hit. This makes it ideal for precision tunneling and excavation."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:shapes/touch"
+    }
+  ]
+}

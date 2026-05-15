@@ -1,0 +1,43 @@
+"Command: Adventure": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Adventure"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to "
+        },
+        {
+          "text": "wander off and disappear for a few minutes as it goes on an adventure",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". When it returns it will have some random adventuring loot it found on its journey. \n\nIt "
+        },
+        {
+          "text": "needs a grabber arm",
+          "color": "dark_purple"
+        },
+        {
+          "text": " at least to store items. It will be able to bring back more items if it has a "
+        },
+        {
+          "text": "storage torso",
+          "color": "blue"
+        },
+        {
+          "text": ". \n\n"
+        },
+        {
+          "text": "The construct needs a minimum intelligence of 16 to perform this task.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ]
+}

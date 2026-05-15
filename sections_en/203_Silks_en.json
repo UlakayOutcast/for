@@ -1,0 +1,42 @@
+"Silks": {
+  "index": -1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Silks"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Certain "
+        },
+        {
+          "text": "silks",
+          "color": "blue"
+        },
+        {
+          "text": " can be created by combining the right ingredients at a "
+        },
+        {
+          "text": "Manaweaving Altar",
+          "color": "blue"
+        },
+        {
+          "text": ". These silks are used in other crafting recipes."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/intermediate/infused_silk"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/intermediate/runic_silk"
+    }
+  ]
+}

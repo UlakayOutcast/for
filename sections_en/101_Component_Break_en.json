@@ -1,0 +1,53 @@
+"Component: Break": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Break"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can focus my magic to break things. "
+        },
+        {
+          "text": "Dirt, Stone, and more all shatters at my command",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". I can feel the earth shake below my feet. \n\nIf I put more effort into the spell to "
+        },
+        {
+          "text": "increase its magnitude, I can increase what it can break",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nI've heard rumors that there are "
+        },
+        {
+          "text": "magic rings that can do this for me as well",
+          "color": "blue"
+        },
+        {
+          "text": ". I should check back when I've gained some experience."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/break"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/break_ring_lesser"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/break_ring_greater"
+    }
+  ]
+}

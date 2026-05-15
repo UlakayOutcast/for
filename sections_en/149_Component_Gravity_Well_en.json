@@ -1,0 +1,31 @@
+"Component: Gravity Well": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Gravity Well"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I saw an apple falling of a tree the other day, and it gave me an idea. What if I used a spell to enhance the gravity of that apple? Maybe that's thinking too small. What if I could "
+        },
+        {
+          "text": "increase gravity on my target",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in general?\n\nThey would hit the ground harder when they fall, and it could probably force some flying targets to the ground."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/gravity_well"
+    }
+  ]
+}

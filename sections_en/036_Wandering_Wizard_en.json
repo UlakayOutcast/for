@@ -1,0 +1,42 @@
+"Wandering Wizard": {
+  "index": 0,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ritual of the Wandering Wizard"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This ritual will open a portal and summon a walker of the planes, a "
+        },
+        {
+          "text": "Wandering Wizard",
+          "color": "blue"
+        },
+        {
+          "text": " that will trade with you for various magical wares. \n\nAn experienced traveller, he has access to all of the patterns needed for manaweaving as well as the "
+        },
+        {
+          "text": "Ritual of Locating",
+          "color": "blue"
+        },
+        {
+          "text": ". Well, most of the locations.  There are locations that even this experienced traveler won't share, out of fear of retribution from the various magical factions.  However, rumors tell of a very powerful creature that harbors no such fear and will deal in these locations in exchange for theses of rote knowledge. "
+        },
+        {
+          "text": "The Wandering Wizard will only remain for a minute before continuing on his journey.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "ritual",
+      "location": "mna:rituals/wandering_wizard"
+    }
+  ]
+}

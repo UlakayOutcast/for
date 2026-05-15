@@ -1,0 +1,249 @@
+"Finding Wellsprings": {
+  "index": -98,
+  "category": "eldrin_altar",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Finding Wellsprings"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Depending on "
+        },
+        {
+          "text": "faction",
+          "color": "blue"
+        },
+        {
+          "text": ", there are different ways to find Eldrin Wellsprings."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Eldrin Sight Unguent",
+      "newPage": true
+    },
+    {
+      "type": "item",
+      "location": "mna:eldrin_sight_unguent",
+      "scale": 1
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Eldrin Sight Unguent",
+          "color": "blue"
+        },
+        {
+          "text": " is a concoction that, when applied just below the eyes, allows me to see more of the magical aura around me for a short time, including "
+        },
+        {
+          "text": "allowing me to see nearby Wellsprings",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". It also helps to pierce veils and illusions created by other mages. \n\nCreating the Eldrin Sight Unguent requires the creator to be aligned with the "
+        },
+        {
+          "text": "Council of Wizards",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Unguent of Wellspring Seeing",
+      "newPage": true
+    },
+    {
+      "type": "item",
+      "location": "mna:wellspring_sight_unguent",
+      "scale": 1
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Wellspring Sight Unguent",
+          "color": "blue"
+        },
+        {
+          "text": " is a less powerful version of the "
+        },
+        {
+          "text": "Eldrin Sight Unguent",
+          "color": "blue"
+        },
+        {
+          "text": ", which when applied in a similar way "
+        },
+        {
+          "text": "allows me to see Wellsprings",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", though without any of the other benefits the Sight Unguent provides.  It does have a longer duration, and so is objectively better for this singular task."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Dowsing Rod",
+      "newPage": true
+    },
+    {
+      "type": "item",
+      "location": "mna:dowsing_rod",
+      "scale": 1
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Unless allied with the "
+        },
+        {
+          "text": "council",
+          "color": "blue"
+        },
+        {
+          "text": " (and therefore given access to use "
+        },
+        {
+          "text": "Eldrin Flight",
+          "color": "blue"
+        },
+        {
+          "text": "), other wizards must use more mundane methods to locate wellsprings.\n\nEnter the "
+        },
+        {
+          "text": "Dowsing Rod",
+          "color": "blue"
+        },
+        {
+          "text": ". This rod, when used continually "
+        },
+        {
+          "text": "(hold right mouse button)",
+          "italic": true
+        },
+        {
+          "text": " will gradually point me towards the nearest wellspring, "
+        },
+        {
+          "text": "provided I have a Chimerite Gem in my other hand",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nA trickle of mana is required to make the rod work, but it shouldn't prove too taxing."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Locating Specific Wellsprings",
+      "newPage": true
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Wellsprings have affinities",
+          "color": "blue"
+        },
+        {
+          "text": ", and these affinities are often a result of the surroundings of the wellspring. \n\n"
+        },
+        {
+          "text": "It is possible to find any wellspring anywhere",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", however I'm most likely to find wellsprings for each affinity in the following types of places:\n\n"
+        },
+        {
+          "text": "Arcane",
+          "color": "blue"
+        },
+        {
+          "text": ": Found in the high places, forests, and jungles.\n\n"
+        },
+        {
+          "text": "Earth",
+          "color": "blue"
+        },
+        {
+          "text": ": Found in forests, swamps, mesas, plateaus, and jungles.\n\n"
+        },
+        {
+          "text": "Water",
+          "color": "blue"
+        },
+        {
+          "text": ": Found in rivers, oceans, and swamps.\n\n"
+        },
+        {
+          "text": "Wind",
+          "color": "blue"
+        },
+        {
+          "text": ": Found in plains, plateaus, and savannas, as well as the highest of places.\n\n"
+        },
+        {
+          "text": "Fire",
+          "color": "blue"
+        },
+        {
+          "text": ": Found in deserts and hellish places.\n\n"
+        },
+        {
+          "text": "Ender",
+          "color": "blue"
+        },
+        {
+          "text": ": Found in swamps, mushroom infested lands, and places where the void is strongest.\n\n"
+        },
+        {
+          "text": "(These settings are ignored if the config for generic wellsprings is enabled, in which all wellsprings will be ",
+          "italic": true
+        },
+        {
+          "text": "generic",
+          "italic": true,
+          "color": "dark_purple"
+        },
+        {
+          "text": ")",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/eldrin_sight_unguent"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/wellspring_sight_unguent"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/wellspring_dowsing_rod"
+    }
+  ]
+}

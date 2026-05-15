@@ -1,0 +1,45 @@
+"Runeforge Upgrade: Brimstone Forge": {
+  "index": -91,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Runeforge Upgrade: Brimstone Forge"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Brimstone Forge",
+          "color": "blue"
+        },
+        {
+          "text": " is an upgrade to the "
+        },
+        {
+          "text": "Runeforge",
+          "color": "blue"
+        },
+        {
+          "text": " that greatly increases the smelting speed. \n\nI can upgrade a forge by crafting a "
+        },
+        {
+          "text": "Brimstone Charm",
+          "color": "blue"
+        },
+        {
+          "text": " and activating the forge with it."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "location": "mna:manaweaving/artifice/brimstone_charm",
+      "type": "manaweaving_altar"
+    }
+  ]
+}

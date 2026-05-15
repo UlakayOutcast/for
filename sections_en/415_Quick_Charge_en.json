@@ -1,0 +1,53 @@
+"Quick Charge": {
+  "index": 0,
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Quick Charge"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Quick Charge enchantment "
+        },
+        {
+          "text": "reduces the amount of time that it takes to reload a crossbow",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nQuick Charge placed on a "
+        },
+        {
+          "text": "Staff, Wand, or Bangle",
+          "color": "blue"
+        },
+        {
+          "text": " will "
+        },
+        {
+          "text": "reduce the cooldown of the spell",
+          "color": "dark_purple"
+        },
+        {
+          "text": " on that item."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/quick_charge_i"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/quick_charge_ii"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/quick_charge_iii"
+    }
+  ]
+}

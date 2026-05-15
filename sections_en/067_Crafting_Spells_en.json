@@ -1,0 +1,63 @@
+"Crafting Spells": {
+  "index": -97,
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Crafting Spells"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "After scribing a spell at the "
+        },
+        {
+          "text": "Inscription Table",
+          "color": "blue"
+        },
+        {
+          "text": ", I'll need to perform a "
+        },
+        {
+          "text": "ritual",
+          "color": "blue"
+        },
+        {
+          "text": " to infuse magic into the recipe. I call it the "
+        },
+        {
+          "text": "Ritual of Arcana",
+          "color": "blue"
+        },
+        {
+          "text": ". \n\n"
+        },
+        {
+          "text": "I can use the spell recipe to check what I need for the ritual;",
+          "color": "dark_purple"
+        },
+        {
+          "text": " I wrote it all down when I scribed the spell. \n\nThe ideology is that the raw magical essences from the ingredients are absorbed into the spell and allow me to channel my will through it in order to achieve an effect; similar to a very specifically crafted focus. \n\nThere are rumors of mages that don't need to use such foci to craft and cast spells, knowing them "
+        },
+        {
+          "text": "purely by memory",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:inscription_table"
+    },
+    {
+      "type": "ritual",
+      "location": "mna:rituals/arcana"
+    }
+  ]
+}

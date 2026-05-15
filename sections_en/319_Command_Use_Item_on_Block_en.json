@@ -1,0 +1,32 @@
+"Command: Use Item on Block": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Use Item on Block"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to "
+        },
+        {
+          "text": "attempt to use its current held item on the given block",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". If it is holding more than one item, it will try one randomly. \n\nThe construct "
+        },
+        {
+          "text": "needs to be able to hold items",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to perform this task."
+        }
+      ]
+    }
+  ]
+}

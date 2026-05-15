@@ -1,0 +1,138 @@
+"Spell Books": {
+  "index": -92,
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Spell Books"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Once I start gaining several spells, I'll need a place to carry them all. The spell book spells can be switched between simply by turning the pages, "
+        },
+        {
+          "text": "assuming I've placed the spells on Vellum",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". "
+        },
+        {
+          "text": "(Hold Z and select from the wheel).",
+          "italic": true
+        },
+        {
+          "text": "\n\nSpells placed on "
+        },
+        {
+          "text": "Staves, Wands, and Bangles",
+          "color": "blue"
+        },
+        {
+          "text": " cannot be placed into spell books, but those items instead can be "
+        },
+        {
+          "text": "enchanted",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Grimoires"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I've seen wizards use a "
+        },
+        {
+          "text": "Cantrip",
+          "color": "blue"
+        },
+        {
+          "text": " to summon books that they keep their spells in, once they have a little more experience with magic.  They referred to them as "
+        },
+        {
+          "text": "Grimoires",
+          "color": "blue"
+        },
+        {
+          "text": ".\n\nI asked a wizard once why not just use a spell book, and they told me that while a Grimoire has less space than a Spell Book, it's "
+        },
+        {
+          "text": "extradimensional",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".  This means that "
+        },
+        {
+          "text": "if the Grimoire is ever lost or destroyed, all they need to do is summon it back with another cantrip and it's back, contents and all",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".  \nThe downside is that multiple Grimoires share the same extradimensional space, so having more than one doesn't grant much benefit.\n\nStill, sounds pretty useful.  Reminds me of an Ender Chest."
+        },
+        {
+          "text": "\n\nSpell Books and Grimoires allow you to change the slot quickly using Chords.  Press the chord key (default V) with a Spell Book or Grimoire equipped, then press a hotbar key.  It will quick swap to the slot matching what you pressed.  This is in addition to the radial menu.  Use whatever method you prefer.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Both "
+        },
+        {
+          "text": "Spell Books and Grimoires can be dyed",
+          "color": "dark_purple"
+        },
+        {
+          "text": " simply by crafting them together with dye. Be sure to "
+        },
+        {
+          "text": "remove spells from them before doing so",
+          "color": "dark_purple"
+        },
+        {
+          "text": " as it's possible the crafting process can damage the spells within."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I've even seen wizards that are aligned with a faction summon special grimoires that represent their faction!  They don't do anything different than a regular Grimoire, but they sure look flashy."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:spell_book"
+    },
+    {
+      "location": "mna:vinteum_manaweaver_wand",
+      "type": "crafting"
+    },
+    {
+      "location": "mna:chimerite_manaweaver_wand",
+      "type": "crafting"
+    },
+    {
+      "location": "mna:improvised_manaweaver_wand",
+      "type": "crafting"
+    }
+  ]
+}

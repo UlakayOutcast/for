@@ -1,0 +1,67 @@
+"Practitioner's Pouch Patch: Glyph": {
+  "index": -1,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Practitioner's Pouch Patch: Glyph"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "When sewn onto a "
+        },
+        {
+          "text": "Practitioner's Pouch",
+          "color": "blue"
+        },
+        {
+          "text": ", a "
+        },
+        {
+          "text": "Glyph Patch",
+          "color": "blue"
+        },
+        {
+          "text": " provides an additional sixteen slot inventory that can only hold dyed glyphs, useful for rituals requiring them.  If a glyph is collected by a "
+        },
+        {
+          "text": "Collection Patch",
+          "color": "blue"
+        },
+        {
+          "text": ", it will first try to enter this glyph inventory.\n\n"
+        },
+        {
+          "text": "The additional inventory can be accessed by clicking on the green ",
+          "italic": true
+        },
+        {
+          "text": "+",
+          "italic": true,
+          "color": "dark_green"
+        },
+        {
+          "text": " icon over the Glyph Patch icon, and can be closed by clicking on the red",
+          "italic": true
+        },
+        {
+          "text": " -",
+          "italic": true,
+          "color": "dark_red"
+        },
+        {
+          "text": " icon in the upper right of the patch inventory.",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/patches/glyph"
+    }
+  ]
+}

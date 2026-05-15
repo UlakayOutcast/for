@@ -1,0 +1,39 @@
+"Command: Fish": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Fish"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to "
+        },
+        {
+          "text": "fish at the specified location",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". The location must be a water source block.  To target with a "
+        },
+        {
+          "text": "Rune of Marking",
+          "color": "blue"
+        },
+        {
+          "text": ", place a block, target it, then break the block and replace it with water.\n\nIt "
+        },
+        {
+          "text": "must have a fishing rod arm",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to perform this task. \n\nWhatever it catches will be placed on the ground near the construct."
+        }
+      ]
+    }
+  ]
+}

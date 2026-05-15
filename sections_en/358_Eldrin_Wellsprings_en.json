@@ -1,0 +1,103 @@
+"Eldrin Wellsprings": {
+  "index": -99,
+  "category": "eldrin_altar",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Eldrin Wellsprings"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "There is a network of points of power scattered through the world. These points are called "
+        },
+        {
+          "text": "Eldrin Wellsprings",
+          "color": "blue"
+        },
+        {
+          "text": ". Wellsprings are commonly associated with one of the affinities, and vary in power as well. \n\nThere is a rare form of wellspring that is "
+        },
+        {
+          "text": "typeless, ",
+          "color": "dark_purple"
+        },
+        {
+          "text": "as indicated by its white beam and its blue swirls.  These rare wellsprings will "
+        },
+        {
+          "text": "permanently convert to the structure lens type used when captured for the first time",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nWellsprings are invisible unless captured or unless the "
+        },
+        {
+          "text": "Wellspring Sight Unguent",
+          "color": "blue"
+        },
+        {
+          "text": " (or the more powerful "
+        },
+        {
+          "text": "Eldrin Sight Unguent",
+          "color": "blue"
+        },
+        {
+          "text": " made by the "
+        },
+        {
+          "text": "Council of Wizards",
+          "color": "blue"
+        },
+        {
+          "text": ") is active.  I don't need to be able to see a wellspring to capture it, if I know where it is. \n\nThose aligned with the "
+        },
+        {
+          "text": "Council of Wizards",
+          "color": "blue"
+        },
+        {
+          "text": " can use the "
+        },
+        {
+          "text": "Eldrin Flight",
+          "color": "blue"
+        },
+        {
+          "text": " spell to travel quickly to nearby wellsprings, and the "
+        },
+        {
+          "text": "Eldrin Bracelet",
+          "color": "blue"
+        },
+        {
+          "text": " to draw power from these wellsprings when in close proximity to reduce the mana cost of their spells.  All factions can make use of Eldrin Power for crafting purposes equally, however."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/wellspring_sight_unguent"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/wellspring_dowsing_rod"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/eldrin_sight_unguent"
+    },
+    {
+      "type": "spell_part",
+      "location": "mna:components/eldrin_flight"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/eldrin_bracelet"
+    }
+  ]
+}

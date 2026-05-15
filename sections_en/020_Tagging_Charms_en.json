@@ -1,0 +1,95 @@
+"Tagging Charms": {
+  "index": -1,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Tagging Charms"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Player Charms",
+          "color": "blue"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "World Charms",
+          "color": "blue"
+        },
+        {
+          "text": ", once crafted, can be attuned to by a wizard or dimension respectively by "
+        },
+        {
+          "text": "activating the charm while holding it",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".  \n\nIn the case of "
+        },
+        {
+          "text": "Player Charms",
+          "color": "blue"
+        },
+        {
+          "text": ", the charm will attune "
+        },
+        {
+          "text": "to the wizard that activated it",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". The charm can then be given to trusted allies to allow them to use rituals involving the wizard the charm is attuned to, such as "
+        },
+        {
+          "text": "Summoning",
+          "color": "blue"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "Visiting",
+          "color": "blue"
+        },
+        {
+          "text": " (if they possess the skill to perform them). \n\nAttuned "
+        },
+        {
+          "text": "World Charms",
+          "color": "blue"
+        },
+        {
+          "text": " can be used to use a "
+        },
+        {
+          "text": "Ritual of Return",
+          "color": "blue"
+        },
+        {
+          "text": " or a "
+        },
+        {
+          "text": "Ritual of the Gate",
+          "color": "blue"
+        },
+        {
+          "text": " to target a point in a different dimension."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/rituals/player_charm"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/rituals/world_charm"
+    }
+  ]
+}

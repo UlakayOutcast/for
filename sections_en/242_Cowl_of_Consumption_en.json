@@ -1,0 +1,38 @@
+"Cowl of Consumption": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Cowl of Consumption"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Though it appears little less than a simple cloth hood, this cowl is a powerful artifact for the "
+        },
+        {
+          "text": "Undead",
+          "color": "dark_gray"
+        },
+        {
+          "text": ". When the undead gains souls, they will sacrifice a small portion of those souls to instead "
+        },
+        {
+          "text": "regain a small amount of hunger and satiation",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/artifice/cowl_of_consumption"
+    }
+  ]
+}

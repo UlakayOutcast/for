@@ -1,0 +1,60 @@
+"Command: Sort Items": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Sort Items"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to "
+        },
+        {
+          "text": "sort all held items and inventory items into the marked containers",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", from the "
+        },
+        {
+          "text": "given side",
+          "color": "dark_purple"
+        },
+        {
+          "text": " marked by the "
+        },
+        {
+          "text": "Rune of Marking",
+          "color": "blue"
+        },
+        {
+          "text": ".  The construct will search the containers in the order they are listed, from top to bottom.\n\n"
+        },
+        {
+          "text": "Only items that already exist in the given chests will be sorted.",
+          "color": "dark_purple"
+        },
+        {
+          "text": "\n\nThis task will return "
+        },
+        {
+          "text": "success",
+          "color": "green"
+        },
+        {
+          "text": " if the construct's inventory is emptied after sorting, and will return "
+        },
+        {
+          "text": "failure",
+          "color": "red"
+        },
+        {
+          "text": " if there are items left over in the construct's inventory, meaning that they weren't able to be sorted."
+        }
+      ]
+    }
+  ]
+}

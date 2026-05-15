@@ -1,0 +1,28 @@
+"Arcane Lectern": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Arcane Lectern"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "What wizard lab would be complete without a fancy way to display and use the Codex?\n\n"
+        },
+        {
+          "text": "Right click with a codex to insert it.  Sneak right click to remove.  Right click while a codex is on the lectern to read the codex.",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:book_stand"
+    }
+  ]
+}

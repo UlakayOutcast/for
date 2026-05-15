@@ -1,0 +1,45 @@
+"Pylon: Pilgrim's Path": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Pylon: Pilgrim's Path"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This pylon will consume small amounts of "
+        },
+        {
+          "text": "Arcane, Fire, and Wind Eldrin Power",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to apply an "
+        },
+        {
+          "text": "effect granting targets increased speed, step height, swim speed and jump height",
+          "color": "blue"
+        },
+        {
+          "text": " within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+        },
+        {
+          "text": "Runes of Marking",
+          "color": "blue"
+        },
+        {
+          "text": ". It can also be toggled to only affect factions that are allied with my own."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/pylon/pilgrim"
+    }
+  ]
+}

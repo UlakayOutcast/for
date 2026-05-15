@@ -1,0 +1,89 @@
+"Bone Armor": {
+  "index": 0,
+  "category": "eldrin_altar",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Witherbone Armor"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Members of the "
+        },
+        {
+          "text": "Undead",
+          "color": "dark_gray"
+        },
+        {
+          "text": " embody the unstoppable resilience of death while wearing the "
+        },
+        {
+          "text": "Witherbone Armor",
+          "color": "dark_gray"
+        },
+        {
+          "text": ". \n\nIt is as strong as even the most hardy armor forged from the metals of the nether, boasting "
+        },
+        {
+          "text": "near immunity to physical damage",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nThis armor causes the wearer to drain life away at a touch, "
+        },
+        {
+          "text": "regenerating souls by causing damage",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nIt also "
+        },
+        {
+          "text": "prevents the death",
+          "color": "dark_purple"
+        },
+        {
+          "text": " of the wearer, instead "
+        },
+        {
+          "text": "shifting them to a cloud of mist",
+          "color": "dark_purple"
+        },
+        {
+          "text": " allowing them to fly and make their escape. \n\nIf you take damage that would kill you while wearing this armor, that damage is reduced so that you are left with one hit point and you immediately enter mist form. If you have one hit point, you die as normal. "
+        },
+        {
+          "text": "This effect has no cooldown",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".  Lastly, this armor enhances "
+        },
+        {
+          "text": "Mist Form, making it a toggle when cast as a spell and increasing its flight speed.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/armor/bone_skullcap"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/armor/bone_cuirass"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/armor/bone_greaves"
+    },
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/armor/bone_boots"
+    }
+  ]
+}

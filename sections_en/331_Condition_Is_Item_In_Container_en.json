@@ -1,0 +1,43 @@
+"Condition: Is Item In Container": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Condition: Is Item In Container"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This condition will check if the "
+        },
+        {
+          "text": "specified container has the specified item in it",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", returning "
+        },
+        {
+          "text": "success ",
+          "color": "dark_green"
+        },
+        {
+          "text": "if it does, and "
+        },
+        {
+          "text": "failure ",
+          "color": "dark_red"
+        },
+        {
+          "text": "if it does not."
+        },
+        {
+          "text": "\n\nOmitting the filter will check for any items in the target container.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ]
+}

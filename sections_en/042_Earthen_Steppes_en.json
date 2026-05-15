@@ -1,0 +1,35 @@
+"Earthen Steppes": {
+  "index": 0,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ritual of the Earthen Steppes"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This ritual will summon a powerful destructive force that will "
+        },
+        {
+          "text": "burrow down at an angle until it reaches bedrock",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". It will not drop any blocks during this process, consuming them to continue to fuel itself."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "ritual",
+      "location": "mna:rituals/staircase"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/flat_lands_book"
+    }
+  ]
+}

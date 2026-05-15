@@ -1,0 +1,35 @@
+"Bookshelves": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Bookshelves"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "These bookshelves are perfect for "
+        },
+        {
+          "text": "storing books and other items",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in a pleasing manner.\n\n"
+        },
+        {
+          "text": "Note that anything that isn't an M&A book will be displayed as a spell book whose dye color is derived from the item ID of the item.  Items that are normally dyeable will use their dye color for the spell book.",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:book_shelf"
+    }
+  ]
+}

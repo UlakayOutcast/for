@@ -1,0 +1,64 @@
+"Flat Lands": {
+  "index": 0,
+  "category": "rituals",
+  "tier": 2,
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ritual of the Flat Lands"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This very powerful magic allows me to mark out an area using "
+        },
+        {
+          "text": "Runes of Marking",
+          "color": "blue"
+        },
+        {
+          "text": ", then perform the ritual close to the marked location, within about 16m or so of either of the marked points. \n\nThe magic will stream out of the ritual and carve out the marked location, destroying trees, plants, dirt, rocks, ores, and more. Each of the two "
+        },
+        {
+          "text": "Runes of Marking",
+          "color": "blue"
+        },
+        {
+          "text": " marks the opposite corners of a cube to target.\n\nIf I hold one of the Runes of Marking in each hand, I will be able to visualize the area that they cover."
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "location": "mna:rune_marking",
+      "scale": 1
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "It seems that only basic blocks are affected by this spell, and not anything like chests, furnaces, or the like. \n\nThere are rumors that no mage has been able to make this ritual function on an area larger than 48m or so. Any larger just seems to consume the materials and then quickly implode upon itself. \n\nConversely, any dimension smaller than 3m also seems to have the same effect.\n\n"
+        },
+        {
+          "text": "(1m = 1 block)",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/runescribe_marking"
+    },
+    {
+      "type": "ritual",
+      "location": "mna:rituals/flat_lands"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/flat_lands_book"
+    }
+  ]
+}

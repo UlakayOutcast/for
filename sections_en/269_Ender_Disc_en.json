@@ -1,0 +1,35 @@
+"Ender Disc": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ender Disc"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I've managed to create a disc that can "
+        },
+        {
+          "text": "instantly perform a Ritual of Return",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". I just need to set the correct pattern in it, then it uses some of my mana to move me around. The Ender Disc can support multiple locations, each with a name.  \n\nIt cannot move between multiple dimensions, although the same combination used in different dimensions will work, teleporting me to the matching Homestead in the dimension I'm currently in.\n\nI can copy a homestead point to the disc's current pattern by sneaking and activating the point with the disc.\n\n"
+        },
+        {
+          "text": "Quick select locations using the UI key (default 'z').",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/ender_disc"
+    }
+  ]
+}

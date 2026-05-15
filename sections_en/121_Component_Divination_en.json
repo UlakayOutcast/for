@@ -1,0 +1,31 @@
+"Component: Divination": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Divination"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can use a combination of arcane and ender magic to "
+        },
+        {
+          "text": "divine the location of nearby ores",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", making them visible to me through walls at a short distance. If I hold a particular ore block in my offhand, it will focus the spell on finding only that block."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/divination"
+    }
+  ]
+}

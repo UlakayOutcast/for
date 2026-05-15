@@ -1,0 +1,108 @@
+"Practitioner's Pouch": {
+  "index": -1,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Practitioner's Pouch"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Having to draw out a ritual each and every time can be time consuming. Enter the "
+        },
+        {
+          "text": "Practitioner's Pouch",
+          "color": "blue"
+        },
+        {
+          "text": ". \n\nTo use it, I need to place all items needed for the ritual inside the pouch. Activating the pouch on a sufficiently sized, empty flat space will instantly place and activate the ritual. Items will be consumed from the pouch.\n\nThe pouch is capable of placing rituals on "
+        },
+        {
+          "text": "Metal Ritual Runes",
+          "color": "blue"
+        },
+        {
+          "text": ", though it will not place/collect the runes.  If the metal runes on the ground match the current ritual stored in the pouch and every rune is empty, then it will place the reagents down and activate the ritual quickly.  If it's a different ritual, then only the "
+        },
+        {
+          "text": "Purified Vinteum Dust",
+          "color": "blue"
+        },
+        {
+          "text": " will be consumed, pre-activating the ritual and waiting for the reagents to be added.\n\n"
+        },
+        {
+          "text": "To bind the pouch to a specific ritual pattern, sneak while activating the center of a ritual. Hold the GUI key (default left Ctrl) and right click the pouch to open it.  Practitioner's Pouches can store multiple rituals. Select a slot before binding or placing using the UI key (default 'z') and the radial menu.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Patches"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "One of the most beneficial things about a practitioner's pouch is the ability to extend its functionality through "
+        },
+        {
+          "text": "patches",
+          "color": "blue"
+        },
+        {
+          "text": ". \n\nTo apply a patch to the practitioner's pouch, "
+        },
+        {
+          "text": "place the pouch down on a Runic Anvil",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". Then, place the "
+        },
+        {
+          "text": "patch on top of the pouch",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". Finally, "
+        },
+        {
+          "text": "activate the anvil with a Sorcerous Sewing Set",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to stitch the patch on to the pouch. \n\nGiven the relatively small size of the pouch, there's only about enough space for three different kinds of patches (excluding the "
+        },
+        {
+          "text": "speed pouch",
+          "color": "blue"
+        },
+        {
+          "text": ", that one can always be applied in combination with any others). \n\nRumor has it that there exist powerful variants of this pouch that have every single patch applied. Some very smart wizard must have figured out how to do it long ago."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:practitioners_pouch"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:sorcerous_sewing_set"
+    },
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/armor/pattern_vinteum_needle"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/armor/vinteum_needle"
+    }
+  ]
+}

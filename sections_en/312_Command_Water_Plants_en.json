@@ -1,0 +1,39 @@
+"Command: Water Plants": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Water Plants"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to "
+        },
+        {
+          "text": "water plants within the specified area making them grow faster",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nThe construct needs to have the "
+        },
+        {
+          "text": "ability to store and dispense fluid",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "be carrying enough water",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to perform this task. The larger the area, the more water is required."
+        }
+      ]
+    }
+  ]
+}

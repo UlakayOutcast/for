@@ -1,0 +1,24 @@
+"Rune: Water": {
+  "index": 0,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Rune: Water"
+    },
+    {
+      "type": "text",
+      "value": "The water rune pattern is used to apply enchantments focusing around the element of water."
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/runescribe_water"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/runeforge_water"
+    }
+  ]
+}

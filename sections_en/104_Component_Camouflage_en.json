@@ -1,0 +1,38 @@
+"Component: Camouflage": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Camouflage"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can use water magic to "
+        },
+        {
+          "text": "bend light around myself, becoming harder to see",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". I'll need to "
+        },
+        {
+          "text": "stand still for a few seconds",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to get the most benefit from this spell."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/camouflage"
+    }
+  ]
+}

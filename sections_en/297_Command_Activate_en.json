@@ -1,0 +1,25 @@
+"Command: Activate": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Activate"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to attempt to "
+        },
+        {
+          "text": "simulate a player right clicking on the block at the specified location",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". It is useful for things like buttons and levers. It does not require any specific parts."
+        }
+      ]
+    }
+  ]
+}

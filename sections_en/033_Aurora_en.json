@@ -1,0 +1,31 @@
+"Aurora": {
+  "index": 0,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ritual of Aurora"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This ritual will turn "
+        },
+        {
+          "text": "night into day",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". It can only be performed at night or during thunderstorms."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "ritual",
+      "location": "mna:rituals/aurora"
+    }
+  ]
+}

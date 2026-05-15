@@ -1,0 +1,41 @@
+"Component: Spectral Web": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Spectral Web"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can "
+        },
+        {
+          "text": "conjure a phantasmal web",
+          "color": "dark_purple"
+        },
+        {
+          "text": " that will slow and tangle those inside it for a short duration."
+        },
+        {
+          "text": "\n\nIf I cast this spell on a "
+        },
+        {
+          "text": "Metal Ritual Rune",
+          "color": "blue"
+        },
+        {
+          "text": ", the effect will become permanent at that location, until broken manually."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/spectral_web"
+    }
+  ]
+}

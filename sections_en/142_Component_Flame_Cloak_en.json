@@ -1,0 +1,45 @@
+"Component: Flame Cloak": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Flame Cloak"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "One of the first things that the demons have taught me is their classic cloak of fire. By surrounding myself with this fire I not only "
+        },
+        {
+          "text": "reduce incoming flame attacks",
+          "color": "dark_purple"
+        },
+        {
+          "text": " but "
+        },
+        {
+          "text": "also retaliate with fire",
+          "color": "dark_purple"
+        },
+        {
+          "text": " against those who are foolish enough to attack me at close range.\n\nThis can only be crafted by those allied with the "
+        },
+        {
+          "text": "Demons of the Nether",
+          "color": "dark_red"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/fire_shield"
+    }
+  ]
+}

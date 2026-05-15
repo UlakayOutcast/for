@@ -1,0 +1,56 @@
+"Homestead": {
+  "index": 0,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ritual of Homestead"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This ritual will create a "
+        },
+        {
+          "text": "Waystone ",
+          "color": "blue"
+        },
+        {
+          "text": "underneath it "
+        },
+        {
+          "text": "matching the rune combination used in the ritual, in the same order",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nPerforming the "
+        },
+        {
+          "text": "Ritual of Return",
+          "color": "blue"
+        },
+        {
+          "text": " will allow me to use the same rune combination in the same order to return to this location, provided I am in the same dimension, or have a "
+        },
+        {
+          "text": "World Charm",
+          "color": "blue"
+        },
+        {
+          "text": " available to target the Waystone's dimension."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "ritual",
+      "location": "mna:rituals/homestead"
+    },
+    {
+      "type": "ritual",
+      "location": "mna:rituals/return"
+    }
+  ]
+}

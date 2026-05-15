@@ -1,0 +1,45 @@
+"Hellfire Trident": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Hellfire Trident"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "A staple of demonic power, in addition to being a powerful melee weapon, the "
+        },
+        {
+          "text": "Hellfire Trident",
+          "color": "blue"
+        },
+        {
+          "text": " uses brimstone when used to "
+        },
+        {
+          "text": "launch its user forward in a whirlwind of flame",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". Doing so provides a significant damage boost to the attack if an entity is impacted, and is often used for advanced travel by demonic allies.\n\nThis staff can only be crafted by those who have allied themselves to the "
+        },
+        {
+          "text": "Demons of the Nether",
+          "color": "dark_red"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "eldrin_altar",
+      "location": "mna:eldrin_altar/artifice/hellfire_trident"
+    }
+  ]
+}

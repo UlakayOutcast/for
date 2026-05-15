@@ -1,0 +1,59 @@
+"Practitioner's Pouch Patch: Collection": {
+  "index": -1,
+  "category": "rituals",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Practitioner's Pouch Patch: Collection"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Normally, items must be inserted into a "
+        },
+        {
+          "text": "Practitioner's Pouch",
+          "color": "blue"
+        },
+        {
+          "text": " manually. When sewn on, a "
+        },
+        {
+          "text": "Collection Patch",
+          "color": "blue"
+        },
+        {
+          "text": " causes any items picked up to automatically go to the Pouch's inventory instead, provided the bag isn't currently open."
+        },
+        {
+          "text": " Items will only enter the Pouch if the item already exists in the pouch and is not at its stack limit.",
+          "color": "dark_purple"
+        },
+        {
+          "text": "\n\nThis pairs exceptionally well with "
+        },
+        {
+          "text": "Depth Patches",
+          "color": "blue"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Void Patches",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/patches/collection"
+    }
+  ]
+}

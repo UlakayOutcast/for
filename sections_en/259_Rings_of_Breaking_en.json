@@ -1,0 +1,46 @@
+"Rings of Breaking": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Rings of Breaking"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "These rings will enhance the power of my "
+        },
+        {
+          "text": "break",
+          "color": "blue"
+        },
+        {
+          "text": " spell in lieu of "
+        },
+        {
+          "text": "magnitude",
+          "color": "blue"
+        },
+        {
+          "text": ". My break spell will be able to"
+        },
+        {
+          "text": " break harder blocks than it would otherwise.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/break_ring_lesser"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/break_ring_greater"
+    }
+  ]
+}

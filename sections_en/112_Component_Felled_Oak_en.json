@@ -1,0 +1,31 @@
+"Component: Felled Oak": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Felled Oak"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Using a similar form of magic to Break, I can "
+        },
+        {
+          "text": "cause entire trees to fall",
+          "color": "dark_purple"
+        },
+        {
+          "text": " at my whim."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/felled_oak"
+    }
+  ]
+}

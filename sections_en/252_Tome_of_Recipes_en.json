@@ -1,0 +1,42 @@
+"Tome of Recipes": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Tome of Recipes"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This tome will allow me to copy any re-craft recipe from a "
+        },
+        {
+          "text": "Manaweaving Altar",
+          "color": "blue"
+        },
+        {
+          "text": " or an "
+        },
+        {
+          "text": "Eldrin Altar",
+          "color": "blue"
+        },
+        {
+          "text": ".  Using the book again on the correct altar will restore the recipe and attempt to immediately craft the item."
+        },
+        {
+          "text": "Sneak and right click to change modes from copy to paste.  Changing the slot via the UI will change the mode automatically; copy if you select an empty slot, paste if you select a recipe.",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:recipe_copy_book"
+    }
+  ]
+}

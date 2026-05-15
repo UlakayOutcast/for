@@ -1,0 +1,46 @@
+"Bane of Arthropods": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Bane of Arthropods"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Bane of Arthropods enchantment "
+        },
+        {
+          "text": "increases your attack damage against mobs such as spiders, cave spiders, silverfish, and endermites",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/bane_of_arthropods_i"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/bane_of_arthropods_ii"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/bane_of_arthropods_iii"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/bane_of_arthropods_iv"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/bane_of_arthropods_v"
+    }
+  ]
+}

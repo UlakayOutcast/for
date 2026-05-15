@@ -1,0 +1,38 @@
+"Component: Greater Invisibility": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Greater Invisibility"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Fey",
+          "color": "dark_green"
+        },
+        {
+          "text": " have taught me how to extend my invisibility to my equipped items and armor. I can hide from all but the most astute of observers, though dealing damage or casting a spell not on myself will briefly reveal me, and if I'm glowing I'll be revealed for longer.\n\nThis spell can only be crafted by those that have allied themselves with the "
+        },
+        {
+          "text": "Faerie Courts",
+          "color": "dark_green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/true_invisibility"
+    }
+  ]
+}

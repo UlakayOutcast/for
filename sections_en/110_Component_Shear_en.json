@@ -1,0 +1,31 @@
+"Component: Shear": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Shear"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "In my ever-present quest to eschew physical tools, I have figured out a way to precisely control a burst of magic to "
+        },
+        {
+          "text": "simulate shears",
+          "color": "dark_purple"
+        },
+        {
+          "text": " without the need for the actual tool. This will work well for things like sheep, but will also help me manipulate blocks, such as carving a pumpkin."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/shear"
+    }
+  ]
+}

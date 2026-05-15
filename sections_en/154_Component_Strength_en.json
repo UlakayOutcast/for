@@ -1,0 +1,31 @@
+"Component: Strength": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Strength"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "By reinforcing my target's connection to the earth, I am able to "
+        },
+        {
+          "text": "increase their strength",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".  This allows them to swing weapons much harder than they otherwise would be able to."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/strength"
+    }
+  ]
+}

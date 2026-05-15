@@ -1,0 +1,24 @@
+"Shape: Self": {
+  "index": "1",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Shape: Self"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This shape will cause the spell to affect me directly when cast."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:shapes/self"
+    }
+  ]
+}

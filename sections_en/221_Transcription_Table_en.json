@@ -1,0 +1,94 @@
+"Transcription Table": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Transcription Table"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Transcription Table",
+          "color": "blue"
+        },
+        {
+          "text": " allows me to write rote spells to items such as "
+        },
+        {
+          "text": "Glyphs, Staves, Wands, Vellum, and Bangles.",
+          "color": "blue"
+        },
+        {
+          "text": " \n\n"
+        },
+        {
+          "text": "Glyphs",
+          "color": "blue"
+        },
+        {
+          "text": " become single use items that "
+        },
+        {
+          "text": "cost no mana",
+          "color": "dark_purple"
+        },
+        {
+          "text": " and cast the spell.\n \n"
+        },
+        {
+          "text": "Staves, wands, and bangles",
+          "color": "blue"
+        },
+        {
+          "text": " can be cast as normal using mana. \n\n"
+        },
+        {
+          "text": "Vellum",
+          "color": "blue"
+        },
+        {
+          "text": " can be placed into a "
+        },
+        {
+          "text": "Spell Book",
+          "color": "blue"
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "Grimoire",
+          "color": "blue"
+        },
+        {
+          "text": ".\n\nThe spell selected is the active spell within the "
+        },
+        {
+          "text": "Book of Rote",
+          "color": "blue"
+        },
+        {
+          "text": " I place in the table, and it needs "
+        },
+        {
+          "text": "Eldrin Power",
+          "color": "blue"
+        },
+        {
+          "text": " corresponding to the highest affinity of the spell being transferred."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/spell_infusion"
+    }
+  ]
+}

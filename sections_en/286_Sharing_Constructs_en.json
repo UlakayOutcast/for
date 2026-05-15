@@ -1,0 +1,39 @@
+"Sharing Constructs": {
+  "index": "-96",
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Sharing Constructs"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "By default, "
+        },
+        {
+          "text": "my constructs can only be commanded by me",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". They will not listen to commands given by another wizard. \n\nHowever, if I am on the "
+        },
+        {
+          "text": "same scoreboard team as another wizard",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", they will be allowed to command my constructs and vice-versa. \n\nThis also applies to the prevention of damage from owners; "
+        },
+        {
+          "text": "I cannot directly damage constructs that I can issue commands to",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ]
+}

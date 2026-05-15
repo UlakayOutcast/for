@@ -1,0 +1,57 @@
+"Manaweaving Altar": {
+  "index": 3,
+  "category": "manaweaving",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Manaweaving Altar"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Manaweaving Altar is a pool of enchanted water I can use to craft items with magical properties. \n\nUp to nine ingredients can be inserted into the altar by holding that item in my hand and activating the altar. "
+        },
+        {
+          "text": "Activating the altar with an empty hand removes an item",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", from the most recently inserted to the least recently inserted. \n\nUsing a "
+        },
+        {
+          "text": "Manaweaving Wand",
+          "color": "blue"
+        },
+        {
+          "text": " while near a Manaweaving Altar causes the drawn patterns to float on the small, hovering pedestals around the pool. "
+        },
+        {
+          "text": "Activating the altar with a manaweaving wand removes a pattern",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", from the most recently drawn to the least recently drawn. \n\nIf multiple Manaweaving Altars are near each other, I can bind a wand to a Manaweaving Altar by crouching as I activate the altar with the wand in my hand.  This will cause all patterns drawn near that altar to go into it, ignoring others.  I can remove this binding by crouching and activating any block that isn't a Manaweaving Altar with the bound wand in my hand.\n\nOnce all of the correct ingredients are inserted and the correct manaweaving patterns are present, the magical crafting process will begin automatically.\n\nOnly manaweaving patterns need to be drawn in a particular order; ingredients are shapeless. \n\nAfter crafting an item, the last recipe used will be saved by the altar. Activating the altar with all the ingredients in my inventory allows me to re-craft that same item with ease."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "location": "mna:vinteum_manaweaver_wand",
+      "type": "crafting"
+    },
+    {
+      "location": "mna:chimerite_manaweaver_wand",
+      "type": "crafting"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:improvised_manaweaver_wand"
+    },
+    {
+      "location": "mna:manaweaving_altar",
+      "type": "crafting"
+    }
+  ]
+}

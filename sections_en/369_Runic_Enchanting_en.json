@@ -1,0 +1,195 @@
+"Runic Enchanting": {
+  "index": -2,
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Runic Enchanting"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The first step in runic enchanting is to "
+        },
+        {
+          "text": "scribe and forge a rune",
+          "color": "dark_purple"
+        },
+        {
+          "text": " according to the "
+        },
+        {
+          "text": "Runescribing",
+          "color": "blue"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Runeforging",
+          "color": "blue"
+        },
+        {
+          "text": " mechanics. The enchantment's recipe will let me know which one(s) I need to make.\n\nI remember seeing information elsewhere in this book about "
+        },
+        {
+          "text": "Runescribing, Runeforging",
+          "color": "blue"
+        },
+        {
+          "text": ", and how to do them both.\n\nOnce I have my rune made, I will need to infuse mana into it to apply the initial stage of the enchantment to the rune.\n\n"
+        },
+        {
+          "text": "Place the rune along with any other required reagents from the recipe into a",
+          "color": "dark_purple"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Manaweaving Altar",
+          "color": "blue"
+        },
+        {
+          "text": ". Then, using a "
+        },
+        {
+          "text": "Manaweaver's Wand",
+          "color": "blue"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "I'll draw or project the required patterns from the recipe on top of the altar",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". If I've done it correctly, the altar should draw in the manaweaves and items to create an "
+        },
+        {
+          "text": "enchanted rune",
+          "color": "blue"
+        },
+        {
+          "text": ".\n\nAll that's left now is to "
+        },
+        {
+          "text": "combine the rune with an item back at the runic anvil",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nI'll need to place the "
+        },
+        {
+          "text": "item I want to enchant",
+          "color": "blue"
+        },
+        {
+          "text": " on the "
+        },
+        {
+          "text": "Runic Anvil",
+          "color": "blue"
+        },
+        {
+          "text": " and the "
+        },
+        {
+          "text": "enchanted rune",
+          "color": "blue"
+        },
+        {
+          "text": " on top. \n\nIf the enchantment can be applied to the item "
+        },
+        {
+          "text": "(standard combination and compatibility rules apply)",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "I will see the magic of the anvil activate",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nThen, to finish the enchant, I need to "
+        },
+        {
+          "text": "strike the rune with a Runesmith's Hammer repeatedly until the enchantment is applied",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".  If the anvil's magic is not active when I hit it with the hammer, the items will be ejected.\n\n"
+        },
+        {
+          "text": "The enchantments you can make are determined by your tier. Should you obtain an enchantment on a rune that doesn't have a matching recipe (for example on a ",
+          "italic": true
+        },
+        {
+          "text": "Projection Rune",
+          "italic": true,
+          "color": "blue"
+        },
+        {
+          "text": " using the ",
+          "italic": true
+        },
+        {
+          "text": "Disenchanter",
+          "italic": true,
+          "color": "blue"
+        },
+        {
+          "text": "), the freeform enchanting rules are used:",
+          "italic": true
+        },
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "- Enchantment levels 1-2 require you to be Tier 3",
+          "italic": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "- Enchantment levels 3-4 require you to be Tier 4",
+          "italic": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "- Enchantment levels 5+ require you to be Tier 5",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "location": "mna:vinteum_manaweaver_wand",
+      "type": "crafting"
+    },
+    {
+      "location": "mna:chimerite_manaweaver_wand",
+      "type": "crafting"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:manaweaving_altar"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:runescribing/runescribing_table"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:runeforging/runic_anvil"
+    }
+  ]
+}

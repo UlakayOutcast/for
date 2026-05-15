@@ -1,0 +1,32 @@
+"Command: Forge": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Forge"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to attempt to "
+        },
+        {
+          "text": "Forge the rune set up on the runic anvil",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nIt requires that the given materials are already present. \n\nThis "
+        },
+        {
+          "text": "requires a hammer arm",
+          "color": "dark_purple"
+        },
+        {
+          "text": " on the Construct. The better the material of the arm, the faster the construct will work."
+        }
+      ]
+    }
+  ]
+}

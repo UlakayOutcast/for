@@ -1,0 +1,24 @@
+"Shape: Cone": {
+  "index": "1",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Shape: Cone"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The cone shape will channel a continual stream of magic out from my location for as long as I channel it."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:shapes/cone"
+    }
+  ]
+}

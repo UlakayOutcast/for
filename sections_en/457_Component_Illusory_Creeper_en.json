@@ -1,0 +1,29 @@
+"Component: Illusory Creeper": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Illusory Creeper"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This spell causes an "
+        },
+        {
+          "text": "illusion of a creeper",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to appear at the target point. It looks like a creeper, moves like a creeper, ignites like a creeper, but "
+        },
+        {
+          "text": "explodes into nothing but sparkles.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ]
+}

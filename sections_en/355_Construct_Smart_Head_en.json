@@ -1,0 +1,86 @@
+"Construct Smart Head": {
+  "index": "3",
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Construct Smart Head"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The smart head increases intelligence, allowing constructs to execute more tasks within a lodestar. \n\nThe default is 8, and the material the smart head is made of determines the bonus:\n"
+        },
+        {
+          "text": "Wood",
+          "color": "blue"
+        },
+        {
+          "text": ": 8 \n"
+        },
+        {
+          "text": "Stone",
+          "color": "blue"
+        },
+        {
+          "text": ": 12 \n"
+        },
+        {
+          "text": "Bone",
+          "color": "blue"
+        },
+        {
+          "text": ": 12 \n"
+        },
+        {
+          "text": "Iron",
+          "color": "blue"
+        },
+        {
+          "text": ": 16 \n"
+        },
+        {
+          "text": "Obsidian",
+          "color": "blue"
+        },
+        {
+          "text": ": 20 \n"
+        },
+        {
+          "text": "Gold",
+          "color": "blue"
+        },
+        {
+          "text": ": 30 \n"
+        },
+        {
+          "text": "Diamond",
+          "color": "blue"
+        },
+        {
+          "text": ": 50"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "locations": [
+        "mna:manaweaving/constructs/wood/wood_head_smart",
+        "mna:manaweaving/constructs/stone/stone_head_smart",
+        "mna:manaweaving/constructs/stone/bone_head_smart",
+        "mna:manaweaving/constructs/iron/iron_head_smart",
+        "mna:manaweaving/constructs/gold/gold_head_smart"
+      ]
+    },
+    {
+      "type": "eldrin_altar",
+      "locations": [
+        "mna:eldrin_altar/construct/diamond/diamond_head_smart",
+        "mna:eldrin_altar/construct/obsidian/obsidian_head_smart"
+      ]
+    }
+  ]
+}

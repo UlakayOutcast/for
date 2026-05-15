@@ -1,0 +1,69 @@
+"Command: Hunt": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Hunt"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to "
+        },
+        {
+          "text": "wander off and disappear for a few minutes as it goes monster hunting",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". When it returns it will have some random dimension-appropriate hunting loot it found on its journey. \n\n"
+        },
+        {
+          "text": "It will require either a "
+        },
+        {
+          "text": "storage torso",
+          "color": "blue"
+        },
+        {
+          "text": " and/or a "
+        },
+        {
+          "text": "grabber arm",
+          "color": "blue"
+        },
+        {
+          "text": " in order to carry home the loot.\n\n"
+        },
+        {
+          "text": "What monsters it fights depends on the configuration of the task.\n\n",
+          "color": "dark_purple"
+        },
+        {
+          "text": "It is possible for the construct to die during this task, but the risk can be mitigated:",
+          "color": "dark_red"
+        },
+        {
+          "text": "\n\n The construct must be able to engage with at least one of the configured enemy types (ranged attacks, flight, teleportation, or spell casting for flying monsters, buoyancy for water monsters, and perception 20 or lights (consumed) in its inventory for underground.  It will skip any types that it does not meet the criteria for.  For example, setting surface and underground will cause the construct to still perform a surface hunt if it doesn't have the required perception or light sources available."
+        },
+        {
+          "text": "\n\n The risk level determines how dangerous the prey it will attempt to fight.  Stronger combat capabilities (more damage) will mitigate damage taken, as will armor and toughness.\n\nAffinity also plays a role in the construct's survivability, with wind/arcane protecting from flying monsters, water protecting from aquatic monsters, earth/fire/ender protecting from underground, and earth protecting from surface encounters."
+        },
+        {
+          "text": "\n\n Surface is the least dangerous, followed by water, flying, and finally underground."
+        },
+        {
+          "text": "\n\n Friendly faction mobs encountered during the hunt will serve instead to heal the construct.  Their loot will never be returned."
+        },
+        {
+          "text": "\n\n It is suggested to make use of the health condition task in a lodestar to ensure the construct has healed before leaving on a hunt.  Their natural regeneration can heal them to full, after all."
+        },
+        {
+          "text": "\n\nThe construct needs a minimum intelligence of 16 to perform this task, and higher perception will result in more encounters.  Having intelligence 36 and perception 20 will allow the construct to bring back drops that require a player kill.",
+          "color": "dark_purple"
+        }
+      ]
+    }
+  ]
+}

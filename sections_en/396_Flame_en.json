@@ -1,0 +1,58 @@
+"Flame": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Flame"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Flame enchantment "
+        },
+        {
+          "text": "turns your arrows into flaming arrows",
+          "color": "dark_purple"
+        },
+        {
+          "text": " allowing you to set your targets on fire.\n\nWizards aligned with the "
+        },
+        {
+          "text": "Demons of the Nether",
+          "color": "dark_red"
+        },
+        {
+          "text": " using a "
+        },
+        {
+          "text": "Staff, Wand, or Bangle",
+          "color": "blue"
+        },
+        {
+          "text": " enchanted with Flame will see "
+        },
+        {
+          "text": "overcasting from health become twice as efficient",
+          "color": "dark_purple"
+        },
+        {
+          "text": " and have their "
+        },
+        {
+          "text": "spell cooldowns reduced while on fire",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/flame"
+    }
+  ]
+}

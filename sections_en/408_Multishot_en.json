@@ -1,0 +1,31 @@
+"Multishot": {
+  "index": 0,
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Multishot"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Multishot enchantment allows a player to "
+        },
+        {
+          "text": "shoot 3 arrows at a time but only 1 arrow will be used from the inventory",
+          "color": "dark_purple"
+        },
+        {
+          "text": " (the cost is only 1 arrow and not 3 arrows with this enchantment)."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/multishot"
+    }
+  ]
+}

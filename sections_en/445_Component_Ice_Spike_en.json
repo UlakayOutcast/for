@@ -1,0 +1,24 @@
+"Component: Ice Spike": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ice Spike"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This component causes sharp icicles to burst from the ground and pierce nearby targets, dealing frost damage and slowing them.  The spikes will remain for a short duration, slowing and damaging targets that are unable to remove themselves from the area."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/ice_spike"
+    }
+  ]
+}

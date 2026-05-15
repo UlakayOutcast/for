@@ -1,0 +1,42 @@
+"Component: Impale": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Impale"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This spell allows me to "
+        },
+        {
+          "text": "deal physical damage",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to my target. It's useful in case my target is highly magic resistant.\n\nIf a block is hit, an "
+        },
+        {
+          "text": "earth spike",
+          "color": "dark_purple"
+        },
+        {
+          "text": " will spawn, dealing damage to the target and launching it into the air.  \n\n"
+        },
+        {
+          "text": "Earth spikes cause more damage than standard blocks if fallen upon.",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/impale"
+    }
+  ]
+}

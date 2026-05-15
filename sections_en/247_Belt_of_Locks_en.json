@@ -1,0 +1,31 @@
+"Belt of Locks": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Belt of Locks"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This belt, when worn, "
+        },
+        {
+          "text": "prevents my affinity from changing",
+          "color": "dark_purple"
+        },
+        {
+          "text": " when I cast spells."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/belt_of_locks"
+    }
+  ]
+}

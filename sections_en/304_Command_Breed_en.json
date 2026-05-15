@@ -1,0 +1,39 @@
+"Command: Breed": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Breed"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to attempt to"
+        },
+        {
+          "text": " use the item in its hand to breed animals within its radius",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nFor example, use a Take Item command to have the construct collect wheat, then use this command with a radius that includes cows or sheep. The construct will breed them as long as there are "
+        },
+        {
+          "text": "at least 2 adult animals in the detection area that can breed",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nThe construct "
+        },
+        {
+          "text": "needs to have the carrying capability",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in order to perform this task."
+        }
+      ]
+    }
+  ]
+}

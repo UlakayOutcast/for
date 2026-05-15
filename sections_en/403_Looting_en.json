@@ -1,0 +1,38 @@
+"Looting": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Looting"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Looting enchantment "
+        },
+        {
+          "text": "increases the amount of loot that is dropped when a mob is killed",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/looting_i"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/looting_ii"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/looting_iii"
+    }
+  ]
+}

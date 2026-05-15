@@ -1,0 +1,35 @@
+"Modifying Spells": {
+  "index": -93,
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Modifying Crafted Spells"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "After I've made a spell, if I have any modifiers on it, I can tinker with the focus a little bit to change those values "
+        },
+        {
+          "text": "(Hold the GUI modifier key and activate the spell)",
+          "italic": true
+        },
+        {
+          "text": ".\n\nI can use the Ritual of Alteration to add modifiers to an existing spell.\n\nI should pay attention to how complex I make the spell with these modifiers though, I can only manage so much.  At least, for now."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/sorcery/alteration_book"
+    },
+    {
+      "type": "ritual",
+      "location": "mna:rituals/alteration"
+    }
+  ]
+}

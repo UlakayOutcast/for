@@ -1,0 +1,24 @@
+"Modifier: Precision": {
+  "index": "3",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Precision"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This modifier allows me to control how precise certain effects within my spells are."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:modifiers/precision"
+    }
+  ]
+}

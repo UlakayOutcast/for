@@ -1,0 +1,31 @@
+"Animated Quill": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Animated Quill"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Animated Quill",
+          "color": "blue"
+        },
+        {
+          "text": " doesn't do much on its own, but is used in several other recipes."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:animated_quill"
+    }
+  ]
+}

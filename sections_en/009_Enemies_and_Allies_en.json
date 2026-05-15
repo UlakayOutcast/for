@@ -1,0 +1,435 @@
+"Enemies and Allies": {
+  "index": 9,
+  "category": "basics",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Enemies and Allies"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "There are at least four "
+        },
+        {
+          "text": "factions",
+          "color": "blue"
+        },
+        {
+          "text": ", all at war with each other.  Their troops are often encountered in the wild, but generally are passive to the factionless unless provoked.\n\nThe factions seem to deploy more powerful troops near where more powerful wizards exist.\n\n"
+        },
+        {
+          "text": "They will attack members of opposing factions on sight, and defend those allied with their own faction.",
+          "color": "dark_purple"
+        }
+      ]
+    },
+    {
+      "type": "recipe",
+      "location": "mna:spell_breaker",
+      "recipeType": "entity",
+      "newPage": true
+    },
+    {
+      "type": "title",
+      "value": "Spellbreaker"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Spellbreakers",
+          "color": "blue"
+        },
+        {
+          "text": " are one of the soldiers of the "
+        },
+        {
+          "text": "Council",
+          "color": "blue"
+        },
+        {
+          "text": ".\n\nThey have a resilient shield that can reflect certain types of spells, although it "
+        },
+        {
+          "text": "can sometimes be broken by an axe",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".  Their stunning shield bash can silence for short periods of time.\n\nThey can unleash a battle cry that causes nearby allies of theirs to heal quickly for a short time, and to take less damage and deal much more damage for a moderate time."
+        }
+      ]
+    },
+    {
+      "type": "recipe",
+      "location": "mna:witch_hunter",
+      "recipeType": "entity",
+      "newPage": true
+    },
+    {
+      "type": "title",
+      "value": "Witch Hunter"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Witch Hunters",
+          "color": "blue"
+        },
+        {
+          "text": " are one of the soldiers of the "
+        },
+        {
+          "text": "Council",
+          "color": "blue"
+        },
+        {
+          "text": ". \n\nThey are trained in agility, allowing them to attempt to dodge certain attacks and are expert marksman. \n\nThey use their crossbows to deadly effect and carry potions that can slow the movement or the mana regeneration, or just deal damage to those unfortunate to be caught in their splash effect."
+        }
+      ]
+    },
+    {
+      "type": "recipe",
+      "location": "mna:living_ward",
+      "recipeType": "entity"
+    },
+    {
+      "type": "title",
+      "value": "Living Ward"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Living Wards",
+          "color": "blue"
+        },
+        {
+          "text": " are creations of the "
+        },
+        {
+          "text": "Council",
+          "color": "blue"
+        },
+        {
+          "text": ".\n\nCreated to counter the flying threats of the other factions, Living Wards are small flying constructs that heavily resist magic.  They fire bolts that dampen the magic of their targets and drain a small amount of their mana. \n\nWhen in danger, they can detonate to drain a large amount of nearby wizards' mana."
+        }
+      ]
+    },
+    {
+      "type": "recipe",
+      "location": "mna:mushroom_soldier",
+      "recipeType": "entity",
+      "newPage": true
+    },
+    {
+      "type": "title",
+      "value": "Deathcap"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Deathcaps",
+          "color": "dark_green"
+        },
+        {
+          "text": " are one of the soldiers of the "
+        },
+        {
+          "text": "Fey Courts",
+          "color": "dark_green"
+        },
+        {
+          "text": ". \n\nThey are faster than they seem and wield powerful poison attacks from both near and far, however their close poison attacks are far more dangerous."
+        }
+      ]
+    },
+    {
+      "type": "recipe",
+      "location": "mna:pixie",
+      "recipeType": "entity",
+      "newPage": true
+    },
+    {
+      "type": "title",
+      "value": "Pixie"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Pixies",
+          "color": "dark_green"
+        },
+        {
+          "text": " are one of the soldiers of the "
+        },
+        {
+          "text": "Fey Courts",
+          "color": "dark_green"
+        },
+        {
+          "text": ". \n\nThey can spawn with one of the four elemental affinities, and each one will attack with elemental bolts.  They are small and hard to hit, and more powerful ones can teleport short distances to escape foes.\n\nFire pixies can melt equipped armor and the heat makes those affected do less damage with their attacks. \n\nWater pixies can slow with frost, or pull you underwater. \n\nAir pixies can toss you into the air. \n\nEarth pixies can blast you with physical damage, and can pull you to the earth if you are airborne. \n\nPixies by themselves are not much more than a nuisance, but a group of them can pose a serious threat, especially when they have "
+        },
+        {
+          "text": "Deathcaps",
+          "color": "dark_green"
+        },
+        {
+          "text": " acting as their frontline."
+        }
+      ]
+    },
+    {
+      "type": "recipe",
+      "location": "mna:barkling",
+      "recipeType": "entity",
+      "newPage": true
+    },
+    {
+      "type": "title",
+      "value": "Barkling"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Barklings",
+          "color": "dark_green"
+        },
+        {
+          "text": " are part of the Fey Courts, and serve as lightweight infantry. \n\nWielding improvised wooden weapons and shields, they are capable combatants that know how to stand up to a wizard if needed."
+        }
+      ]
+    },
+    {
+      "type": "recipe",
+      "location": "mna:demon_imp",
+      "recipeType": "entity",
+      "newPage": true
+    },
+    {
+      "type": "title",
+      "value": "Imp"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Imps",
+          "color": "dark_red"
+        },
+        {
+          "text": " are one of the soldiers of the "
+        },
+        {
+          "text": "Demons of the Nether",
+          "color": "dark_red"
+        },
+        {
+          "text": ". \n\nThey have powerful legs that let them leap great distances at their targets, covering ground quickly. Their sharp claws have made short work of many a wizard."
+        }
+      ]
+    },
+    {
+      "type": "recipe",
+      "location": "mna:lantern_wraith",
+      "recipeType": "entity",
+      "newPage": true
+    },
+    {
+      "type": "title",
+      "value": "Lantern Wraith"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Lantern Wraiths",
+          "color": "dark_red"
+        },
+        {
+          "text": " are one of the soldiers of the "
+        },
+        {
+          "text": "Demons of the Nether",
+          "color": "dark_red"
+        },
+        {
+          "text": ". \n\nThey fire long range bolts made of the souls of those they've slain, and each one increasingly slows and deals more damage as their target is drained more and more. These bolts eat away at the very life force of their target, and have been said to also drain mana of those they hit."
+        }
+      ]
+    },
+    {
+      "type": "recipe",
+      "location": "mna:hulking_zombie",
+      "recipeType": "entity",
+      "newPage": true
+    },
+    {
+      "type": "title",
+      "value": "Hulking Zombie"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Hulking Zombies",
+          "color": "dark_gray"
+        },
+        {
+          "text": " are one of the soldiers of the "
+        },
+        {
+          "text": "Undead",
+          "color": "dark_gray"
+        },
+        {
+          "text": ". \n\nThey can take an extreme amount of damage, and can dish it out as well. Their attacks can either knock their target back or up into the air, and they've been known to leap at airborne targets with the intent of spiking them back down to the ground (often at the expense of their own safety)."
+        }
+      ]
+    },
+    {
+      "type": "recipe",
+      "location": "mna:skeleton_assassin",
+      "recipeType": "entity",
+      "newPage": true
+    },
+    {
+      "type": "title",
+      "value": "Skeleton Assassin"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Skeleton Assassins",
+          "color": "dark_gray"
+        },
+        {
+          "text": " are one of the soldiers of the "
+        },
+        {
+          "text": "Undead",
+          "color": "dark_gray"
+        },
+        {
+          "text": ". \n\nThese terrifying stalkers have the ability to drop smoke bombs to make themselves invisible. They know how to attack from concealment, making their attacks deal significantly more damage. They also can throw deadly shurikens with high speed, and will throw bolos at flying targets in an attempt to bring them to the ground."
+        }
+      ]
+    },
+    {
+      "type": "recipe",
+      "location": "mna:chatterer",
+      "recipeType": "entity"
+    },
+    {
+      "type": "title",
+      "value": "Chatterer"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "An insidious creature within the legions of the ",
+          "color": "black"
+        },
+        {
+          "text": "undead",
+          "color": "dark_gray"
+        },
+        {
+          "text": ", the Chatterer's iconic clicking sound has conditioned many a miner to abandon whatever they were doing and instead focus on the now obvious threat. ",
+          "color": "black"
+        },
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "Found in the deepest depths and empowered with dark powers of plague and rot, the Chatterer will first use its magic to ",
+          "color": "black"
+        },
+        {
+          "text": "blind its victim",
+          "color": "blue"
+        },
+        {
+          "text": ". This is, thankfully, the largest effect the weakest variants of the chatterer can muster. More powerful Chatterers can layer on additional ",
+          "color": "black"
+        },
+        {
+          "text": "toxins, vulnerabilities",
+          "color": "blue"
+        },
+        {
+          "text": ", and even make their targets ",
+          "color": "black"
+        },
+        {
+          "text": "wither away",
+          "color": "blue"
+        },
+        {
+          "text": ". ",
+          "color": "black"
+        },
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "Once sufficiently weakened and helpless, the Chatterer will ",
+          "color": "black"
+        },
+        {
+          "text": "destroy itself to summon additional undead",
+          "color": "blue"
+        },
+        {
+          "text": " to finish its grim work. ",
+          "color": "black"
+        },
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "The only saving grace to be found lies in the magical link between their eye and their target. Looking directly into the eye seems to stun the Chatterer...but that becomes impossible to do when blinded. ",
+          "color": "black"
+        },
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "Some also tell of a bright source of light such as a wizard that has made themselves ",
+          "color": "black"
+        },
+        {
+          "text": "glow ",
+          "color": "blue"
+        },
+        {
+          "text": "being effective, provided they can get close enough. ",
+          "color": "black"
+        },
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "All of this is easier said than done as well, for ",
+          "color": "black"
+        },
+        {
+          "text": "Chatterers seldom travel alone",
+          "color": "blue"
+        },
+        {
+          "text": ". In particular, Skeleton Assassins are far more deadly with the support of a Chatterer.",
+          "color": "black"
+        }
+      ]
+    }
+  ],
+  "related_recipes": []
+}

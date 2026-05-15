@@ -1,0 +1,24 @@
+"Rune: Earth": {
+  "index": 0,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Rune: Earth"
+    },
+    {
+      "type": "text",
+      "value": "The earth rune pattern is used to apply enchantments focusing around the element of earth."
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/runescribe_earth"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/runeforge_earth"
+    }
+  ]
+}

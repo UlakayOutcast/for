@@ -1,0 +1,34 @@
+"Fire Aspect": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Fire Aspect"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Fire Aspect enchantment "
+        },
+        {
+          "text": "sets your target on fire when you attack",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/fire_aspect_i"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/fire_aspect_ii"
+    }
+  ]
+}

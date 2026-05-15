@@ -1,0 +1,35 @@
+"Experienced Soul": {
+  "index": "0",
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Experienced Soul"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This enchant will "
+        },
+        {
+          "text": "consume some of the XP I gain and convert it into souls",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nThis enchant can only be made by those that have allied themselves with the "
+        },
+        {
+          "text": "Undead.",
+          "color": "dark_gray"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/xp_to_souls"
+    }
+  ]
+}

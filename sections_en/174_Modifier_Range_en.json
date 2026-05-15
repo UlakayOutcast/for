@@ -1,0 +1,20 @@
+"Modifier: Range": {
+  "index": "3",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Range"
+    },
+    {
+      "type": "text",
+      "value": "I can alter the formula for a spell to increase its range.  This doesn't seem to affect projectiles, since their range is more based on their speed than anything else, but I might be able to extend my metaphysical touch range, and more."
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:modifiers/range"
+    }
+  ]
+}

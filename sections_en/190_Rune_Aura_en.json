@@ -1,0 +1,35 @@
+"Rune: Aura": {
+  "index": 0,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Rune: Aura"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The aura rune pattern is used to apply enchantments focusing on auras surrounding the enchantment bearer. These enchantments are extremely powerful and "
+        },
+        {
+          "text": "can even affect nearby allies",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/runescribe_aura"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/runeforge_aura"
+    }
+  ]
+}

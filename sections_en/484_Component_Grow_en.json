@@ -1,0 +1,45 @@
+"Component: Grow": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Grow"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This spell will cause its target to "
+        },
+        {
+          "text": "grow in size",
+          "color": "dark_purple"
+        },
+        {
+          "text": " for a time.  During this time, movement affecting spells like "
+        },
+        {
+          "text": "Fling and Gust",
+          "color": "blue"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "will be less effective",
+          "color": "dark_purple"
+        },
+        {
+          "text": " against the target."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/grow"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+"Pilgrim's Path": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Pilgrim's Path"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Pilgrim's Path",
+          "color": "blue"
+        },
+        {
+          "text": " is the preferred road for wizardkind. \n\nWhile walking on this road, entities enjoy"
+        },
+        {
+          "text": " increased movement speed and jump height.\n\n",
+          "color": "dark_purple"
+        },
+        {
+          "text": "These roads also "
+        },
+        {
+          "text": "prevent fall damage when landed on",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", making them an extremely versatile and useful option.  They can be made into slabs and stairs using usual means, either by crafting or by using a stonecutter."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/pilgrims_path"
+    }
+  ]
+}

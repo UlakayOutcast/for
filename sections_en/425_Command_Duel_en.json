@@ -1,0 +1,33 @@
+"Command: Duel": {
+  "index": "4",
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Duel"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command causes constructs to "
+        },
+        {
+          "text": "duel other constructs",
+          "color": "dark_purple"
+        },
+        {
+          "text": " within the area that are also dueling.  Constructs cannot be killed while dueling.\n\nTargets are selected by the "
+        },
+        {
+          "text": "banner ",
+          "color": "blue"
+        },
+        {
+          "text": "that the construct has.\n\nTo set a banner, right click a construct with the banner item.  Banners on constructs make use of ghost items, meaning you only need to make one of each."
+        }
+      ]
+    }
+  ],
+  "related_recipes": []
+}

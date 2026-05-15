@@ -1,0 +1,34 @@
+"Knockback": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Knockback"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Knockback enchantment "
+        },
+        {
+          "text": "increases the knockback dealt when attacking a player or mob",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". This will cause the player or mob to repel backwards more than usual."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/knockback_i"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/knockback_ii"
+    }
+  ]
+}

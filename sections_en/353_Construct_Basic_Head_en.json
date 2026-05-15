@@ -1,0 +1,37 @@
+"Construct Basic Head": {
+  "index": "3",
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Construct Basic Head"
+    },
+    {
+      "type": "text",
+      "value": "The basic head is inexpensive but doesn't offer any special benefits."
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:wickerwood_constructs/wickerwood_head"
+    },
+    {
+      "type": "manaweaving_altar",
+      "locations": [
+        "mna:manaweaving/constructs/wood/wood_head_basic",
+        "mna:manaweaving/constructs/stone/stone_head_basic",
+        "mna:manaweaving/constructs/bone/bone_head_basic",
+        "mna:manaweaving/constructs/iron/iron_head_basic",
+        "mna:manaweaving/constructs/gold/gold_head_basic"
+      ]
+    },
+    {
+      "type": "eldrin_altar",
+      "locations": [
+        "mna:eldrin_altar/construct/diamond/diamond_head_basic",
+        "mna:eldrin_altar/construct/obsidian/obsidian_head_basic"
+      ]
+    }
+  ]
+}

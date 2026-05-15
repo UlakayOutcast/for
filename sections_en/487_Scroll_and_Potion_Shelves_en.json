@@ -1,0 +1,35 @@
+"Scroll and Potion Shelves": {
+  "index": 0,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Scroll and Potion Shelves"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "These shelves are perfect for storing large amounts of "
+        },
+        {
+          "text": "Torn Journal Pages, Theses, items containing spells, and potions",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", though it can store any item."
+        },
+        {
+          "text": "\n\nItems not in the above list will render as scrolls in the display slots.  There is a tag to make additional items render as potions in the shelf instead.",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:scroll_shelf"
+    }
+  ]
+}

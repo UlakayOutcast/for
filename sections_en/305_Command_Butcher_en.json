@@ -1,0 +1,25 @@
+"Command: Butcher": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Butcher"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to "
+        },
+        {
+          "text": "kill adult animals within the specified range",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". It will leave the specified number of pairs alive."
+        }
+      ]
+    }
+  ]
+}

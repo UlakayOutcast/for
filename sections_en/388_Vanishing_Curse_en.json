@@ -1,0 +1,30 @@
+"Vanishing Curse": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Vanishing Curse"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Curse of Vanishing enchantment lets you curse an item in the game. When an item is cursed with this enchantment, the "
+        },
+        {
+          "text": "cursed item will disappear when the wearer dies instead of being dropped",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/vanishing_curse"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+"Feather Charms": {
+  "index": -1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Feather Charms"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Feather charms are simple single-use items that perform powerful, often protective effects. They are all about preparation in advance. Many a wizard has been saved by their use. Most feather charms activate automatically under certain conditions (though some must be manually activated such as the "
+        },
+        {
+          "text": "Enderfeather Charm",
+          "color": "blue"
+        },
+        {
+          "text": "). "
+        },
+        {
+          "text": "They can be equipped into the charm slot in the curio inventory, or be in your inventory / hotbar. Any of these slots are valid.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Enderfeather Charm",
+      "newPage": true
+    },
+    {
+      "type": "item",
+      "location": "mna:bed_charm",
+      "scale": 1
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Enderfeather Charm",
+          "color": "blue"
+        },
+        {
+          "text": " is a single use item that, while expensive, will "
+        },
+        {
+          "text": "return me to my bed",
+          "color": "dark_purple"
+        },
+        {
+          "text": " (or equivalent) regardless of distance as long as I'm in the same dimension. \n\nI'm sure there are less expensive means of achieving a similar effect as I grow my abilities."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Coalfeather Charm",
+      "newPage": true
+    },
+    {
+      "type": "item",
+      "location": "mna:burn_charm",
+      "scale": 1
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Coalfeather Charm",
+          "color": "blue"
+        },
+        {
+          "text": " is a single use item that will "
+        },
+        {
+          "text": "extinguish me if I am on fire",
+          "color": "dark_purple"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "solidify lava around me",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Reedfeather Charm",
+      "newPage": true
+    },
+    {
+      "type": "item",
+      "location": "mna:drown_charm",
+      "scale": 1
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Reedfeather Charm",
+          "color": "blue"
+        },
+        {
+          "text": " is a single use item that will "
+        },
+        {
+          "text": "refill my breath",
+          "color": "dark_purple"
+        },
+        {
+          "text": " if I start to drown."
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "value": "Bonefeather Charm",
+      "newPage": true
+    },
+    {
+      "type": "item",
+      "location": "mna:fall_charm",
+      "scale": 1
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Bonefeather Charm",
+          "color": "dark_purple"
+        },
+        {
+          "text": " is a single use item that will automatically "
+        },
+        {
+          "text": "protect me from lethal fall damage",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". If a fall would not be lethal, the charm will do nothing. \n\nI'm sure there are less expensive means of achieving a similar effect as I grow my abilities."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/enderfeather_charm"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/coalfeather_charm"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/reedfeather_charm"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/bonefeather_charm"
+    }
+  ]
+}

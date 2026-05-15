@@ -1,0 +1,49 @@
+"Healing Poultice": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Healing Poultice"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "When combined with a paste made of certain plants and flowers, "
+        },
+        {
+          "text": "Vinteum",
+          "color": "blue"
+        },
+        {
+          "text": " appears to bring out miraculous wound-cleaning properties. There is one specific flower, "
+        },
+        {
+          "text": "Aum",
+          "color": "blue"
+        },
+        {
+          "text": ", that can be used without Vinteum, as it already contains easily accessible healing properties of its own. \n\nApplying this mixture to the body and holding it in place causes a slow release of healing magic that can restore even the most serious of wounds... if given enough time. \n\nUnfortunately, "
+        },
+        {
+          "text": "any upset to the body (like sudden movements or being injured) disrupts the slow release of magical healing",
+          "color": "dark_purple"
+        },
+        {
+          "text": " from the poultice and renders it useless, ending the effect."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:healing_poultice"
+    },
+    {
+      "type": "crafting",
+      "location": "mna:healing_poultice_aum"
+    }
+  ]
+}

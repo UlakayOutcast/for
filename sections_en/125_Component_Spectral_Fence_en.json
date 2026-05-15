@@ -1,0 +1,41 @@
+"Component: Spectral Fence": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Summon Spectral Fence"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can "
+        },
+        {
+          "text": "conjure a phantasmal fence",
+          "color": "dark_purple"
+        },
+        {
+          "text": " that will block most creatures from passing through it for a short duration, but it will allow nonliving things and other people through. \n\nI'm able to effortlessly maintain the fences as long as I or any other person is close to it, But otherwise it will fade after twenty seconds."
+        },
+        {
+          "text": "\n\nIf I cast this spell on a "
+        },
+        {
+          "text": "Metal Ritual Rune",
+          "color": "blue"
+        },
+        {
+          "text": ", the effect will become permanent at that location, until broken manually."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/spectral_fence"
+    }
+  ]
+}

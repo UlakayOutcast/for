@@ -1,0 +1,102 @@
+"Construct Shield Arm": {
+  "index": "3",
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Construct Shield Arms"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Construct shield arms allow the construct to block incoming attacks in front of it, greatly increasing its survivability. They also increase the construct's overall armor/toughness values based on their material:\n\n"
+        },
+        {
+          "text": "Wood",
+          "color": "blue"
+        },
+        {
+          "text": ": 3 armor, 0 toughness\n"
+        },
+        {
+          "text": "Stone",
+          "color": "blue"
+        },
+        {
+          "text": ": 4 armor, 0 toughness\n"
+        },
+        {
+          "text": "Bone",
+          "color": "blue"
+        },
+        {
+          "text": ": 4 armor, 1 toughness\n"
+        },
+        {
+          "text": "Iron",
+          "color": "blue"
+        },
+        {
+          "text": ": 8 armor, 3 toughness\n"
+        },
+        {
+          "text": "Gold",
+          "color": "blue"
+        },
+        {
+          "text": ": 3 armor, 0 toughness\n"
+        },
+        {
+          "text": "Diamond",
+          "color": "blue"
+        },
+        {
+          "text": ": 6 armor, 1 toughness\n"
+        },
+        {
+          "text": "Obsidian",
+          "color": "blue"
+        },
+        {
+          "text": ": 5 armor, 0 toughness"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "locations": [
+        "mna:manaweaving/constructs/wood/wood_shield_arm_left",
+        "mna:manaweaving/constructs/stone/stone_shield_arm_left",
+        "mna:manaweaving/constructs/bone/bone_shield_arm_left",
+        "mna:manaweaving/constructs/iron/iron_shield_arm_left",
+        "mna:manaweaving/constructs/gold/gold_shield_arm_left"
+      ]
+    },
+    {
+      "type": "manaweaving_altar",
+      "locations": [
+        "mna:manaweaving/constructs/wood/wood_shield_arm_right",
+        "mna:manaweaving/constructs/bone/bone_shield_arm_right",
+        "mna:manaweaving/constructs/iron/iron_shield_arm_right",
+        "mna:manaweaving/constructs/gold/gold_shield_arm_right"
+      ]
+    },
+    {
+      "type": "eldrin_altar",
+      "locations": [
+        "mna:eldrin_altar/construct/diamond/diamond_shield_arm_left",
+        "mna:eldrin_altar/construct/obsidian/obsidian_shield_arm_left"
+      ]
+    },
+    {
+      "type": "eldrin_altar",
+      "locations": [
+        "mna:eldrin_altar/construct/diamond/diamond_shield_arm_right",
+        "mna:eldrin_altar/construct/obsidian/obsidian_shield_arm_right"
+      ]
+    }
+  ]
+}

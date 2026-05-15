@@ -1,0 +1,42 @@
+"Feather Falling": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Feather Falling"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Feather Falling enchantment "
+        },
+        {
+          "text": "reduces damage from falling and damage from ender pearl teleportations",
+          "color": "dark_purple"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/feather_falling_i"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/feather_falling_ii"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/feather_falling_iii"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/feather_falling_iv"
+    }
+  ]
+}

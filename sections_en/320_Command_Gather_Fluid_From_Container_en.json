@@ -1,0 +1,32 @@
+"Command: Gather Fluid From Container": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Gather Fluid From Container"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to "
+        },
+        {
+          "text": "attempt to gather fluid from the specified container",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nThe construct "
+        },
+        {
+          "text": "needs to be able to dispense fluid and store fluid",
+          "color": "dark_purple"
+        },
+        {
+          "text": " in order to perform this task."
+        }
+      ]
+    }
+  ]
+}

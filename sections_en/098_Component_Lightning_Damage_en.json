@@ -1,0 +1,38 @@
+"Component: Lightning Damage": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Lightning Damage"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I've figured out a way to channel pure fire into a blast so concentrated that it more resembles lightning than anything else. The charge it creates seems to have a "
+        },
+        {
+          "text": "chance to arc to other targets",
+          "color": "dark_purple"
+        },
+        {
+          "text": " based on the amount of magnitude I put into it. This could be useful against large groups of enemies.  In theory, if I put enough damage into it, I may even be able to "
+        },
+        {
+          "text": "ignite creepers",
+          "color": "dark_purple"
+        },
+        {
+          "text": " , provided they actually survive the lightning blast, which may prove somewhat of its own challenge.  I might need to get creative."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/lightning_damage"
+    }
+  ]
+}

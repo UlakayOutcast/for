@@ -1,0 +1,31 @@
+"Ledger": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ledger"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The ledger is used to define a filter for items and blocks, as used by "
+        },
+        {
+          "text": "Construct",
+          "color": "blue"
+        },
+        {
+          "text": " tasks."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "crafting",
+      "location": "mna:filter_item"
+    }
+  ]
+}

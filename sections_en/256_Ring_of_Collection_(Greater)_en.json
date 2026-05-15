@@ -1,0 +1,45 @@
+"Ring of Collection (Greater)": {
+  "index": 1,
+  "category": "artifice",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Ring of Collection (Greater)"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This ring, when worn, will cause my break spells to "
+        },
+        {
+          "text": "attempt to transport items",
+          "color": "dark_purple"
+        },
+        {
+          "text": " to a container marked by a "
+        },
+        {
+          "text": "Rune of Marking",
+          "color": "blue"
+        },
+        {
+          "text": " in my other hand. If the container is for whatever reason unreachable"
+        },
+        {
+          "text": ", for example unloaded or in another dimension, ",
+          "italic": true
+        },
+        {
+          "text": "it will attempt to instead put them in my inventory. If my inventory is full, it will drop them at my feet."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/artifice/ring_of_transportation"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+"Superheating Vinteum": {
+  "index": -95,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Superheating Vinteum"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Regular furnaces don't seem to put out the right kind of heat to superheat "
+        },
+        {
+          "text": "Vinteum Bars",
+          "color": "blue"
+        },
+        {
+          "text": ". \n\nThat's where the "
+        },
+        {
+          "text": "Runeforge ",
+          "color": "blue"
+        },
+        {
+          "text": "is useful. By placing these bars in the Runeforge, its magically infused fire will cause these bars to heat up to temperatures I need in order to forge them into shape."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "arcane_furnace",
+      "location": "mna:arcanefurnace/superheated_vinteum_ingot"
+    },
+    {
+      "type": "arcane_furnace",
+      "location": "mna:arcanefurnace/superheated_purified_vinteum_ingot"
+    },
+    {
+      "type": "crafting",
+      "locations": [
+        "mna:runeforge",
+        "mna:runeforge_alt"
+      ]
+    }
+  ]
+}

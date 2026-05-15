@@ -1,0 +1,55 @@
+"Construct Frame Patterns": {
+  "index": 9,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Construct Frame Patterns"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "When making "
+        },
+        {
+          "text": "Constructs",
+          "color": "blue"
+        },
+        {
+          "text": ", it is often required to reinforce the parts you are crafting with various forged frames. These frames add strength and help to hold the animus magic within the construct."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/constructs/runescribe_construct_axe"
+    },
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/constructs/runescribe_construct_claw"
+    },
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/constructs/runescribe_construct_hammer"
+    },
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/constructs/runescribe_construct_head"
+    },
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/constructs/runescribe_construct_hips"
+    },
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/constructs/runescribe_construct_rod"
+    },
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/constructs/runescribe_construct_torso"
+    }
+  ]
+}

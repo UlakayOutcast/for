@@ -1,0 +1,32 @@
+"Command: Patrol": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Command: Patrol"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This command will cause the construct to "
+        },
+        {
+          "text": "patrol among one to four points specified",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", attacking enemies it sees along the way (if it is capable of doing so). At each point, "
+        },
+        {
+          "text": "it will remain for the specified number of seconds before continuing on to the next",
+          "color": "dark_purple"
+        },
+        {
+          "text": ". \n\nAt the end of the final point, it will continue any other tasks within the lodestar before returning to patrol. It's a particularly good use of time if you're having your construct wait for something."
+        }
+      ]
+    }
+  ]
+}

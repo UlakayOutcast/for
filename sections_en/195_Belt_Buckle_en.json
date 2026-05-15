@@ -1,0 +1,28 @@
+"Belt Buckle": {
+  "index": 0,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Belt Buckle"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The Belt Buckle is a component in crafting belts.  Who knew?"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/artifice/belt_buckle_pattern"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/artifice/runeforge_belt_buckle"
+    }
+  ]
+}

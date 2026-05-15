@@ -1,0 +1,52 @@
+"Making Leather": {
+  "index": -98,
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Making Leather"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Since I am unable to make "
+        },
+        {
+          "text": "Vellum",
+          "color": "blue"
+        },
+        {
+          "text": " from paper, I'll need to find a reliable way to make "
+        },
+        {
+          "text": "leather",
+          "color": "blue"
+        },
+        {
+          "text": ". I've seen the "
+        },
+        {
+          "text": "zombies",
+          "color": "blue"
+        },
+        {
+          "text": " that stalk the night, and though their "
+        },
+        {
+          "text": "flesh",
+          "color": "blue"
+        },
+        {
+          "text": " is rotten and rancid, I should be able to combine that with a little magic to return it to a usable form of leather."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/leather"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+"Component: Nethergate": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Nethergate"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Demons",
+          "color": "dark_red"
+        },
+        {
+          "text": " have taught me how to enter and exit their realm at will, without the need for the usual obsidian portals.\n\nThis can only be cast on other wizards if they are directly allied with me "
+        },
+        {
+          "text": "(vanilla scoreboard teams)",
+          "italic": true
+        },
+        {
+          "text": ".\n\nThis spell can only be crafted by those that have allied themselves with the "
+        },
+        {
+          "text": "Demons of the Nether",
+          "color": "dark_red"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/nethergate"
+    }
+  ]
+}

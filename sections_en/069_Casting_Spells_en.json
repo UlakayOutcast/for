@@ -1,0 +1,61 @@
+"Casting Spells": {
+  "index": -95,
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Casting Spells"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Once I've made my "
+        },
+        {
+          "text": "spell",
+          "color": "blue"
+        },
+        {
+          "text": " using the "
+        },
+        {
+          "text": "Ritual of Arcana",
+          "color": "blue"
+        },
+        {
+          "text": ", it's time to cast it.\n\nTo do so, I need to focus my will through the spell while holding it in my hand "
+        },
+        {
+          "text": "(right click)",
+          "italic": true
+        },
+        {
+          "text": ".  It will drain some of my "
+        },
+        {
+          "text": "mana",
+          "color": "blue"
+        },
+        {
+          "text": " in the process, as is expected.  I can hold a spell in each hand, however "
+        },
+        {
+          "text": "I can only focus on one spell at a time",
+          "color": "dark_purple"
+        },
+        {
+          "text": ".\n\nOh, and I should remember to "
+        },
+        {
+          "text": "label the spell properly",
+          "color": "dark_purple"
+        },
+        {
+          "text": " so I know what it is when I'm looking through my backpack.  I usually forget until I try to cast the spell for the first time."
+        }
+      ]
+    }
+  ],
+  "related_recipes": []
+}

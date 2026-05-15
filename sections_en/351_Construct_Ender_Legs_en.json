@@ -1,0 +1,44 @@
+"Construct Ender Legs": {
+  "index": "3",
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Construct Ender Legs"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "The ender legs allow the construct to "
+        },
+        {
+          "text": "teleport short distances",
+          "color": "dark_purple"
+        },
+        {
+          "text": " of between 6 and 32 blocks when performing tasks."
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "locations": [
+        "mna:manaweaving/constructs/wood/wood_legs_ender",
+        "mna:manaweaving/constructs/stone/stone_legs_ender",
+        "mna:manaweaving/constructs/bone/bone_legs_ender",
+        "mna:manaweaving/constructs/iron/iron_legs_ender",
+        "mna:manaweaving/constructs/gold/gold_legs_ender"
+      ]
+    },
+    {
+      "type": "eldrin_altar",
+      "locations": [
+        "mna:eldrin_altar/construct/diamond/diamond_legs_ender",
+        "mna:eldrin_altar/construct/obsidian/obsidian_legs_ender"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+"Component: Collapse": {
+  "index": "2",
+  "category": "sorcery",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Collapse"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "I can use earth magic to cause simple "
+        },
+        {
+          "text": "blocks to fall under the influence of gravity",
+          "color": "dark_purple"
+        },
+        {
+          "text": " for a short time. Next time I see that creeper, I intend to fling it backwards and collapse the tunnel around it!"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "spell_part",
+      "location": "mna:components/collapse"
+    }
+  ]
+}

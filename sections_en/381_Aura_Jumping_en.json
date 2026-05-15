@@ -1,0 +1,34 @@
+"Aura Jumping": {
+  "category": "enchantments",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Aura of Jumping"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This aura will periodically drain my mana in order to "
+        },
+        {
+          "text": "increase my ability to jump, as well as those in close proximity to me. ",
+          "color": "dark_purple"
+        },
+        {
+          "text": "\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments.\n\n"
+        },
+        {
+          "text": "M&A Fixes jump boost such that it also applies forward motion when you jump, allowing you to keep your momentum while jumping.",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/enchanting/aura/jumping"
+    }
+  ]
+}

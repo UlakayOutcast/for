@@ -1,0 +1,24 @@
+"Rune: Ender": {
+  "index": 0,
+  "category": "runesmithing",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Rune: Ender"
+    },
+    {
+      "type": "text",
+      "value": "The ender rune pattern is used to apply enchantments focusing around the realm of the end."
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "runescribing",
+      "location": "mna:runescribing/runescribe_ender"
+    },
+    {
+      "type": "runesmithing",
+      "location": "mna:runeforging/runeforge_ender"
+    }
+  ]
+}

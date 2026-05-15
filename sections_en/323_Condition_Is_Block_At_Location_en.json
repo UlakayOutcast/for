@@ -1,0 +1,39 @@
+"Condition: Is Block At Location": {
+  "index": 4,
+  "category": "constructs",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Condition: Is Block At Location"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "This condition will"
+        },
+        {
+          "text": " check if the specified block is at the given location",
+          "color": "dark_purple"
+        },
+        {
+          "text": ", returning "
+        },
+        {
+          "text": "success ",
+          "color": "dark_green"
+        },
+        {
+          "text": "if it is, and "
+        },
+        {
+          "text": "failure ",
+          "color": "dark_red"
+        },
+        {
+          "text": "if it is not."
+        }
+      ]
+    }
+  ]
+}
