@@ -1,0 +1,16 @@
+{
+  "Ritual How-To": {
+    "index": 19,
+    "category": "rituals",
+    "required_advancement": "mna:tier_1/manaweaving_altar",
+    "sections": [
+      {"type": "title", "value": "Ritual How-To"},
+      {"type": "text", "json": [{"text": "Rituals are a powerful form of magic that allow me to create complex and long-lasting effects. Unlike regular spells, rituals require a specific setup and often involve multiple steps and components.\n\nTo perform a ritual, I first need to create a ritual setup. This usually involves placing specific blocks or items in a particular pattern. The exact setup will depend on the ritual I want to perform.\n\nOnce the setup is complete, I can activate the ritual by right-clicking on the central block or item with a ritual focus, such as a staff or wand. This will start the ritual and consume the required resources.\n\nRituals can have a wide range of effects, from summoning powerful entities to altering the environment around me. They are very versatile and can be used in many different situations."}]},
+      {"type": "title", "value": "Ritual Components", "newPage": true},
+      {"type": "text", "json": [{"text": "Each ritual requires specific components to function. These can include various blocks, items, or even living entities.\n\nThe most common component is the ritual stone, which is used as the base for most rituals. Other components can include things like candles, runes, or specific types of blocks.\n\nIt's important to carefully follow the ritual's requirements, as missing or incorrect components can cause the ritual to fail or have unintended effects."}]},
+      {"type": "title", "value": "Ritual Focus", "newPage": true},
+      {"type": "text", "json": [{"text": "A ritual focus is required to activate a ritual. This can be a magic staff, wand, or bangle that has been specifically attuned to the ritual.\n\nThe ritual focus must be held in the hand when activating the ritual. It channels the magic and ensures that the ritual is performed correctly.\n\nSome rituals may require a specific type of focus, so it's important to check the ritual's requirements before attempting to perform it."}]}
+    ],
+    "related_recipes": []
+  }
+}
