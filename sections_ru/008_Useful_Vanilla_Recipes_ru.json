@@ -1,0 +1,60 @@
+"Useful Vanilla Recipes": {
+  "index": 8,
+  "category": "basics",
+  "sections": [
+    {
+      "type": "title",
+      "value": "Распространённые обычные материалы"
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Я создал способы магически синтезировать распространённые обычные материалы, которые иначе были бы редкими или труднодоступными, но часто используются в магии.\n\nУверен, что по мере прогресса я придумаю ещё больше. Я обязательно перечислю их здесь."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "json": [
+        {
+          "text": "Доступные рецепты включают:\n- Кожа\n- Плачущий обсидиан\n- Призмариновый кристалл\n- Осколок призмарина\n- Позолоченный черный камень\n- Бирка с именем\n- Ядовитый картофель\n- Седло"
+        }
+      ]
+    }
+  ],
+  "related_recipes": [
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/leather"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/crying_obsidian"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/prismarine_crystal"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/prismarine_shard"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/gilded_blackstone"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/name_tag"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/poisonous_potato"
+    },
+    {
+      "type": "manaweaving_altar",
+      "location": "mna:manaweaving/utility/saddle"
+    }
+  ]
+}
