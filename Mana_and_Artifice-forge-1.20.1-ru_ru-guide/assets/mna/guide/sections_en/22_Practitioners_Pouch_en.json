@@ -1,0 +1,14 @@
+{
+  "Practitioner's Pouch": {
+    "index": 22,
+    "category": "rituals",
+    "required_advancement": "mna:tier_1/manaweaving_altar",
+    "sections": [
+      {"type": "title", "value": "Practitioner's Pouch"},
+      {"type": "text", "json": [{"text": "The Practitioner's Pouch is a versatile and essential tool for any mage. It allows me to store and organize various magical items and components, making it easier to access them when needed.\n\nTo craft a Practitioner's Pouch, I need to use a manaweaving altar. The pouch can be upgraded with various patches to enhance its functionality and capacity.\n\nThe Practitioner's Pouch can store a wide range of items, including motes, spell components, and other magical artifacts. It is very useful for keeping my inventory organized and ensuring that I have all the necessary components for spellcrafting and rituals."}]},
+      {"type": "title", "value": "Using the Pouch", "newPage": true},
+      {"type": "text", "json": [{"text": "To access the contents of my Practitioner's Pouch, I simply right-click on it while holding it in my hand. This will open the pouch's inventory, allowing me to add or remove items.\n\nThe pouch can be placed in my inventory like any other item, and I can carry multiple pouches if needed. Each pouch can be customized with different patches to suit my specific needs.\n\nThe Practitioner's Pouch is an indispensable tool for any serious mage, providing easy access to magical components and helping to keep my inventory tidy and efficient."}]}
+    ],
+    "related_recipes": []
+  }
+}
