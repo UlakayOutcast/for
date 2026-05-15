@@ -1,0 +1,12 @@
+{
+  "Practitioner's Pouch Patch: Rift": {
+    "index": 28,
+    "category": "rituals",
+    "required_advancement": "mna:tier_1/manaweaving_altar",
+    "sections": [
+      {"type": "title", "value": "Practitioner's Pouch Patch: Rift"},
+      {"type": "text", "json": [{"text": "The Rift Patch is an upgrade for the Practitioner's Pouch that enhances its ability to store items related to rift magic. This patch is particularly useful for mages who work with interdimensional spells and rituals.\n\nTo apply the Rift Patch, I need to combine it with a Practitioner's Pouch in a crafting table. Once applied, the patch will permanently enhance the pouch, providing additional slots for rift-related items.\n\nThe Rift Patch also adds a dark, swirling design to the pouch, reflecting its connection to rift magic."}]}
+    ],
+    "related_recipes": []
+  }
+}
