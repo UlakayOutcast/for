@@ -1,0 +1,32 @@
+{
+  "Using this Codex": {
+    "index": 0,
+    "category": "basics",
+    "sections": [
+      {"type": "title", "value": "Using This Codex"},
+      {"type": "image", "location": "mna:textures/guide/pagination.png", "width": 128, "height": 34},
+      {"type": "title", "value": "Pages"},
+      {"type": "text", "json": [{"text": "When looking at an entry, the "}, {"text": "pagination buttons", "color": "blue"}, {"text": " are shown at the bottom of pages (if there is a previous or next page to turn to)."}]},
+      {"type": "text", "json": [{"text": "This codex is your guide on how to do the things within the mod. It contains every recipe, mechanic, part, and how to make them.\n\nIt's intended to pair with the "}, {"text": "Occulus", "color": "blue"}, {"text": ", which is a block that shows you what you've unlocked at a given tier as well as tells you what you need to do in order to advance. Use that as a guide to 'what' you have unlocked, and this book as 'how'.\n\nThe "}, {"text": "Codex", "color": "black"}, {"text": " will only display things that you have unlocked at your current tier."}]},
+      {"type": "image", "location": "mna:textures/guide/back_button.png", "width": 30, "height": 48, "newPage": true},
+      {"type": "title", "value": "Return to Category Index"},
+      {"type": "text", "json": [{"text": "When viewing an entry, click the "}, {"text": "back button", "color": "blue"}, {"text": " to return to the category index pages."}]},
+      {"type": "image", "location": "mna:textures/guide/category_buttons.png", "width": 28, "height": 18, "newPage": true},
+      {"type": "title", "value": "Categories"},
+      {"type": "text", "json": [{"text": "This codex is broken down into "}, {"text": "categories", "color": "blue"}, {"text": ". They are displayed with green tabs on the side, and represent various logical areas within the mod. Click a category to view the items within it."}]},
+      {"type": "image", "location": "mna:textures/guide/search.png", "width": 18, "height": 28, "newPage": true},
+      {"type": "title", "value": "Search"},
+      {"type": "text", "json": [{"text": "Click the "}, {"text": "search tab", "color": "blue"}, {"text": " at the bottom of this UI to bring up a search window. Search for what you're looking for and click the result you want in order to jump to it."}]},
+      {"type": "image", "location": "mna:textures/guide/back_behaviour.png", "width": 18, "height": 28, "newPage": true},
+      {"type": "title", "value": "Back Behaviour"},
+      {"type": "text", "json": [{"text": "Click the "}, {"text": "back behaviour", "color": "blue"}, {"text": " tab at the bottom of this UI to change how you navigate through this codex. There is support for changing back to a combination of escape, right mouse, and the UI buttons."}]},
+      {"type": "image", "location": "mna:textures/guide/recipe_buttons.png", "width": 28, "height": 18, "newPage": true},
+      {"type": "title", "value": "Recipes"},
+      {"type": "text", "json": [{"text": "When viewing a codex entry, you will often see recipes pinned to the right of the page in blue tabs. Click these to see how to make the given item."}]},
+      {"type": "image", "location": "mna:textures/guide/pin_recipe.png", "width": 18, "height": 33, "newPage": true},
+      {"type": "title", "value": "Pinning Recipes"},
+      {"type": "text", "json": [{"text": "When viewing a recipe, in the top left you will see a pin icon. Click this to "}, {"text": "pin a recipe to the HUD", "color": "blue"}, {"text": ". This recipe will show even when the codex is closed. Click any pin on a recipe again to hide it, or click the red pin button that appears in your inventory next to your player representation when you have a recipe pinned."}]}
+    ],
+    "related_recipes": [{"location": "mna:occulus", "type": "crafting"}]
+  }
+}
