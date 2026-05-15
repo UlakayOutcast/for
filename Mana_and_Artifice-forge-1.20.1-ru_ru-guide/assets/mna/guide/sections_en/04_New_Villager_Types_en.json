@@ -1,0 +1,17 @@
+{
+  "New Villager Types": {
+    "index": 4,
+    "category": "basics",
+    "sections": [
+      {"type": "title", "value": "New Villager Types"},
+      {"type": "text", "json": [{"text": "I am not alone in my quest for magic. In villages throughout the world I have seen other practitioners peddling their wares. Each one seems to specialize in different facets of magic, from general magic, to weaving magic into the air, to smithing powerful runes to enchant gear.\n\nIn terms of currency, I have seen them ask for Quicksilver, so I should stock up on that before making the journey to trade. \n\nI'm certain I can complete my studies without their help if I needed to though."}]},
+      {"type": "title", "value": "Spellmongers", "newPage": true},
+      {"type": "text", "json": [{"text": "Spellmongers", "color": "dark_purple"}, {"text": " sell useful "}, {"text": "herbalist pouches", "color": "blue"}, {"text": " which contain random magical flowers, "}, {"text": "inks", "color": "blue"}, {"text": ", and "}, {"text": "other common ingredients", "color": "blue"}, {"text": " I frequently need for spell crafting. The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that Spellmongers seem to require a "}, {"text": "Runeforge", "color": "dark_purple"}, {"text": " to do their job."}]},
+      {"type": "title", "value": "Manaweavers", "newPage": true},
+      {"type": "text", "json": [{"text": "Manaweavers", "color": "dark_purple"}, {"text": " sell useful "}, {"text": "manaweaver pouches", "color": "blue"}, {"text": " which contain bottled manaweaves for quick use, "}, {"text": "foci", "color": "blue"}, {"text": ", "}, {"text": "magical silks", "color": "blue"}, {"text": " and "}, {"text": "teas", "color": "blue"}, {"text": " that help my mana regenerate faster. The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that Manaweavers seem to require a "}, {"text": "Manaweaving Altar", "color": "dark_purple"}, {"text": " to do their job."}]},
+      {"type": "title", "value": "Runesmiths", "newPage": true},
+      {"type": "text", "json": [{"text": "Runesmiths", "color": "dark_purple"}, {"text": " sell useful "}, {"text": "inscription pouches", "color": "blue"}, {"text": " which contain various runes, "}, {"text": "runes of marking", "color": "blue"}, {"text": ", "}, {"text": "other useful items for runesmithing and construct crafting.", "color": "blue"}, {"text": " The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that "}, {"text": "Runesmiths", "color": "dark_purple"}, {"text": " seem to require a "}, {"text": "Runescribing Table", "color": "dark_purple"}, {"text": " to do their job."}]}
+    ],
+    "related_recipes": [{"locations": ["mna:runeforge", "mna:runeforge_alt"], "type": "crafting"}, {"location": "mna:runescribing/runescribing_table", "type": "crafting"}, {"location": "mna:manaweaving_altar", "type": "crafting"}, {"type": "crafting", "location": "mna:runeforge_alt"}]
+  }
+}
