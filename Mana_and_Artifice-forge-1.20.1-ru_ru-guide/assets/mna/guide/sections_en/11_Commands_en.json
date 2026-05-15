@@ -1,0 +1,11 @@
+{
+  "Commands": {
+    "index": 11,
+    "category": "basics",
+    "sections": [
+      {"type": "title", "value": "Commands"},
+      {"type": "text", "json": [{"text": "There are a few commands that can be used to help with this mod.\n\nThe first is /mna codex. This will give you a copy of this codex.\n\nThe second is /mna progress. This will give you a copy of the Occulus.\n\nThe third is /mna resetprogress. This will reset all of your progress through the mod. This can be used if you've messed up your progression somehow, or want to restart your journey through the mod.\n\nThe fourth is /mna resetspells. This will clear all of the spells you have created. This can be used if you've messed up your spell creation somehow, or want to restart your spell crafting.\n\nThe fifth is /mna resethud. This will reset the HUD position to the default.\n\nThe sixth is /mna debug. This will give you a copy of the debug wand. The debug wand can be used to see various bits of information about the mod, and can be used to help debug issues.\n\nThe seventh is /mna spellbook. This will give you a spell book.\n\nThe eighth is /mna clearspellbook. This will clear all of the spells from your spell book.\n\nThe ninth is /mna resetspellbook. This will reset your spell book to the default.\n\nThe tenth is /mna resetall. This will reset all of your progress, spells, and spell book. This can be used if you've messed up everything somehow, or want to restart your journey through the mod from scratch."}]}
+    ],
+    "related_recipes": []
+  }
+}
