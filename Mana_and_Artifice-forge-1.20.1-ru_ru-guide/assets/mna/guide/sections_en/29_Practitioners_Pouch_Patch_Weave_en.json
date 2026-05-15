@@ -1,0 +1,12 @@
+{
+  "Practitioner's Pouch Patch: Weave": {
+    "index": 29,
+    "category": "rituals",
+    "required_advancement": "mna:tier_1/manaweaving_altar",
+    "sections": [
+      {"type": "title", "value": "Practitioner's Pouch Patch: Weave"},
+      {"type": "text", "json": [{"text": "The Weave Patch is an upgrade for the Practitioner's Pouch that enhances its ability to store and organize manaweaving components. This patch is ideal for mages who frequently engage in manaweaving and need quick access to various weaving materials.\n\nTo apply the Weave Patch, I need to combine it with a Practitioner's Pouch in a crafting table. Once applied, the patch will permanently enhance the pouch, providing additional slots specifically for manaweaving components.\n\nThe Weave Patch also adds a intricate, woven pattern to the pouch, symbolizing its purpose and function."}]}
+    ],
+    "related_recipes": []
+  }
+}
