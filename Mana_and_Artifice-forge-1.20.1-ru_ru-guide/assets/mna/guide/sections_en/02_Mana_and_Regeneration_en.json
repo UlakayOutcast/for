@@ -1,0 +1,14 @@
+{
+  "Mana and Regeneration": {
+    "index": 2,
+    "category": "basics",
+    "required_advancement": "mna:tier_0/vinteum_bar",
+    "sections": [
+      {"type": "title", "value": "Mana, Regeneration, and Casting Resources"},
+      {"type": "text", "json": [{"text": "When you perform several actions in the realms of magic, you will consume your "}, {"text": "casting resource", "color": "blue"}, {"text": ".\n\nYou start with "}, {"text": "mana", "color": "blue"}, {"text": ", but depending on faction choices your casting resource may change to something else such as "}, {"text": "souls", "color": "blue"}, {"text": ", "}, {"text": "brimstone", "color": "blue"}, {"text": ", "}, {"text": "summer fire", "color": "blue"}, {"text": ", or "}, {"text": "winter ice", "color": "blue"}, {"text": ". Each one of these casting resources works a little differently, and will be detailed under the respective faction's entry. For the rest of this entry, "}, {"text": "mana", "color": "blue"}, {"text": " will be the casting resource described.\n\nYour maximum mana is based on your magic level, and increases every time you level up. There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nYour mana regenerates in a set amount of time (120 seconds by default, this is configurable) regardless of your maximum. That means a boost to maximum mana will also boost regeneration. Mana regenerates slower if you are not at full saturation. Magic is hungry work after all! Having the shield effect will also slow your magic regeneration, as the effect interferes with your connection to the ambient Eldrin power in the air.\n\nYour mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."}]},
+      {"type": "text", "json": [{"text": "There are items, such as Mana Tea or Potions, that can help "}, {"text": "restore mana more quickly", "color": "blue"}, {"text": ". Potions restore instantly, while Mana Tea provides a regeneration buff. There may be other methods as well to regenerate mana more quickly."}]},
+      {"type": "text", "json": [{"text": "Mana potions", "color": "blue"}, {"text": " have five levels, they are: Minor, Light, Regular, Greater, Superior. Each level restores 20% of your maximum mana. Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."}]}
+    ],
+    "related_recipes": [{"type": "crafting", "location": "mna:clay_mug"}, {"type": "manaweaving_altar", "location": "mna:manaweaving/food/mana_coffee"}]
+  }
+}
