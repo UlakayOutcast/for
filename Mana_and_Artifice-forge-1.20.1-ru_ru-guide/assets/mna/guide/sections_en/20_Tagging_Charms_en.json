@@ -1,0 +1,14 @@
+{
+  "Tagging Charms": {
+    "index": 20,
+    "category": "rituals",
+    "required_advancement": "mna:tier_1/manaweaving_altar",
+    "sections": [
+      {"type": "title", "value": "Tagging Charms"},
+      {"type": "text", "json": [{"text": "Tagging charms are special items that allow me to mark and identify specific entities or objects in the world. They are very useful for organizing and keeping track of things.\n\nTo create a tagging charm, I need to use a manaweaving altar. The charm can be customized with different colors and labels to suit my needs.\n\nOnce created, I can apply the tagging charm to an entity or object by right-clicking on it with the charm in my hand. This will attach the charm to the target and allow me to identify it easily.\n\nTagging charms can be removed by right-clicking on the tagged entity or object with an empty hand. This will detach the charm and return it to my inventory."}]},
+      {"type": "title", "value": "Using Tagging Charms", "newPage": true},
+      {"type": "text", "json": [{"text": "Tagging charms can be used in a variety of ways. For example, I can use them to mark specific animals in a farm, or to identify different types of blocks in a large build.\n\nI can also use tagging charms to keep track of my own items. By tagging my tools, weapons, and other important items, I can easily find them in my inventory or on the ground.\n\nTagging charms are very versatile and can be used in many different situations to help me stay organized and efficient."}]}
+    ],
+    "related_recipes": []
+  }
+}
