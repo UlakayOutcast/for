@@ -1,0 +1,14 @@
+{
+  "Improvised Manaweaving Wands": {
+    "index": 15,
+    "category": "manaweaving",
+    "required_advancement": "mna:tier_0/vinteum_bar",
+    "sections": [
+      {"type": "title", "value": "Improvised Manaweaving Wands"},
+      {"type": "text", "json": [{"text": "Improvised manaweaving wands are a quick and easy way to cast spells without the need for a spell focus. They are created by combining a stick with a manaweave, and can be used to cast the spell that the manaweave represents.\n\nTo create an improvised manaweaving wand, I need to combine a stick with a manaweave in a crafting table. The manaweave will determine the spell that the wand will cast.\n\nI can also use other items instead of a stick, such as a bone or a blaze rod. Each different item will change the way the wand looks, but will not change the spell that it casts.\n\nImprovised manaweaving wands are very useful for quickly casting spells, and can be used in a variety of situations. However, they are not as powerful as spells cast with a spell focus, and can only be used a limited number of times before they break."}]},
+      {"type": "title", "value": "Using Improvised Wands", "newPage": true},
+      {"type": "text", "json": [{"text": "To use an improvised manaweaving wand, I simply right-click with it in my hand. This will cast the spell that the wand represents.\n\nI can also use the wand to cast the spell on a targeted location. I can do this by right-clicking on the location I want to cast the spell on.\n\nI can also use the wand to cast the spell on myself. I can do this by right-clicking while looking at myself.\n\nImprovised manaweaving wands are very easy to use, and can be used to quickly cast spells in a variety of situations."}]}
+    ],
+    "related_recipes": []
+  }
+}
