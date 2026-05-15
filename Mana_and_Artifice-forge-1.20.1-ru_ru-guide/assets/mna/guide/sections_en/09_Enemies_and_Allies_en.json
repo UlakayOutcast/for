@@ -1,0 +1,11 @@
+{
+  "Enemies and Allies": {
+    "index": 9,
+    "category": "basics",
+    "sections": [
+      {"type": "title", "value": "Enemies and Allies"},
+      {"type": "text", "json": [{"text": "There are at least four "}, {"text": "factions", "color": "blue"}, {"text": ", all at war with each other. Their troops are often encountered in the wild, but generally are passive to the factionless unless provoked.\n\nThe factions seem to deploy more powerful troops near where more powerful wizards exist.\n\n"}, {"text": "They will attack members of opposing factions", "color": "dark_purple"}, {"text": ", but usually leave the factionless alone."}]}
+    ],
+    "related_recipes": []
+  }
+}
