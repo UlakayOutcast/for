@@ -1,0 +1,12 @@
+{
+  "Practitioner's Pouch Patch: Depth": {
+    "index": 24,
+    "category": "rituals",
+    "required_advancement": "mna:tier_1/manaweaving_altar",
+    "sections": [
+      {"type": "title", "value": "Practitioner's Pouch Patch: Depth"},
+      {"type": "text", "json": [{"text": "The Depth Patch is an upgrade for the Practitioner's Pouch that enhances its capacity to store a larger variety of items, including those related to deep and complex magic. This patch is ideal for mages who work with intricate spells and need to carry a wide range of components.\n\nTo apply the Depth Patch, I need to combine it with a Practitioner's Pouch in a crafting table. Once applied, the patch will permanently enhance the pouch, allowing it to hold more items and providing additional slots for organization.\n\nThe Depth Patch also adds a unique visual design to the pouch, making it stand out from other pouches."}]}
+    ],
+    "related_recipes": []
+  }
+}
