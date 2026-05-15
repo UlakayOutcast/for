@@ -1,0 +1,12 @@
+{
+  "Practitioner's Pouch Patch: Void": {
+    "index": 23,
+    "category": "rituals",
+    "required_advancement": "mna:tier_1/manaweaving_altar",
+    "sections": [
+      {"type": "title", "value": "Practitioner's Pouch Patch: Void"},
+      {"type": "text", "json": [{"text": "The Void Patch is an upgrade for the Practitioner's Pouch that enhances its ability to store void-related items and components. This patch is particularly useful for mages who frequently work with void magic or need to store large quantities of void motes.\n\nTo apply the Void Patch, I need to combine it with a Practitioner's Pouch in a crafting table. Once applied, the patch will permanently enhance the pouch, allowing it to hold more void-related items and providing additional functionality.\n\nThe Void Patch also adds a unique visual effect to the pouch, making it easily identifiable among other pouches."}]}
+    ],
+    "related_recipes": []
+  }
+}
