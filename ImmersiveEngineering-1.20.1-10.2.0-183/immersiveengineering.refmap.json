@@ -1,0 +1,246 @@
+{
+  "mappings": {
+    "blusunrize/immersiveengineering/mixin/coremods/client/LevelRendererMixin": {
+      "renderLevel": "Lnet/minecraft/client/renderer/LevelRenderer;m_109599_(Lcom/mojang/blaze3d/vertex/PoseStack;FJZLnet/minecraft/client/Camera;Lnet/minecraft/client/renderer/GameRenderer;Lnet/minecraft/client/renderer/LightTexture;Lorg/joml/Matrix4f;)V",
+      "Lnet/minecraft/util/profiling/ProfilerFiller;popPush(Ljava/lang/String;)V": "Lnet/minecraft/util/profiling/ProfilerFiller;m_6182_(Ljava/lang/String;)V"
+    },
+    "blusunrize/immersiveengineering/mixin/coremods/client/BipedModelMixin": {
+      "setupAnim(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V": "Lnet/minecraft/client/model/HumanoidModel;m_6973_(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/PotionBrewingAccess": {
+      "POTION_MIXES": "f_43494_:Ljava/util/List;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/client/RenderChunkAccess": {
+      "beginLayer": "m_112805_(Lcom/mojang/blaze3d/vertex/BufferBuilder;)V"
+    },
+    "blusunrize/immersiveengineering/mixin/coremods/AbstractBlockStateMixin": {
+      "entityInside": "Lnet/minecraft/world/level/block/state/BlockBehaviour$BlockStateBase;m_60682_(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/Entity;)V"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/client/FontResourceManagerAccess": {
+      "fontSets": "f_94999_:Ljava/util/Map;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/FlowingFluidAccess": {
+      "canPassThroughWall": "m_76061_(Lnet/minecraft/core/Direction;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Z"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/client/CompiledChunkAccess": {
+      "hasBlocks": "f_112749_:Ljava/util/Set;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/client/MinecraftAccess": {
+      "fontManager": "f_91045_:Lnet/minecraft/client/gui/font/FontManager;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/ServerPlayNetHandlerAccess": {
+      "aboveGroundTickCount": "f_9737_:I",
+      "clientIsFloating": "f_9736_:Z"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/DamageSourcesAccess": {
+      "source": "m_268998_(Lnet/minecraft/resources/ResourceKey;Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/world/damagesource/DamageSource;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/ExplosionAccess": {
+      "addBlockDrops": "m_46067_(Lit/unimi/dsi/fastutil/objects/ObjectArrayList;Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/core/BlockPos;)V"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/TNTEntityAccess": {
+      "owner": "f_32072_:Lnet/minecraft/world/entity/LivingEntity;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/client/GuiSubtitleOverlayAccess": {
+      "subtitleOverlay": "f_92996_:Lnet/minecraft/client/gui/components/SubtitleOverlay;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/TemplatePoolAccess": {
+      "rawTemplates": "f_210559_:Ljava/util/List;",
+      "templates": "f_210560_:Lit/unimi/dsi/fastutil/objects/ObjectArrayList;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/client/ParticleManagerAccess": {
+      "makeParticle": "m_107395_(Lnet/minecraft/core/particles/ParticleOptions;DDDDDD)Lnet/minecraft/client/particle/Particle;"
+    },
+    "blusunrize/immersiveengineering/mixin/coremods/TemplateMixin": {
+      "fillFromWorld": "Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate;m_163802_(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Vec3i;ZLnet/minecraft/world/level/block/Block;)V",
+      "load": "Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate;m_246595_(Lnet/minecraft/core/HolderGetter;Lnet/minecraft/nbt/CompoundTag;)V",
+      "save": "Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate;m_74618_(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/nbt/CompoundTag;",
+      "placeInWorld": "Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate;m_230328_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructurePlaceSettings;Lnet/minecraft/util/RandomSource;I)Z"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/ContainerAccess": {
+      "remoteSlots": "f_150394_:Lnet/minecraft/core/NonNullList;",
+      "lastSlots": "f_38841_:Lnet/minecraft/core/NonNullList;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/TrimModelDataAccess": {
+      "itemModelIndex": "f_265849_:F",
+      "name": "f_265890_()Ljava/lang/String;",
+      "net.minecraft.data.models.ItemModelGenerators$TrimModelData": "net/minecraft/data/models/ItemModelGenerators$TrimModelData"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/client/RenderTypeAccess": {
+      "name": "f_110133_:Ljava/lang/String;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/FurnaceTEAccess": {
+      "dataAccess": "f_58311_:Lnet/minecraft/world/inventory/ContainerData;",
+      "quickCheck": "f_222691_:Lnet/minecraft/world/item/crafting/RecipeManager$CachedCheck;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/ItemModelGeneratorsAccess": {
+      "GENERATED_TRIM_MODELS": "f_265952_:Ljava/util/List;"
+    },
+    "blusunrize/immersiveengineering/mixin/coremods/ServerWorldMixin": {
+      "sendBlockUpdated": "Lnet/minecraft/server/level/ServerLevel;m_7260_(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/state/BlockState;I)V"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/client/PlayerControllerAccess": {
+      "destroyProgress": "f_105193_:F"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/CraftingContainerAccess": {
+      "items": "f_286951_:Lnet/minecraft/core/NonNullList;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/ConcretePowderBlockAccess": {
+      "concrete": "f_52058_:Lnet/minecraft/world/level/block/state/BlockState;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/CropBlockAccess": {
+      "getAgeProperty": "m_7959_()Lnet/minecraft/world/level/block/state/properties/IntegerProperty;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/client/MinecartRendererAccess": {
+      "model": "f_115401_:Lnet/minecraft/client/model/EntityModel;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/ItemEntityAccess": {
+      "age": "f_31985_:I"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/client/WorldRendererAccess": {
+      "renderHitOutline": "m_109637_(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;Lnet/minecraft/world/entity/Entity;DDDLnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)V"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/client/ChatComponentAccess": {
+      "refreshTrimmedMessage": "m_241120_()V",
+      "allMessages": "f_93760_:Ljava/util/List;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/TemplateAccess": {
+      "size": "f_74484_:Lnet/minecraft/core/Vec3i;",
+      "palettes": "f_74482_:Ljava/util/List;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/BETypeAccess": {
+      "validBlocks": "f_58915_:Ljava/util/Set;"
+    },
+    "blusunrize/immersiveengineering/mixin/accessors/HeroGiftsTaskAccess": {
+      "GIFTS": "f_147550_:Ljava/util/Map;"
+    },
+    "blusunrize/immersiveengineering/mixin/coremods/client/RebuildTaskMixin": {
+      "compile": "Lnet/minecraft/client/renderer/chunk/ChunkRenderDispatcher$RenderChunk$RebuildTask;m_234467_(FFFLnet/minecraft/client/renderer/ChunkBufferBuilderPack;)Lnet/minecraft/client/renderer/chunk/ChunkRenderDispatcher$RenderChunk$RebuildTask$CompileResults;",
+      "Lnet/minecraft/util/RandomSource;create()Lnet/minecraft/util/RandomSource;": "Lnet/minecraft/util/RandomSource;m_216327_()Lnet/minecraft/util/RandomSource;",
+      "net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$RenderChunk$RebuildTask": "net/minecraft/client/renderer/chunk/ChunkRenderDispatcher$RenderChunk$RebuildTask"
+    }
+  },
+  "data": {
+    "searge": {
+      "blusunrize/immersiveengineering/mixin/coremods/client/LevelRendererMixin": {
+        "renderLevel": "Lnet/minecraft/client/renderer/LevelRenderer;m_109599_(Lcom/mojang/blaze3d/vertex/PoseStack;FJZLnet/minecraft/client/Camera;Lnet/minecraft/client/renderer/GameRenderer;Lnet/minecraft/client/renderer/LightTexture;Lorg/joml/Matrix4f;)V",
+        "Lnet/minecraft/util/profiling/ProfilerFiller;popPush(Ljava/lang/String;)V": "Lnet/minecraft/util/profiling/ProfilerFiller;m_6182_(Ljava/lang/String;)V"
+      },
+      "blusunrize/immersiveengineering/mixin/coremods/client/BipedModelMixin": {
+        "setupAnim(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V": "Lnet/minecraft/client/model/HumanoidModel;m_6973_(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/PotionBrewingAccess": {
+        "POTION_MIXES": "f_43494_:Ljava/util/List;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/client/RenderChunkAccess": {
+        "beginLayer": "m_112805_(Lcom/mojang/blaze3d/vertex/BufferBuilder;)V"
+      },
+      "blusunrize/immersiveengineering/mixin/coremods/AbstractBlockStateMixin": {
+        "entityInside": "Lnet/minecraft/world/level/block/state/BlockBehaviour$BlockStateBase;m_60682_(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/Entity;)V"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/client/FontResourceManagerAccess": {
+        "fontSets": "f_94999_:Ljava/util/Map;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/FlowingFluidAccess": {
+        "canPassThroughWall": "m_76061_(Lnet/minecraft/core/Direction;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Z"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/client/CompiledChunkAccess": {
+        "hasBlocks": "f_112749_:Ljava/util/Set;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/client/MinecraftAccess": {
+        "fontManager": "f_91045_:Lnet/minecraft/client/gui/font/FontManager;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/ServerPlayNetHandlerAccess": {
+        "aboveGroundTickCount": "f_9737_:I",
+        "clientIsFloating": "f_9736_:Z"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/DamageSourcesAccess": {
+        "source": "m_268998_(Lnet/minecraft/resources/ResourceKey;Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/world/damagesource/DamageSource;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/ExplosionAccess": {
+        "addBlockDrops": "m_46067_(Lit/unimi/dsi/fastutil/objects/ObjectArrayList;Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/core/BlockPos;)V"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/TNTEntityAccess": {
+        "owner": "f_32072_:Lnet/minecraft/world/entity/LivingEntity;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/client/GuiSubtitleOverlayAccess": {
+        "subtitleOverlay": "f_92996_:Lnet/minecraft/client/gui/components/SubtitleOverlay;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/TemplatePoolAccess": {
+        "rawTemplates": "f_210559_:Ljava/util/List;",
+        "templates": "f_210560_:Lit/unimi/dsi/fastutil/objects/ObjectArrayList;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/client/ParticleManagerAccess": {
+        "makeParticle": "m_107395_(Lnet/minecraft/core/particles/ParticleOptions;DDDDDD)Lnet/minecraft/client/particle/Particle;"
+      },
+      "blusunrize/immersiveengineering/mixin/coremods/TemplateMixin": {
+        "fillFromWorld": "Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate;m_163802_(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Vec3i;ZLnet/minecraft/world/level/block/Block;)V",
+        "load": "Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate;m_246595_(Lnet/minecraft/core/HolderGetter;Lnet/minecraft/nbt/CompoundTag;)V",
+        "save": "Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate;m_74618_(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/nbt/CompoundTag;",
+        "placeInWorld": "Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate;m_230328_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructurePlaceSettings;Lnet/minecraft/util/RandomSource;I)Z"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/ContainerAccess": {
+        "remoteSlots": "f_150394_:Lnet/minecraft/core/NonNullList;",
+        "lastSlots": "f_38841_:Lnet/minecraft/core/NonNullList;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/TrimModelDataAccess": {
+        "itemModelIndex": "f_265849_:F",
+        "name": "f_265890_()Ljava/lang/String;",
+        "net.minecraft.data.models.ItemModelGenerators$TrimModelData": "net/minecraft/data/models/ItemModelGenerators$TrimModelData"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/client/RenderTypeAccess": {
+        "name": "f_110133_:Ljava/lang/String;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/FurnaceTEAccess": {
+        "dataAccess": "f_58311_:Lnet/minecraft/world/inventory/ContainerData;",
+        "quickCheck": "f_222691_:Lnet/minecraft/world/item/crafting/RecipeManager$CachedCheck;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/ItemModelGeneratorsAccess": {
+        "GENERATED_TRIM_MODELS": "f_265952_:Ljava/util/List;"
+      },
+      "blusunrize/immersiveengineering/mixin/coremods/ServerWorldMixin": {
+        "sendBlockUpdated": "Lnet/minecraft/server/level/ServerLevel;m_7260_(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/state/BlockState;I)V"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/client/PlayerControllerAccess": {
+        "destroyProgress": "f_105193_:F"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/CraftingContainerAccess": {
+        "items": "f_286951_:Lnet/minecraft/core/NonNullList;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/ConcretePowderBlockAccess": {
+        "concrete": "f_52058_:Lnet/minecraft/world/level/block/state/BlockState;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/CropBlockAccess": {
+        "getAgeProperty": "m_7959_()Lnet/minecraft/world/level/block/state/properties/IntegerProperty;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/client/MinecartRendererAccess": {
+        "model": "f_115401_:Lnet/minecraft/client/model/EntityModel;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/ItemEntityAccess": {
+        "age": "f_31985_:I"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/client/WorldRendererAccess": {
+        "renderHitOutline": "m_109637_(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;Lnet/minecraft/world/entity/Entity;DDDLnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)V"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/client/ChatComponentAccess": {
+        "refreshTrimmedMessage": "m_241120_()V",
+        "allMessages": "f_93760_:Ljava/util/List;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/TemplateAccess": {
+        "size": "f_74484_:Lnet/minecraft/core/Vec3i;",
+        "palettes": "f_74482_:Ljava/util/List;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/BETypeAccess": {
+        "validBlocks": "f_58915_:Ljava/util/Set;"
+      },
+      "blusunrize/immersiveengineering/mixin/accessors/HeroGiftsTaskAccess": {
+        "GIFTS": "f_147550_:Ljava/util/Map;"
+      },
+      "blusunrize/immersiveengineering/mixin/coremods/client/RebuildTaskMixin": {
+        "compile": "Lnet/minecraft/client/renderer/chunk/ChunkRenderDispatcher$RenderChunk$RebuildTask;m_234467_(FFFLnet/minecraft/client/renderer/ChunkBufferBuilderPack;)Lnet/minecraft/client/renderer/chunk/ChunkRenderDispatcher$RenderChunk$RebuildTask$CompileResults;",
+        "Lnet/minecraft/util/RandomSource;create()Lnet/minecraft/util/RandomSource;": "Lnet/minecraft/util/RandomSource;m_216327_()Lnet/minecraft/util/RandomSource;",
+        "net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$RenderChunk$RebuildTask": "net/minecraft/client/renderer/chunk/ChunkRenderDispatcher$RenderChunk$RebuildTask"
+      }
+    }
+  }
+}
